@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erkan's News Digest</title>
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
-  <link rel="self" href="https://halitsezgin.github.io/news-feed/feed.xml"/>
-  <id>tag:halitsezgin.github.io,2026:news-feed</id>
+  <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+  <id>tag:mhsezgin.github.io,2026:news-feed</id>
   <updated>2026-05-03T00:00:00Z</updated>
 </feed>

@@ -4,8 +4,7 @@ Personal news digest. A scheduled Claude agent runs twice daily, pulls items on 
 `topics.yaml`, filters by `preferences.md`, and regenerates `feed.xml` — which is served by
 GitHub Pages and read in Inoreader on Android.
 
-**Subscribe URL:** `https://halitsezgin.github.io/news-feed/feed.xml`
-*(replace with your actual GitHub username if different)*
+**Subscribe URL:** `https://mhsezgin.github.io/news-feed/feed.xml`
 
 ## Files
 
