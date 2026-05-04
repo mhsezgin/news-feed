@@ -1,1 +1,76 @@
-{"items": []}
+{
+  "items": [
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:190ad3994703df46c59aeb7ce5f5b75963de7871",
+      "url": "https://www.scotusblog.com/2026/05/abortion-pill-dispute-returns-to-supreme-court/",
+      "title_hash": "4f67002a77b6027654f8cfbd850091b6d6b1bbd9",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:02965c979dbc352641111acd1492bb7168d60344",
+      "url": "https://www.scotusblog.com/2026/04/court-decides-major-voting-rights-act-case/",
+      "title_hash": "d5fe49a02314f7d3c61fe848787a4478ede6b82b",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:9a5a5c7b19807e05e348f3834a7439e554db4f3c",
+      "url": "https://www.scotusblog.com/2026/05/state-and-federal-courts-jockey-for-power-in-the-roundup-case-and-other-mass-public-harms/",
+      "title_hash": "d08df230d2f6c452fbbacc426a97616445c205b4",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ab5b9876bbc58480da48af1905f51361055ba4a9",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "title_hash": "a30656c04125503e921bfab166478aed03568e11",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:814f8d51f6030bf86dc9b6dc8e5c3cce8a19cbb2",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "title_hash": "2a7f9140abac5a91a227ebf9880dffc4990f17f6",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b52a4acc5ddb1ffc59ac41a7676d05d572c60ea6",
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "title_hash": "a6fb151d5a823106cc1046ee49c24afeadc66a1f",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e991aace1d26a7991056d849e9a8a9e67f3893a2",
+      "url": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+      "title_hash": "e1a081d4c33e2ffa8df5455f93ad4f1e73fd6f9d",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2fd9520f97b109170f1772b3c4d8ee2e8873b0c2",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o",
+      "title_hash": "bcd6ba0d36d6c81a3c2ff3be77f4728286db1557",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8e25b270b3e9a14d6e777a18ec8ae2a99c4602d6",
+      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o",
+      "title_hash": "83833a3949e8eb8c9f0c8092572c8a3c7188cf40",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e5c4938360ea06e722f2a6cfb8dc9c9eccb5cdeb",
+      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo",
+      "title_hash": "5311d8e882b8ce8d9538f81f9e47b454ebf2a807",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:85c88209ba7c3a610d492795146ab40a856a0165",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "title_hash": "86289c12c691b0c80ee2a0e1e46a596c467d45f3",
+      "ts": "2026-05-04T01:34:41Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f054080d812a395598653d3b886d88af3a895c69",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "title_hash": "df64a99dea189254515607697eabccb82817e868",
+      "ts": "2026-05-04T01:34:41Z"
+    }
+  ]
+}
