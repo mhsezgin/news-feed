@@ -4,7 +4,144 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml"/>
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-04T01:34:41Z</updated>
+  <updated>2026-05-04T12:10:00Z</updated>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:cf7d392e3fff3ae6b07e19bee66a59a68d43ae1a</id>
+    <title>In major Voting Rights Act case, Supreme Court strikes down redistricting map challenged as racially gerrymandered</title>
+    <link href="https://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>The Supreme Court struck down Louisiana's second majority-Black congressional district in a 6-3 decision that substantially raises the evidentiary bar plaintiffs must clear to prove voting-rights violations under Section 2 of the Voting Rights Act.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>The Supreme Court struck down Louisiana's second majority-Black congressional district in a 6-3 decision that substantially raises the evidentiary bar plaintiffs must clear to prove voting-rights violations under Section 2 of the Voting Rights Act.</strong></p>
+      <p>The case, <em>Louisiana v. Callais</em>, centered on a 2024 congressional map that created a second majority-Black district in a state where Black voters make up roughly one-third of the population. Writing for the six-justice majority, Justice Samuel Alito held that challengers must now provide "illustrative maps" showing any proposed majority-minority district fully achieves all of a state's legitimate goals—including protecting incumbent representatives like Speaker Mike Johnson and Representative Julia Letlow. The Court also required that racial bloc-voting analyses control for partisan affiliation, a demand critics say is nearly impossible to satisfy in a state where race and party correlate closely. The new map had allowed former Representative Cleo Fields to win election, but under the majority's revised <em>Gingles</em> framework, Black voters failed to prove their Section 2 claim because they did not submit an illustrative map preserving those Republican incumbents. Justices Thomas and Gorsuch concurred separately, with Thomas arguing Section 2 should not regulate redistricting at all.</p>
+      <p><strong>Why it matters:</strong> Writing in dissent—and reading it aloud from the bench as a signal of deep disagreement—Justice Elena Kagan warned that Section 2 is now "all but a dead letter." The majority's requirements effectively reverse the 1982 congressional amendment to the VRA, which Congress enacted specifically to override a Supreme Court decision that required proof of intentional discrimination; the new standard returns plaintiffs to that near-impossible burden. States pursuing partisan gerrymanders can now assert race-neutral justifications with minimal evidentiary risk, because any valid partisan rationale defeats a Section 2 claim if challengers cannot produce a map satisfying every legitimate state goal. Louisiana's primary is scheduled for May 16, 2026, forcing the legislature to redraw the map under an extremely compressed timeline. The ruling will immediately affect redistricting challenges pending in at least seven other states, and it sets the framework for the next full cycle of congressional line-drawing after the 2030 census.</p>
+      <p><a href="https://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/">Read original →</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:362038b389d577b69212945c1598eb43a89da50d</id>
+    <title>Justices appear mixed on whether geofence warrant violated the Fourth Amendment</title>
+    <link href="https://www.scotusblog.com/2026/04/justices-appear-mixed-on-whether-geofence-warrant-violated-the-fourth-amendment-/"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>The Supreme Court heard oral argument in Chatrie v. United States over whether a Google geofence warrant that swept up location data on all mobile devices within 150 meters of a 2019 Virginia bank robbery violated the Fourth Amendment's prohibition on unreasonable searches.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/04/justices-appear-mixed-on-whether-geofence-warrant-violated-the-fourth-amendment-/"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>The Supreme Court heard oral argument in Chatrie v. United States over whether a Google geofence warrant that swept up location data on all mobile devices within 150 meters of a 2019 Virginia bank robbery violated the Fourth Amendment's prohibition on unreasonable searches.</strong></p>
+      <p>In 2019, police investigating an armed robbery of a Richmond-area federal credit union obtained a geofence warrant directing Google to disclose identifiers for all devices present in the defined area during a 30-minute window. Google responded in three stages—first providing 19 anonymized account identifiers, then expanding to nine accounts, then revealing three identities including Okello Chatrie—whose residences were searched, yielding nearly $100,000 in stolen cash, a firearm, and demand notes. Chatrie pleaded guilty while preserving his Fourth Amendment challenge. The district court found the warrant lacked probable cause and particularity but admitted the evidence under the good-faith exception. At oral argument, conservative justices focused on the voluntary-disclosure doctrine: Chief Justice Roberts emphasized Chatrie could have disabled location services, while Justice Alito stressed he "voluntarily handed" his data to Google through an account he actively used. Justice Barrett added that Chatrie was simply in a public location for a few hours, where no one has a reasonable expectation of privacy.</p>
+      <p><strong>Why it matters:</strong> The case turns on whether the third-party doctrine—established decades before smartphones existed—should apply when the "third party" is a cloud service storing not just location but also emails, photos, documents, and calendars. Justice Gorsuch warned that a ruling for the government could authorize warrantless access to essentially all personal digital data held by cloud providers, a scope far exceeding any prior application of the third-party doctrine. Justice Sotomayor noted that trial findings showed Chatrie had not meaningfully consented, because disabling Google location tracking requires navigating multiple non-obvious steps that most users never take. If the Court rules for the government, geofence warrants will face no Fourth Amendment scrutiny—Google receives approximately 20,000 to 30,000 such requests annually in the United States alone. A ruling for Chatrie would require police to demonstrate individualized probable cause before obtaining any location records from tech companies, fundamentally restructuring law-enforcement access to commercial location databases. Justice Alito noted that even a pro-Chatrie ruling may have limited practical impact here because the good-faith exception would still allow admission of the evidence, making the constitutional holding largely prospective.</p>
+      <p><a href="https://www.scotusblog.com/2026/04/justices-appear-mixed-on-whether-geofence-warrant-violated-the-fourth-amendment-/">Read original →</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:6659803055f395cba92ce672f3767a9b7061d0bc</id>
+    <title>Introducing GPT-5.5</title>
+    <link href="https://openai.com/index/introducing-gpt-5-5/"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>openai.com</name></author>
+    <summary>OpenAI released GPT-5.5 on April 23, 2026, its most capable agentic model yet, which processes text, images, audio, and video in a single unified architecture and outperforms previous-generation models on autonomous computer-use benchmarks by wide margins.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://openai.com/index/introducing-gpt-5-5/"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>OpenAI released GPT-5.5 on April 23, 2026, its most capable agentic model yet, which processes text, images, audio, and video in a single unified architecture and outperforms previous-generation models on autonomous computer-use benchmarks by wide margins.</strong></p>
+      <p>GPT-5.5 is designed for long-horizon tasks requiring planning, tool use, and multi-step execution without human checkpoints. The model achieves 84.9 percent on GDPval—a benchmark measuring agent performance across 44 occupations involving knowledge work—78.7 percent on OSWorld-Verified (operating real computer environments autonomously), and 82.7 percent on Terminal-Bench 2.0, more than 13 percentage points ahead of Claude Opus 4.7 at 69.4 percent. On Tau2-bench Telecom, simulating complex customer-service workflows, it reaches 98.0 percent without any prompt tuning. The model is also more token-efficient than GPT-5.4, delivering better results with fewer tokens for most tasks despite a higher per-token list price. GPT-5.5 and a Pro variant became available in the OpenAI API on April 24, 2026, alongside access through ChatGPT.</p>
+      <p><strong>Why it matters:</strong> OSWorld-Verified and Terminal-Bench measure whether a model can complete real unsupervised computer tasks—not academic benchmarks—making a near-80-percent success rate on real desktop environments a qualitative signal that frontier agentic AI is moving from demonstration into deployment at scale. OpenAI has surpassed $25 billion in annualized revenue and is reportedly taking early steps toward a public listing as soon as late 2026, meaning model capability is now directly tied to capital markets in a way that sustains continuous competitive pressure on every other frontier lab. The efficiency improvements also shift the economics of AI deployment: the same work requires fewer API calls, which lowers marginal costs and pushes rivals including Anthropic—approaching $19 billion in annualized revenue—to accelerate their own release cadence. GPT-5.5's state-of-the-art coding performance on Terminal-Bench directly targets the developer-tooling market where Anthropic's Claude Code is the current leader, making this release as much a competitive strike as a technical one.</p>
+      <p><a href="https://openai.com/index/introducing-gpt-5-5/">Read original →</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:5655176a10ef01ac1640a7b77312fbbbae45e749</id>
+    <title>Senate Judiciary advances bill that would bar minors from interacting with AI companions</title>
+    <link href="https://therecord.media/senate-judiciary-advances-bill-barring-children-ai-chatbots"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>The Senate Judiciary Committee advanced the GUARD Act by a unanimous bipartisan vote on May 1, 2026, a bill sponsored by Senator Josh Hawley that would prohibit AI companies from allowing minors to use AI companions and require ongoing biometric or financial-data verification for each user session.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/senate-judiciary-advances-bill-barring-children-ai-chatbots"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>The Senate Judiciary Committee advanced the GUARD Act by a unanimous bipartisan vote on May 1, 2026, a bill sponsored by Senator Josh Hawley that would prohibit AI companies from allowing minors to use AI companions and require ongoing biometric or financial-data verification for each user session.</strong></p>
+      <p>The GUARD Act (Growing Up Anonymous and Responsibly in the Digital era) broadly defines "AI companions" as any system providing non-predetermined conversational responses—a definition civil liberties groups warn could sweep in search engines, tutoring platforms, and general-purpose chatbots. The bill would require "reasonable age verification" before initial access and then recurring verification using government-issued ID, biometric data, or financial information for each subsequent interaction, creating persistent identity logs of minors' digital activity. Companies that fail to comply face fines of up to $100,000 per violation; criminal penalties attach when AI companions solicit or generate sexual content involving minors. The bill's unanimous committee passage—rare for any tech-regulation measure—reflects bipartisan agreement on the genuine risks after documented cases of minors forming intense parasocial bonds with AI systems and, in several high-profile incidents, engaging in self-harm following AI interactions. The bill now advances to a full Senate floor vote.</p>
+      <p><strong>Why it matters:</strong> The GUARD Act is the most significant piece of federal AI regulation to advance through committee since earlier children's online safety bills stalled over First Amendment objections, and because it targets the specific interaction model of AI companions rather than AI broadly, it is somewhat less vulnerable to overbreadth challenges. However, the Electronic Frontier Foundation warns that companies facing $100,000-per-violation liability will block minors entirely from any conversational AI feature rather than invest in verification infrastructure, producing a sweeping de facto ban on AI tools for teenagers including legitimate educational applications. Compliance costs disproportionately favor large incumbents—OpenAI, Anthropic, Google—who can absorb verification overhead, while startups and open-source developers face existential compliance burdens. The per-session biometric verification requirement may also conflict with COPPA, which limits what information can be collected from children under 13, and with several state biometric privacy laws including Illinois's BIPA. If enacted, the GUARD Act would be the first U.S. federal statute imposing affirmative safety duties on AI systems, establishing a precedent that could expand to other AI use cases.</p>
+      <p><a href="https://therecord.media/senate-judiciary-advances-bill-barring-children-ai-chatbots">Read original →</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:e94b9d8989fdbdf23ede26087a3d673688de77d1</id>
+    <title>Trump says he doesn't need congressional authorization for Iran operations, citing ceasefire</title>
+    <link href="https://www.nbcnews.com/politics/white-house/trump-congressional-authorization-iran-military-operation-war-powers-rcna343094"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>nbcnews.com</name></author>
+    <summary>President Trump told Congress on May 1 that U.S. military operations against Iran have "terminated" because of a ceasefire, invoking that argument to bypass the 60-day congressional-authorization requirement under the 1973 War Powers Resolution as the deadline arrived.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.nbcnews.com/politics/white-house/trump-congressional-authorization-iran-military-operation-war-powers-rcna343094"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>President Trump told Congress on May 1 that U.S. military operations against Iran have "terminated" because of a ceasefire, invoking that argument to bypass the 60-day congressional-authorization requirement under the 1973 War Powers Resolution as the deadline arrived.</strong></p>
+      <p>U.S. and Israeli strikes on Iran began February 28, 2026, and the Trump administration notified Congress on March 2, starting the War Powers Resolution's 60-day clock. That deadline fell May 1, the same day Trump sent a letter claiming hostilities "have terminated" since imposing a two-week ceasefire on April 7 that has since been extended. Trump additionally argued that seeking authorization would itself be "unconstitutional" and that no previous president has ever sought it—an historically contested claim, since Presidents George H.W. Bush and George W. Bush both obtained congressional authorization for their major Middle Eastern operations. Speaker Mike Johnson backed Trump, arguing that without "active, kinetic military bombing," no authorization is needed. The United States nonetheless continues to enforce a naval blockade of Iranian ports, and Iran maintains partial control over the Strait of Hormuz, through which roughly 20 percent of global oil and gas exports transit.</p>
+      <p><strong>Why it matters:</strong> Constitutional law scholars are near-unanimous that Trump's ceasefire argument is a stretch: Tufts University's Michael Glennon and Columbia's Matt Waxman both concluded that enforcing a naval blockade through warships constitutes ongoing "hostilities" under the statute's plain meaning, and that the 60-day clock has not stopped. If Trump's position is accepted—whether by Congress's silence or by courts declining to rule—it creates a permanent workaround: presidents can launch strikes, declare a ceasefire before 60 days, and then indefinitely continue military pressure through blockades while claiming no authorization is needed. House Democrats are vowing a series of War Powers resolution floor votes to force Republicans on record, a strategy that has electoral implications given the Iran conflict's declining popularity. Any resumption of kinetic strikes—which Trump has threatened if Iran rejects his terms—would restart the clock and make the authorization question legally unavoidable, potentially triggering the first real judicial test of the War Powers Resolution since its enactment in 1973.</p>
+      <p><a href="https://www.nbcnews.com/politics/white-house/trump-congressional-authorization-iran-military-operation-war-powers-rcna343094">Read original →</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:d64074c6ca4cdb8c900080cbfc594344d8539423</id>
+    <title>Iran submits a 14-point response to a U.S. proposal to end war</title>
+    <link href="https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>npr.org</name></author>
+    <summary>Iran submitted a 14-point peace proposal on May 2, 2026, calling for full war resolution within 30 days, reparations, sanctions relief, withdrawal of U.S. forces, and a guaranteed right to uranium enrichment—conditions Trump quickly rejected, saying Iran has "not yet paid a big enough price."</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>Iran submitted a 14-point peace proposal on May 2, 2026, calling for full war resolution within 30 days, reparations, sanctions relief, withdrawal of U.S. forces, and a guaranteed right to uranium enrichment—conditions Trump quickly rejected, saying Iran has "not yet paid a big enough price."</strong></p>
+      <p>The proposal was transmitted through Pakistani diplomatic channels and reported by Iranian state media outlets Tasnim and Press TV; NPR has not independently verified its full contents. Iran's demands include guarantees against future military aggression, withdrawal of U.S. forces from Iran's periphery, an end to the current naval blockade, release of frozen Iranian assets estimated at tens of billions of dollars, war reparations, an end to hostilities in Lebanon where Iran-backed Hezbollah continues fighting Israel, a new legal mechanism governing the Strait of Hormuz (through which roughly 20 percent of global oil and gas transits), and a guaranteed right to uranium enrichment under the Nuclear Non-Proliferation Treaty—with nuclear-program details deferred to a separate post-deal negotiation phase. The earlier U.S. 15-point framework had required complete reopening of the Strait and termination of Iran's nuclear program as preconditions for ending the war, not subjects to defer. The conflict began with U.S. and Israeli strikes on February 28, 2026; a ceasefire took effect April 8 but the naval blockade remains in force.</p>
+      <p><strong>Why it matters:</strong> The sequencing disagreement over the nuclear program is the central and probably fatal obstacle: Washington views nuclear restrictions as the irreducible precondition for any deal, while Tehran insists the blockade must lift before nuclear talks can even begin—analyst Paul Musgrave calls this an "impossible" demand because it asks the U.S. to surrender its primary economic lever before receiving the security commitment it sought the war to achieve. Trita Parsi has noted that oil prices are now higher during the ceasefire than during the active war because the blockade constrains supply more reliably than the strikes did, meaning Iran's economic pain is intensifying even as negotiations stall, potentially strengthening hardliners in Tehran who argue the deal on offer is not worth accepting. Trump's threat to resume military strikes if Iran does not accept his terms creates a hard deadline, and any renewal of kinetic operations would likely produce a significant further oil price spike with global recession implications. The Strait of Hormuz transit situation is the immediate tripwire: analysts in Washington and Tehran are monitoring it daily, and any incident there—accidental or deliberate—could trigger rapid re-escalation regardless of where diplomatic talks stand.</p>
+      <p><a href="https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal">Read original →</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:788cc79f6ed23a0151375f6418efac56fe023a8f</id>
+    <title>British cyber agency warns of looming 'patch wave' as AI speeds flaw discovery</title>
+    <link href="https://therecord.media/british-cyber-ai-patch-wave"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>Britain's National Cyber Security Centre warned on May 1, 2026, that AI tools are dramatically accelerating software vulnerability discovery and organizations must prepare for an unprecedented surge of urgent security patches as decades of accumulated insecure code is exposed at machine speed.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/british-cyber-ai-patch-wave"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>Britain's National Cyber Security Centre warned on May 1, 2026, that AI tools are dramatically accelerating software vulnerability discovery and organizations must prepare for an unprecedented surge of urgent security patches as decades of accumulated insecure code is exposed at machine speed.</strong></p>
+      <p>NCSC Chief Technology Officer Ollie Whitehouse explained that AI use "by sufficiently skilled and knowledgeable individuals" has already compressed the timeline from vulnerability identification to exploitation, and the agency expects this acceleration to produce disclosure surges affecting the entire software stack—from operating systems and network appliances to enterprise applications and cloud services. The core problem is what Whitehouse called "technical debt": decades of insecure or outdated code embedded across digital infrastructure that was never patched simply because it was never discovered by human-pace security research. AI-assisted vulnerability research now exposes this debt far faster than manual auditing ever could, with previously years-long discovery timelines collapsing to days or weeks. The NCSC urged organizations to prioritize internet-facing systems, adopt automated update processes, prepare for more frequent patching cycles, and acknowledge that some legacy technologies may become completely unviable when the patch wave arrives. The agency noted the UK is already experiencing record serious cyber incidents, with "nationally significant attacks occurring multiple times each week," the majority driven by hostile foreign states.</p>
+      <p><strong>Why it matters:</strong> If AI systematically reduces the window between vulnerability discovery and exploitation, the 30- to 90-day patch windows that many critical-infrastructure compliance frameworks currently allow will become legally indefensible—CISA in the United States has already moved to require federal agencies to patch critical flaws within 15 days, and the NCSC warning suggests that timeline may need to shrink further for internet-facing systems. The commercial liability landscape will also shift: if a vulnerability is discoverable by commodity AI tools, courts and regulators may view a failure to patch within days rather than weeks as actionable negligence, raising the stakes for every software vendor's secure development life cycle. Organizations with extensive legacy infrastructure—manufacturing, healthcare, and utilities—face the highest exposure because they typically cannot apply patches without costly downtime, and some hardware is simply incapable of receiving patches at all, meaning AI-accelerated discovery could render entire categories of operational technology unsecurable. The warning also implies that the asymmetry traditionally favoring defenders—who need to patch everything while attackers need only find one flaw—will worsen considerably as AI democratizes offensive vulnerability research.</p>
+      <p><a href="https://therecord.media/british-cyber-ai-patch-wave">Read original →</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:d704696f5856ddffc1eb11948beaace7d5e73063</id>
+    <title>What the EU's First Digital Markets Act Review Actually Changes</title>
+    <link href="https://www.techpolicy.press/what-the-eus-first-digital-markets-act-review-actually-changes/"/>
+    <updated>2026-05-04T12:10:00Z</updated>
+    <author><name>techpolicy.press</name></author>
+    <summary>The European Commission published its first mandatory Digital Markets Act review on April 28, 2026, finding the law has made digital markets measurably fairer but declining to expand its scope to AI services or social-media interoperability, while opening separate market investigations into Microsoft Azure and Amazon Web Services for potential cloud-gatekeeper designation.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.techpolicy.press/what-the-eus-first-digital-markets-act-review-actually-changes/"><strong>📰 Read full article →</strong></a></p>
+      <p><strong>The European Commission published its first mandatory Digital Markets Act review on April 28, 2026, finding the law has made digital markets measurably fairer but declining to expand its scope to AI services or social-media interoperability, while opening separate market investigations into Microsoft Azure and Amazon Web Services for potential cloud-gatekeeper designation.</strong></p>
+      <p>Under Article 53, the Commission was required to review the DMA by May 3, 2026, and produced a 178-page report finding "a tangible positive impact" within two years: alternative browsers gained users through mandated choice screens, business users gained more data-access rights, and the designation of six gatekeepers—Alphabet, Amazon, Apple, ByteDance, Meta, and Microsoft—created enforceable obligations that would not exist under general competition law. However, the review rejected three major expansion proposals: AI services will not be added as a separate core platform service category at this time, social-media interoperability rules under Article 7 will not extend to platforms like Facebook and Instagram, and cloud computing designations remain pending separate market investigations due by November 2026. The Commission acknowledged that alternative app stores on iOS and Android continue to face "significant technical and contractual barriers" in practice and that advertisers still struggle to obtain "sufficiently granular data" despite having formal access rights—admissions that undercut its claim of effective enforcement. Critics noted the review is conspicuously silent on reported U.S. diplomatic pressure to weaken DMA enforcement against American tech companies.</p>
+      <p><strong>Why it matters:</strong> The decision not to designate AI services under the DMA has immediate competitive consequences: without gatekeeper status, large foundation-model providers like OpenAI (now at $25 billion in annualized revenue) and Google DeepMind face no DMA interoperability or data-access obligations, even as they become critical infrastructure for European businesses and public institutions. The European Parliament has publicly criticized the Commission for "modest fines" on Meta and Apple and for stalling non-compliance proceedings—a political tension that will intensify as the AI Act's general-purpose AI provisions begin applying in full later in 2026, creating overlapping enforcement questions between the AI Office and DMA regulators. The cloud investigation timeline is the most consequential near-term development: a gatekeeper designation of Azure or AWS would impose DMA-level interoperability obligations on the two dominant cloud providers, fundamentally reshaping the economics of European cloud infrastructure and creating switching rights for the millions of businesses locked into these platforms. The combination of the DMA review, the EU AI Act enforcement ramp-up, and elevated U.S.-EU tech policy tensions makes the next 18 months the most consequential period for digital regulation since the GDPR came into force in 2018.</p>
+      <p><a href="https://www.techpolicy.press/what-the-eus-first-digital-markets-act-review-actually-changes/">Read original →</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:190ad3994703df46c59aeb7ce5f5b75963de7871</id>
     <title>Abortion pill dispute returns to Supreme Court</title>
@@ -12,14 +149,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>scotusblog.com</name></author>
     <summary>Danco Laboratories has asked the Supreme Court for emergency relief after a lower court limited mail-order access to mifepristone, the most commonly used abortion medication in the US.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.scotusblog.com/2026/05/abortion-pill-dispute-returns-to-supreme-court/"><strong>📰 Read full article →</strong></a></p>
       <p><strong>Danco Laboratories has asked the Supreme Court for emergency relief after a lower court limited mail-order access to mifepristone, the most commonly used abortion medication in the US.</strong></p>
       <p>The application puts the Court at the center of post-<em>Dobbs</em> abortion access litigation once again, with major implications for the FDA's authority to regulate drug distribution and for the broader landscape of reproductive rights under federal law.</p>
       <p><a href="https://www.scotusblog.com/2026/05/abortion-pill-dispute-returns-to-supreme-court/">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:02965c979dbc352641111acd1492bb7168d60344</id>
     <title>Court decides major Voting Rights Act case</title>
@@ -27,14 +165,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>scotusblog.com</name></author>
     <summary>The Supreme Court issued its long-awaited ruling on the Louisiana congressional map, deciding a significant Voting Rights Act case that could reshape how courts evaluate racial gerrymandering claims.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.scotusblog.com/2026/04/court-decides-major-voting-rights-act-case/"><strong>📰 Read full article →</strong></a></p>
       <p><strong>The Supreme Court issued its long-awaited ruling on the Louisiana congressional map, deciding a significant Voting Rights Act case that could reshape how courts evaluate racial gerrymandering claims.</strong></p>
       <p>The decision carries structural consequences for congressional representation in majority-minority districts and sets precedent for redistricting litigation across the country.</p>
       <p><a href="https://www.scotusblog.com/2026/04/court-decides-major-voting-rights-act-case/">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:9a5a5c7b19807e05e348f3834a7439e554db4f3c</id>
     <title>State and federal courts jockey for power in the Roundup case and other mass public harms</title>
@@ -42,14 +181,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>scotusblog.com</name></author>
     <summary>SCOTUSblog's analysis examines the ongoing jurisdictional tug-of-war between state and federal courts in mass-tort litigation, using the Roundup/glyphosate cases as a lens.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.scotusblog.com/2026/05/state-and-federal-courts-jockey-for-power-in-the-roundup-case-and-other-mass-public-harms/"><strong>📰 Read full article →</strong></a></p>
       <p><strong>SCOTUSblog's analysis examines the ongoing jurisdictional tug-of-war between state and federal courts in mass-tort litigation, using the Roundup/glyphosate cases as a lens.</strong></p>
       <p>The piece explains how preemption doctrine and removal jurisdiction interact to determine which forum controls high-stakes public-harm lawsuits, with implications for future environmental and product-liability class actions.</p>
       <p><a href="https://www.scotusblog.com/2026/05/state-and-federal-courts-jockey-for-power-in-the-roundup-case-and-other-mass-public-harms/">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ab5b9876bbc58480da48af1905f51361055ba4a9</id>
     <title>Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic</title>
@@ -57,29 +197,31 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>theverge.com</name></author>
     <summary>The Department of Defense signed classified-network AI agreements with OpenAI, Google, Microsoft, Amazon, Nvidia, xAI, and newcomer Reflection AI, while deliberately excluding Anthropic after designating it a supply-chain risk.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"><strong>📰 Read full article →</strong></a></p>
       <p><strong>The Department of Defense signed classified-network AI agreements with OpenAI, Google, Microsoft, Amazon, Nvidia, xAI, and newcomer Reflection AI, while deliberately excluding Anthropic after designating it a supply-chain risk.</strong></p>
       <p>The move signals a significant shift in US government AI procurement and raises questions about how national-security considerations will shape the competitive dynamics among frontier AI labs.</p>
       <p><a href="https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="tech_law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:814f8d51f6030bf86dc9b6dc8e5c3cce8a19cbb2</id>
     <title>All the evidence revealed so far in Musk v. Altman</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial"/>
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>theverge.com</name></author>
-    <summary>As the Musk v.</summary>
-    <content type="html">
+    <summary>As the Musk v. Altman trial proceeds, disclosed exhibits reveal email chains and corporate documents from OpenAI's founding era, showing Musk's central role in drafting the organization's mission and his early influence over its governance structure.</summary>
+    <content type="html"><![CDATA[
       <p><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial"><strong>📰 Read full article →</strong></a></p>
-      <p><strong>As the Musk v.</strong></p>
-      <p>Altman trial proceeds, disclosed exhibits reveal email chains and corporate documents from OpenAI's founding era, including Musk's central role in drafting the organization's mission and his early influence over its governance structure. The evidence is directly relevant to Musk's legal claim that OpenAI violated its nonprofit charter, and the documents are reshaping public understanding of how the world's most influential AI lab was actually built.</p>
+      <p><strong>As the Musk v. Altman trial proceeds, disclosed exhibits reveal email chains and corporate documents from OpenAI's founding era, showing Musk's central role in drafting the organization's mission and his early influence over its governance structure.</strong></p>
+      <p>The evidence is directly relevant to Musk's legal claim that OpenAI violated its nonprofit charter, and the documents are reshaping public understanding of how the world's most influential AI lab was actually built.</p>
       <p><a href="https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="tech_law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:b52a4acc5ddb1ffc59ac41a7676d05d572c60ea6</id>
     <title>Meta's historic loss in court could cost a lot more than $375 million</title>
@@ -87,14 +229,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>theverge.com</name></author>
     <summary>Following a $375 million jury verdict against Meta, New Mexico is now in a three-week public nuisance trial seeking court-ordered structural changes to Facebook, Instagram, and WhatsApp — including mandatory age verification, encryption limits for minors, and a 90-minute daily cap.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety"><strong>📰 Read full article →</strong></a></p>
       <p><strong>Following a $375 million jury verdict against Meta, New Mexico is now in a three-week public nuisance trial seeking court-ordered structural changes to Facebook, Instagram, and WhatsApp — including mandatory age verification, encryption limits for minors, and a 90-minute daily cap.</strong></p>
       <p>The remedies phase could set a template for state-level social-media regulation and force operational changes that federal inaction has not.</p>
       <p><a href="https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="tech_law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:e991aace1d26a7991056d849e9a8a9e67f3893a2</id>
     <title>Congress keeps kicking surveillance reform down the road</title>
@@ -102,14 +245,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>theverge.com</name></author>
     <summary>Congress has extended Section 702 of FISA for just 45 days rather than enacting substantive reform, continuing a pattern of short-term reauthorizations that have stalled meaningful privacy safeguards.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension"><strong>📰 Read full article →</strong></a></p>
       <p><strong>Congress has extended Section 702 of FISA for just 45 days rather than enacting substantive reform, continuing a pattern of short-term reauthorizations that have stalled meaningful privacy safeguards.</strong></p>
       <p>The extension leaves unresolved the central dispute over "backdoor searches" of Americans' communications collected under the foreign-intelligence program, and signals that a durable legislative fix remains politically out of reach.</p>
       <p><a href="https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="tech_law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:2fd9520f97b109170f1772b3c4d8ee2e8873b0c2</id>
     <title>Trump tells Congress ceasefire means he does not need their approval for Iran war</title>
@@ -117,14 +261,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>bbc.com</name></author>
     <summary>President Trump wrote to Congress arguing that the Iran ceasefire means hostilities have "terminated," relieving him of any obligation to seek authorization under the War Powers Resolution.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.bbc.com/news/articles/c4g4xexy4w7o"><strong>📰 Read full article →</strong></a></p>
       <p><strong>President Trump wrote to Congress arguing that the Iran ceasefire means hostilities have "terminated," relieving him of any obligation to seek authorization under the War Powers Resolution.</strong></p>
       <p>The legal claim, if accepted, would effectively allow the executive to bypass congressional war-making authority by declaring victory — a separation-of-powers argument that directly challenges foundational constraints on presidential use of force.</p>
       <p><a href="https://www.bbc.com/news/articles/c4g4xexy4w7o">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:8e25b270b3e9a14d6e777a18ec8ae2a99c4602d6</id>
     <title>The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?</title>
@@ -132,14 +277,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>bbc.com</name></author>
     <summary>President Zelensky's Gulf visits highlight how Ukraine has demonstrated military value during the Iran conflict, potentially improving Kyiv's negotiating leverage with Moscow.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.bbc.com/news/articles/cgjp7vpee03o"><strong>📰 Read full article →</strong></a></p>
       <p><strong>President Zelensky's Gulf visits highlight how Ukraine has demonstrated military value during the Iran conflict, potentially improving Kyiv's negotiating leverage with Moscow.</strong></p>
       <p>The analysis argues that the geopolitical reshuffling triggered by the Iran war may have brought the conditions for a Russia-Ukraine ceasefire closer than at any point in the past two years.</p>
       <p><a href="https://www.bbc.com/news/articles/cgjp7vpee03o">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:e5c4938360ea06e722f2a6cfb8dc9c9eccb5cdeb</id>
     <title>Germany troop cuts send wrong signal to Russia, say two top US Republicans</title>
@@ -147,14 +293,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>bbc.com</name></author>
     <summary>The chairs of the House and Senate Armed Services Committees publicly warned that Berlin's plan to withdraw 5,000 US troops risks undermining NATO deterrence at a critical moment.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.bbc.com/news/articles/cewpx5yvwyxo"><strong>📰 Read full article →</strong></a></p>
       <p><strong>The chairs of the House and Senate Armed Services Committees publicly warned that Berlin's plan to withdraw 5,000 US troops risks undermining NATO deterrence at a critical moment.</strong></p>
       <p>The intervention underscores fractures in the transatlantic alliance over burden-sharing and signals that even allied troop-reduction moves now face bipartisan pushback in Washington.</p>
       <p><a href="https://www.bbc.com/news/articles/cewpx5yvwyxo">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:85c88209ba7c3a610d492795146ab40a856a0165</id>
     <title>Google to invest up to $40B in Anthropic in cash and compute</title>
@@ -162,14 +309,15 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>techcrunch.com</name></author>
     <summary>Google has agreed to invest up to $40 billion in Anthropic in a combined cash-and-compute deal, cementing the deepest strategic partnership yet between a hyperscaler and a frontier AI lab.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"><strong>📰 Read full article →</strong></a></p>
       <p><strong>Google has agreed to invest up to $40 billion in Anthropic in a combined cash-and-compute deal, cementing the deepest strategic partnership yet between a hyperscaler and a frontier AI lab.</strong></p>
       <p>The scale of the commitment — and its provision of Google Cloud compute alongside capital — will substantially accelerate Anthropic's model training capacity while tightening its infrastructure dependence on a major competitor to its own enterprise offerings.</p>
       <p><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="tech"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:f054080d812a395598653d3b886d88af3a895c69</id>
     <title>OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors</title>
@@ -177,12 +325,13 @@
     <updated>2026-05-04T01:34:41Z</updated>
     <author><name>theguardian.com</name></author>
     <summary>A Harvard-led trial found that OpenAI's o1 reasoning model outperformed emergency-room triage physicians in diagnostic accuracy, correctly identifying 67% of cases compared with a 50-55% physician rate.</summary>
-    <content type="html">
+    <content type="html"><![CDATA[
       <p><a href="https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses"><strong>📰 Read full article →</strong></a></p>
       <p><strong>A Harvard-led trial found that OpenAI's o1 reasoning model outperformed emergency-room triage physicians in diagnostic accuracy, correctly identifying 67% of cases compared with a 50-55% physician rate.</strong></p>
       <p>The results raise immediate questions about liability frameworks, clinical deployment standards, and whether AI-assisted diagnosis should become a mandatory checkpoint in high-volume emergency settings.</p>
       <p><a href="https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses">Read original →</a></p>
-    </content>
+    ]]></content>
     <category term="tech"/>
   </entry>
+
 </feed>
