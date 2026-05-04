@@ -2,12 +2,12 @@
 
 ## What this is
 
-A scheduled Claude agent runs every 4 hours, pulls news on the topics in `topics.yaml`,
+A scheduled Claude agent runs twice daily, pulls news on the topics in `topics.yaml`,
 filters by `preferences.md`, and regenerates `feed.xml` — served by GitHub Pages and
 read in Inoreader on Android.
 
 ```
-   Anthropic-hosted scheduled agent (every 4h)
+   Anthropic-hosted scheduled agent (6:33am + 2:33pm ET)
            │
            │  clone repo → read topics + prefs + log
            │  fetch RSS + web search → dedupe → score
@@ -51,14 +51,14 @@ The scheduled agent is a "routine" in Anthropic's cloud. Routine ID:
 - **UI**: https://claude.ai/code/routines/trig_01R8uDvpjkCYgAfwq6ZaeKpC
   → toggle enabled/disabled, edit cron, view run history + token usage.
 - **Tell Claude in this directory** to:
-  - "Run the news routine now" → manual fire (no waiting for next 4h tick).
-  - "Change cadence to every N hours" → updates the cron.
+  - "Run the news routine now" → manual fire.
+  - "Change cadence to ..." → updates the cron.
   - "Update the routine prompt to ..." → updates the agent's instructions.
 
-Current cron: `7 */4 * * *` (every 4h at :07, UTC).
-Local fires (EDT, UTC−4): 12:07am, 4:07am, 8:07am, 12:07pm, 4:07pm, 8:07pm.
-**DST caveat**: In November when EST returns, fires shift one hour earlier in local
-time. Tell Claude to "re-pin the cron for EST" if/when that matters.
+Current cron: `33 10,18 * * *` UTC.
+Local fires (EDT, UTC−4): **6:33am** and **2:33pm**.
+**DST caveat**: In November when EST returns, fires will shift to 5:33am and 1:33pm
+local. Tell Claude to "re-pin the cron for EST" when that matters.
 
 ## Common shell commands
 
@@ -105,9 +105,10 @@ https://mhsezgin.github.io/news-feed/feed.xml
 
 ## Cost reminder
 
-Each run uses ~140K tokens (input-heavy: RSS payloads dominate). At 6 runs/day, that's
-~25M tokens/month. Check actual usage at https://claude.ai/code/routines/trig_01R8uDvpjkCYgAfwq6ZaeKpC
-or the account usage page.
+Each run uses ~200–250K tokens (input-heavy: RSS payloads + article bodies fetched
+for richer summaries). At 2 runs/day, that's ~12–15M tokens/month. Check actual
+usage at https://claude.ai/code/routines/trig_01R8uDvpjkCYgAfwq6ZaeKpC or the
+account usage page.
 
 ## Calendar these
 
