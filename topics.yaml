@@ -4,12 +4,15 @@ topics:
       - https://www.scotusblog.com/feed/
       - https://www.lawfaremedia.org/feed
       - https://verfassungsblog.de/feed/
+      - https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
     keywords: [supreme court, constitutional, ruling, judgment, opinion]
 
   tech_law:
     rss:
       - https://www.theverge.com/rss/policy/index.xml
       - https://feeds.arstechnica.com/arstechnica/tech-policy
+      - https://www.techdirt.com/feed/
+      - https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
     keywords: [EU AI Act, DMA, DSA, Section 230, antitrust, GDPR, privacy regulation, copyright]
 
   global_politics:
@@ -17,6 +20,7 @@ topics:
       - https://feeds.reuters.com/reuters/worldNews
       - https://www.economist.com/international/rss.xml
       - https://feeds.bbci.co.uk/news/world/rss.xml
+      - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
     keywords: [election, sanctions, treaty, diplomatic, summit]
 
   tech:
@@ -24,4 +28,5 @@ topics:
       - https://feeds.arstechnica.com/arstechnica/index
       - https://www.theverge.com/rss/index.xml
       - https://hnrss.org/frontpage?points=200
+      - https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
     keywords: [AI, model release, chip, breach, acquisition, open source]
