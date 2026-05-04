@@ -13,7 +13,9 @@ topics:
       - https://feeds.arstechnica.com/arstechnica/tech-policy
       - https://www.techdirt.com/feed/
       - https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-    keywords: [EU AI Act, DMA, DSA, Section 230, antitrust, GDPR, privacy regulation, copyright]
+      - https://krebsonsecurity.com/feed/
+      - https://therecord.media/feed
+    keywords: [EU AI Act, DMA, DSA, Section 230, antitrust, GDPR, privacy regulation, copyright, FTC, CCPA, data breach, surveillance, ransomware, lawsuit]
 
   global_politics:
     rss:
@@ -29,4 +31,4 @@ topics:
       - https://www.theverge.com/rss/index.xml
       - https://hnrss.org/frontpage?points=200
       - https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
-    keywords: [AI, model release, chip, breach, acquisition, open source]
+    keywords: [AI, model release, chip, breach, acquisition, open source, frontier model, benchmark, SOTA, Anthropic, OpenAI, DeepMind, xAI, Mistral, Meta AI]

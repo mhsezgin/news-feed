@@ -7,8 +7,11 @@ and it will update this file.
 ## Always include
 - US Supreme Court rulings (full opinions, not just headlines)
 - EU AI Act / DMA / DSA developments and enforcement actions
-- Major Anthropic / OpenAI / Google DeepMind announcements (model releases, policy changes)
 - Significant constitutional/court rulings in EU member states
+- **Privacy & cybersecurity law**: regulator actions (FTC, CNIL, ICO, state AGs), major lawsuits, GDPR/CCPA enforcement, data breach litigation, cross-border data transfer rulings, surveillance law changes
+- **Major cybersecurity incidents with legal/regulatory angle**: state-actor breaches, supply-chain attacks affecting policy, anything driving new regulation
+- **Major AI company news**: Anthropic / OpenAI / Google DeepMind / xAI / Meta AI / Mistral — funding rounds, leadership moves, safety incidents, policy announcements, big partnerships
+- **AI breakthrough news**: new SOTA results, capability jumps, important research papers (NeurIPS / ICML / arXiv flagged), major model releases, novel evaluations
 
 ## Down-weight or skip
 - Crypto price movements (regulation is fine; price action isn't)
