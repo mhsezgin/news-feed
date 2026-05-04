@@ -1,0 +1,27 @@
+topics:
+  law:
+    rss:
+      - https://www.scotusblog.com/feed/
+      - https://www.lawfaremedia.org/feed
+      - https://verfassungsblog.de/feed/
+    keywords: [supreme court, constitutional, ruling, judgment, opinion]
+
+  tech_law:
+    rss:
+      - https://www.theverge.com/rss/policy/index.xml
+      - https://feeds.arstechnica.com/arstechnica/tech-policy
+    keywords: [EU AI Act, DMA, DSA, Section 230, antitrust, GDPR, privacy regulation, copyright]
+
+  global_politics:
+    rss:
+      - https://feeds.reuters.com/reuters/worldNews
+      - https://www.economist.com/international/rss.xml
+      - https://feeds.bbci.co.uk/news/world/rss.xml
+    keywords: [election, sanctions, treaty, diplomatic, summit]
+
+  tech:
+    rss:
+      - https://feeds.arstechnica.com/arstechnica/index
+      - https://www.theverge.com/rss/index.xml
+      - https://hnrss.org/frontpage?points=200
+    keywords: [AI, model release, chip, breach, acquisition, open source]
