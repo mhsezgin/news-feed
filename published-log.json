@@ -365,6 +365,60 @@
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "title_hash": "b7795bc32fad07755f62eae3f4220a236436fbc2",
       "ts": "2026-05-08T18:32:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b63ce0d85e7bc2466bb7b8825fc339015277ba5a",
+      "url": "https://abcnews.com/International/wireStory/hungarys-pter-magyar-set-sworn-prime-minister-ending-132806579",
+      "title_hash": "bf0ae2334e2624249b025a08af2c9ffffdb43484",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:48b34283291e92d2f4a93076e498f9c297c15cf3",
+      "url": "https://www.scotusblog.com/2026/05/alabama-asks-the-court-to-clear-the-way-for-it-to-use-congressional-map-struck-as-diluting-black/",
+      "title_hash": "1b172a318ad88c053d6e44fd0cc996c64ac70d48",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:310427c700c0ef55166c999c0c3abb149e913e27",
+      "url": "https://www.nbcnews.com/politics/2026-election/virginia-supreme-court-blocks-democratic-drawn-congressional-map-voter-rcna342687",
+      "title_hash": "fadc994856fa8b12e4319b78e09f3a05fc1df869",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:397b4e90e377614592684f839ad9c5c9e6532470",
+      "url": "https://www.saastr.com/anthropic-just-passed-openai-in-revenue-while-spending-4x-less-to-train-their-models/",
+      "title_hash": "7d38073ff3ae307485ea30ca5be8aa8dead60ecb",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d9475801d370159785d877508aa597ce975f3e2a",
+      "url": "https://therecord.media/gm-to-pay-12-million-california-privacy-settlement",
+      "title_hash": "7fdc7f3b9d0dcc77343f0db71d0c8feea3b27a36",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:5b4d475ace8d0680cef2744372642c6c76efd2ec",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "title_hash": "08ee6d46e2e4792c99f895c55519b2904fdeb83c",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:682d8470fe693d7ac4b0d2f61f4b549bf6688d37",
+      "url": "https://therecord.media/virginia-man-found-guilty-deleting-96-gov-databases",
+      "title_hash": "6ffc9c2b13e320af98fcbb2b9f2a2b143f8b8cad",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:7472beae25ecc48d1ce714f33d67fd784d0d799f",
+      "url": "https://therecord.media/kingdom-market-administrator-gets-16-year-sentence",
+      "title_hash": "4733c1822dce6c1af15c8967033de61123c6cd3b",
+      "ts": "2026-05-09T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:7e076306090155cafaee48311e9826c4aed520e0",
+      "url": "https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky",
+      "title_hash": "7ea218bf9fd23f4bd277568e065dcce0d8acc81b",
+      "ts": "2026-05-09T09:30:00Z"
     }
   ]
 }
