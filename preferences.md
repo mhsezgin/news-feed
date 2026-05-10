@@ -12,6 +12,7 @@ and it will update this file.
 - **Major cybersecurity incidents with legal/regulatory angle**: state-actor breaches, supply-chain attacks affecting policy, anything driving new regulation
 - **Major AI company news**: Anthropic / OpenAI / Google DeepMind / xAI / Meta AI / Mistral — funding rounds, leadership moves, safety incidents, policy announcements, big partnerships
 - **AI breakthrough news**: new SOTA results, capability jumps, important research papers (NeurIPS / ICML / arXiv flagged), major model releases, novel evaluations
+- **New York personal injury law**: high-profile or precedent-setting NY personal injury cases (notable verdicts/settlements, appellate rulings, Court of Appeals decisions), and significant legal/regulatory changes affecting personal injury practice in NY (CPLR amendments, statute of limitations changes, insurance/no-fault reforms, scaffold law / Labor Law §240, comparative negligence rulings)
 
 ## Down-weight or skip
 - Crypto price movements (regulation is fine; price action isn't)
