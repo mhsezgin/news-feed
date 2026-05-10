@@ -617,6 +617,54 @@
       "url": "https://www.euronews.com/my-europe/2026/05/07/dma-how-the-eus-big-tech-law-changed-citizens-lives",
       "title_hash": "4ad4bedd5a8634fed248816092f312264fd8c52f",
       "ts": "2026-05-10T18:54:27Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-10-1840",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "0c7417e55abc3e95dfa902cc5b4217434d65e1ed",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ca0d7d7a93c829dc765f5110607c333bc9ac6f3f",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "title_hash": "8ed1cfde35a66225812e6392ca90e922d7f05914",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c4b11f5cbe74941639bbadf19b4f64261d7373c4",
+      "url": "https://fortune.com/2026/05/10/iran-war-ceasefire-drone-cargo-ship-qatar-kuwait-uae-attacks/",
+      "title_hash": "efc0a76c4a28df9d893819cd6962d593c1986c0c",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2f244068731d266de45c692c728414a9a572a13e",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "title_hash": "60c940bb1dad956d1c3cd5341920681038a93e92",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:63b83b32b513f8ac2bddb93af12641532ef33119",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "title_hash": "15586ba74afa895428f1413adabfdd3ee7b5053f",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d9412fef6bdf5b0d5d27846901b95ecaf1f00fba",
+      "url": "https://www.xda-developers.com/developer-restored-orcaslicers-features-bambu-lab-killed-legal-threats-arrived/",
+      "title_hash": "1d1ed39bdc38cef5817768680f21a1b495d72130",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f063e7c57e7ebab5da9a60f4e8afba1c6032c0d5",
+      "url": "https://www.scotusblog.com/2026/05/a-2-3-4-wild-card-court-and-blanche-v-lau-made-easy/",
+      "title_hash": "40de15167effc5650dcfa4d9e74b0cf41444eee4",
+      "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1cdc34615b26b1f4497ca2606b1e89e085bc1192",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro",
+      "title_hash": "1815d16f47d4ac6752b96d4009e8b7bbb543b038",
+      "ts": "2026-05-10T18:40:00Z"
     }
   ]
 }
