@@ -24,3 +24,6 @@ and it will update this file.
 - Prefer analysis over breaking-news regurgitation
 - A 3-day-old in-depth piece beats a 2-hour-old wire summary
 - When choosing between two items on the same story, pick the one with the most legal/policy depth
+
+## Format
+- Prefix every item title with a broad topic tag in square brackets, e.g. `[legal tech] ...`, `[law] ...`, `[ai] ...`, `[global politics] ...`, `[cybersecurity] ...`. Keep tags short (1-3 words), lowercase, and consistent across runs so similar items group visually in the reader.
