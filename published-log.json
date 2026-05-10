@@ -473,6 +473,66 @@
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "title_hash": "c02b742254f7585408d899c589b661be18613ffc",
       "ts": "2026-05-09T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a8697ca5f1d9fdf9ccc343929a4a781742957f93",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "title_hash": "67dd372be095223bdb58c3563f905706427b2ba8",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "title_hash": "ec9a675756f852a8e1fad40a9ae82ab94e5df63a",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "title_hash": "084b480bc173a4830e3006bc1fc094dc88556e91",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3f5e7d17bf09dacfc0635e77ef33c7e03a4c64c5",
+      "url": "https://www.scotusblog.com/2026/05/when-justices-turn-on-each-other-/",
+      "title_hash": "45a116d59151492203fa6dc51d3b47d54b46b5d6",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:949aeae066b7b4405c47ffe2b1ac0f14145c7e6b",
+      "url": "https://www.scotusblog.com/2026/04/justices-poised-to-protect-generics-manufacturers-from-liability-for-decisions-of-pharmacists-about/",
+      "title_hash": "f99247cf5ec8a4598dc5742ed556c6835916a933",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:be8713528b3b1ac09c0c0a1f36b523ffbc3c5a38",
+      "url": "https://verfassungsblog.de/the-bmw-and-mercedes-climate-cases/",
+      "title_hash": "3c24ae7bd4f5ecf8f6c6d4a595c334989b80c191",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:734234686247a270f7a545ecc43e731c63fd7452",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+      "title_hash": "aeac7943a87191fcbf280d0ba3b4697256621f3b",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:0c66082ccef14cc34f22292ce3eea41f996f154a",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko",
+      "title_hash": "38b557c417aec21ee5212d58f9289b480bb79ddf",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:84707e2fce12eb66e29c751f5d4960cdd5ab1c05",
+      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo",
+      "title_hash": "e8ea7c10165c88b219b21fb99e03e3cacac622a7",
+      "ts": "2026-05-10T09:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:92776034abfd6704ce5057aa350455177f501011",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "title_hash": "956cb95bc87e93461d03b8a60c71091410888cb4",
+      "ts": "2026-05-10T09:30:00Z"
     }
   ]
 }
