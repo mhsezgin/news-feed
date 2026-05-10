@@ -27,3 +27,4 @@ and it will update this file.
 
 ## Format
 - Prefix every item title with a broad topic tag in square brackets, e.g. `[legal tech] ...`, `[law] ...`, `[ai] ...`, `[global politics] ...`, `[cybersecurity] ...`. Keep tags short (1-3 words), lowercase, and consistent across runs so similar items group visually in the reader.
+- At the top of each run, publish one summary item per topic defined in `topics.yaml` (one for `law`, one for `tech_law`, one for `global_politics`, one for `tech`). Each summary is a single feed entry titled `[<topic>] Summary — <YYYY-MM-DD HH:MM>` whose body is a 3-5 sentence plain-English overview of the most important things happening in that topic right now, drawn from the items selected this run. These summary entries come before the individual item entries in the feed and should be dated so Inoreader shows them at the top.
