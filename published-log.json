@@ -665,6 +665,78 @@
       "url": "https://www.bbc.com/news/articles/cwy2e4z4npro",
       "title_hash": "1815d16f47d4ac6752b96d4009e8b7bbb543b038",
       "ts": "2026-05-10T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-11-0900",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "1da1007743a2e95d4687fed7179fa106457de565",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:31cbfbacc2419ca83ee0c69f641495c2fb6daf32",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
+      "title_hash": "c9ba21c8d06b42fa05045376cbcf5c91620cf218",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:493a0d34ed5650133b5b73df00d04867d70270b7",
+      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte",
+      "title_hash": "59ebeb4e96c0c5fcc0898ec28464ee766cab5a5d",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a61a5d6c456d0cb1daa5d7ad57da33df736e45b6",
+      "url": "https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says",
+      "title_hash": "88912135bc11297a9bc21d763dfe75c61c765a5c",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a01b7b9303a435fe7f05f063ba50579cdf76d850",
+      "url": "https://therecord.media/sedgwick-cyber-incident-ransomware",
+      "title_hash": "0030d8711627688f77740443265043ccde418669",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b45cede1f2c604039e4c66ce4f4124561f43b17a",
+      "url": "https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices",
+      "title_hash": "47c95dadebdfc882fb29139f9f9fb2ac96c7a469",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:88f54832a73c8fe4d7e8acff35e7113bade2d149",
+      "url": "https://therecord.media/china-cybersecurity-law-update-penalties-companies-executives",
+      "title_hash": "a2b86ce3a24e27fc0bb269f655b11a88b0a0a10b",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:de1a6143d7a2f968c3ebbe94bb1dfb0700084b4f",
+      "url": "https://therecord.media/eu-launches-vulnerability-database",
+      "title_hash": "22bc7fb4d50dd37b0c02709469375a845f05e07f",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:bb4a30bf24b5c65e7cdc58368d691abcf8360c78",
+      "url": "https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/",
+      "title_hash": "6975c3900637a1bd499b784b3358ec329db0a94c",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:29276d540e65a68489352bf088f88dd4f49c49cc",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "title_hash": "16dae4a42f1e40d92ae230c14cea6483c846eec9",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:4791e3103397f8670bb29719d614b0613f15c5ae",
+      "url": "https://www.scotusblog.com/2026/05/is-the-court-done-with-callais/",
+      "title_hash": "609e7067e78409714c4aa7d8ba08bee5f2757a80",
+      "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8586749fc39a9abea277fa9df648290c731b696d",
+      "url": "https://therecord.media/russia-arrests-tech-entrepreneur-treason",
+      "title_hash": "9b9f049a6fa76710bcf0ff73bf6cedd9cdafcf78",
+      "ts": "2026-05-11T09:00:00Z"
     }
   ]
 }

@@ -4,7 +4,216 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml"/>
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-10T18:40:00Z</updated>
+  <updated>2026-05-11T09:00:00Z</updated>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:summary:2026-05-11-0900</id>
+    <title>[summary] 2026-05-11 09:00</title>
+    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+    <updated>2026-05-11T09:00:00Z</updated>
+    <author><name>news-feed-agent</name></author>
+    <summary>Digest summary for 2026-05-11 09:00 UTC: Trump rejects Iran ceasefire; Philippines Duterte impeached again; China achieves cyber parity with US; Sedgwick federal contractor breached; Google DeepMind launches strike team against Anthropic; Flock Safety FTC probe; EU vulnerability database; Russia arrests cybersecurity entrepreneur; China cybersecurity law overhaul; Anthropic finance agents; Callais redistricting aftermath.</summary>
+    <content type="html"><![CDATA[
+      <h2>law</h2>
+      <p>The Callais redistricting saga took a new turn this week: after the Supreme Court moved to immediately finalize its 6-3 VRA ruling on Monday, Black voter groups filed a rare motion Tuesday asking the Court to recall its judgment, arguing they had not had adequate time to petition for rehearing. The Alito-Jackson written exchanges in the concurrences are being read by SCOTUS observers as a preview of the Court's posture going into an election-law-heavy end of term — campaign finance, mail-in voting, and gerrymandering challenges all remain on the docket. Alabama separately asked the Court to pre-approve a challenged congressional map through 2030, which would effectively double the ruling's practical impact if granted.</p>
+      <h2>tech_law</h2>
+      <p>Three significant tech law developments this run. First, Senators Wyden and Krishnamoorthi asked the FTC to investigate Flock Safety — operator of license plate readers in 8,000+ US communities — after at least 35 law enforcement accounts were compromised due to the company's refusal to mandate multi-factor authentication; the same cameras have been used to track abortion patients and undocumented immigrants. Second, ENISA launched the EU's own European Vulnerability Database as an alternative/complement to MITRE's CVE Program, whose US federal funding remains on an 11-month stopgap contract with no long-term commitment. Third, China's NPC is reviewing draft cybersecurity law amendments that would impose fines up to ¥10 million on critical infrastructure operators and create personal liability for supervisors — one of the most significant expansions of Chinese cybersecurity enforcement since 2017.</p>
+      <h2>global_politics</h2>
+      <p>The Iran conflict enters a new phase of uncertainty: Trump rejected Iran's formal ceasefire counter-proposal as "TOTALLY UNACCEPTABLE," sending Brent crude above $104/barrel. Iran's terms — end to hostilities on all fronts including Lebanon, sanctions relief, asset unfreezing, and Hormuz sovereignty recognition — were delivered via Pakistani mediators on May 10, the same day Iran conducted drone strikes against Qatar, the UAE, and Kuwait. In Southeast Asia, the Philippine House voted 255-26 to impeach VP Sara Duterte for the second time, on charges of plundering public funds ($110M in unexplained transactions), bribery, and death threats against President Marcos. Senate conviction requires 16 votes — difficult given Duterte's allies just elected a loyalist Senate President — setting up a prolonged constitutional standoff ahead of the 2028 presidential race.</p>
+      <h2>tech</h2>
+      <p>The Anthropic-Google DeepMind competition sharpened this week. Sherwood News reports that Google co-founder Sergey Brin personally drove the formation of a DeepMind "strike team" focused on closing Gemini's coding and agentic execution gap with Claude — citing Claude Code's enterprise traction as the pressure point. Anthropic meanwhile launched ten pre-built finance agent templates and Microsoft 365 integration (Excel, PowerPoint, Word, Outlook), with Claude Opus 4.7 leading Vals AI's Finance Agent benchmark at 64.37%. The SpaceX Colossus 1 compute deal and the Blackstone/Goldman enterprise JV announced last week continue to close the infrastructure gap between Anthropic and larger incumbents.</p>
+      <h2>cybersecurity</h2>
+      <p>Three significant cybersecurity stories. Dutch intelligence (MIVD) issued the first explicit NATO-allied assessment that China now matches the US in offensive cyber capabilities, noting Chinese groups doubled their zero-day exploit use in 2025 and that most attacks against Dutch interests go undetected. TridentLocker ransomware hit Sedgwick Government Solutions — a federal contractor serving DHS, ICE, CBP, and CISA itself — stealing 3.4GB of data; the group previously hit Belgium's bpost in its debut. Finally, Russia arrested 21-year-old cybersecurity entrepreneur Timur Kilin in Moscow on treason charges apparently triggered by his Telegram criticism of a Kremlin-favored messaging app, continuing the pattern of prosecutions targeting technical dissidents established by the 14-year Sachkov sentence in 2023.</p>
+    ]]></content>
+    <category term="summary"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:31cbfbacc2419ca83ee0c69f641495c2fb6daf32</id>
+    <title>[global politics] Trump calls Iran&#x2019;s ceasefire counter-proposal &#x2018;totally unacceptable&#x2019; as oil prices spike above $104 a barrel</title>
+    <link href="https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal"/>
+    <updated>2026-05-11T01:55:00Z</updated>
+    <author><name>npr.org</name></author>
+    <summary>President Trump rejected Iran&#x27;s formal counter-proposal to the US ceasefire plan, calling it totally unacceptable on social media and sending Brent crude above $104 a barrel, raising doubts about the month-old ceasefire&#x27;s durability.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>President Trump rejected Iran's formal counter-proposal to the US ceasefire plan, calling it "totally unacceptable" on social media and sending Brent crude above $104 a barrel, raising doubts about the month-old ceasefire's durability.</strong></p>
+      <p>Iran delivered its formal ceasefire counter-proposal via Pakistani mediators on Sunday, May 10 — the same day Iranian forces conducted drone strikes against a cargo vessel off Qatar, military sites in the UAE, and targets in Kuwait. Tehran's response demanded a complete cessation of hostilities on all fronts including Lebanon, removal of US sanctions on Iranian oil sales, lifting of the naval blockade on Iranian ports, unfreezing of Iranian assets, and US recognition of Iranian sovereignty over the Strait of Hormuz. Trump responded on Truth Social, writing "I have just read the response from Iran's so-called 'Representatives.' I don't like it — TOTALLY UNACCEPTABLE!" and accused Iran of "playing games with the United States, and the rest of the World." Brent crude rose 3.17% to $104.50/barrel and US crude climbed 3.21% to $98.48 on the news. The war began February 28, with US objectives centered on halting Iran's nuclear program, reducing its missile arsenal, and ending support for regional proxy groups; Iran responded by closing the Strait of Hormuz to shipping, prompting a US naval blockade of Iranian ports that has rippled globally through fuel prices and supply chains.</p>
+      <p><strong>Why it matters:</strong> The Trump rejection ends the diplomatic window opened by the April 8 ceasefire and Pakistan's mediation effort, at least temporarily, and signals the conflict will continue into its third month with no near-term resolution. Oil prices above $104/barrel reflect that markets had priced in some probability of a deal — the collapse of that expectation directly feeds into global inflation and supply chain costs, particularly for Europe and Asia which depend heavily on Gulf shipping. Iran's insistence on a multi-front end to hostilities including Lebanon reflects its strategic calculation that Hezbollah is a core deterrent asset that cannot be negotiated away separately from the main conflict. The most dangerous near-term escalation scenario centers on the Strait of Hormuz: if Iran responds to the rejection by renewing shipping interdiction, the US faces a choice between escalating militarily in a contested waterway through which approximately 21% of global oil supply transits, or accepting a credibility loss that would embolden other actors. Pakistan's continued role as mediator means a diplomatic channel technically remains open, but the gap between the US position (nuclear program constraints, proxy group rollback) and Iran's position (comprehensive multi-front peace, full sanctions relief) has not meaningfully narrowed.</p>
+      <p><a href="https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:493a0d34ed5650133b5b73df00d04867d70270b7</id>
+    <title>[global politics] Philippine House impeaches VP Sara Duterte 255-26 on charges of plunder and death threats against Marcos &#x2014; the first VP impeached twice in Philippine history</title>
+    <link href="https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte"/>
+    <updated>2026-05-11T09:28:00Z</updated>
+    <author><name>aljazeera.com</name></author>
+    <summary>The Philippine House of Representatives voted 255 to 26 to impeach Vice President Sara Duterte on charges including plunder of public funds, bribery, and death threats against President Marcos, making her the first Philippine official impeached twice.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The Philippine House of Representatives voted 255 to 26 to impeach Vice President Sara Duterte on charges including plunder of public funds, bribery, and death threats against President Marcos, making her the first Philippine official impeached twice.</strong></p>
+      <p>The House approved the justice committee's report on Monday, May 11, transmitting four articles of impeachment to the Senate: misuse of confidential government funds, bribery of government officials, death threats against President Ferdinand Marcos Jr., his wife, and former House Speaker Martin Romualdez, and unexplained wealth. Anti-money laundering officials flagged private bank transactions exceeding $110 million that investigators say "cannot be reasonably explained by lawful income" or declared assets. Duterte and Marcos ran as running mates in 2022 but experienced a bitter political split; Duterte has already announced her candidacy for the 2028 presidential race. Her father, former President Rodrigo Duterte, is currently detained by the International Criminal Court on crimes against humanity charges stemming from his drug war. A previous 2025 impeachment — passed with 215 votes — was voided by the Philippine Supreme Court on technical grounds, meaning this second vote incorporates lessons from that procedural failure.</p>
+      <p><strong>Why it matters:</strong> The 255-vote margin — far exceeding the one-third threshold and meaningfully above the 2025 figure — shows the House coalition against Duterte is broadening under Marcos, reflecting his administration's consolidation of legislative power. However, conviction requires a two-thirds Senate supermajority (16 of 24 votes), and Duterte's allies just elected Senator Alan Cayetano — son of the former foreign secretary who served under Rodrigo Duterte — as Senate President, making acquittal likely. This constitutional cliff-hanger sets up a prolonged political crisis: Duterte can remain politically active and pursue the 2028 presidency even as an impeached official, much as her father retains supporters despite ICC detention. The ICC's parallel proceedings against Rodrigo Duterte create an unprecedented family dynamic — a sitting VP potentially removed by impeachment while her father faces international criminal justice — and will complicate the Philippines' international relationships regardless of outcome. For the Marcos administration, a Senate acquittal will publicly embarrass the president while a conviction eliminates the most credible 2028 challenger, creating perverse incentives that will shape every procedural decision in the Senate trial.</p>
+      <p><a href="https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:a61a5d6c456d0cb1daa5d7ad57da33df736e45b6</id>
+    <title>[cybersecurity] Dutch intelligence warns China has achieved parity with the US in offensive cyber capabilities, citing doubled zero-day use in 2025</title>
+    <link href="https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says"/>
+    <updated>2026-05-11T08:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>The Netherlands&#x27; Defence Intelligence and Security Service declared that China now probably stands on equal footing with the United States in offensive cyber capabilities, marking the first time a NATO-allied intelligence agency has explicitly assessed Chinese cyber parity.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The Netherlands' Defence Intelligence and Security Service (MIVD) declared that China now "probably stands on equal footing" with the United States in offensive cyber capabilities, marking the first time a NATO-allied intelligence agency has explicitly assessed Chinese cyber parity.</strong></p>
+      <p>The MIVD report found that Chinese-linked groups doubled their use of zero-day exploits in 2025 according to Google threat intelligence, making them the most prolific state-sponsored users of previously unknown vulnerabilities globally. In 2025, Chinese operatives gained router access at smaller Dutch internet service providers as part of the Salt Typhoon campaign — the same campaign that compromised US carrier infrastructure in 2024. The PLA's 2024 restructuring dissolved the Strategic Support Force and established a standalone Cyberspace Force, enabling enhanced operational flexibility and faster adaptation. The MIVD noted that detection, response, and mitigation against Chinese operations are "often inadequate" and that only a small fraction of Chinese cyberattacks against Dutch interests are ever discovered. China actively targets Dutch researchers, businesses, and universities in semiconductors, quantum computing, and aerospace — sectors tied directly to Dutch export controls on ASML lithography equipment, suggesting the cyber operations support technology acquisition objectives.</p>
+      <p><strong>Why it matters:</strong> An explicit "parity" assessment from a NATO-allied agency carries weight that US intelligence assessments cannot, because it is not filtered through domestic policy considerations — it is a third-party corroboration that changes European governments' threat calculus and their willingness to adopt stricter cyber defenses. The doubling of Chinese zero-day use is alarming because zero-days represent the most asymmetric offensive instrument: defenders have no patch, no warning, and no remediation path until the vulnerability is discovered independently. The PLA Cyberspace Force institutionalization means China has doctrinal cyber capacity now comparable to US Cyber Command, removing the organizational friction that previously limited operational tempo. For Netherlands and EU tech companies, the targeting of semiconductor and quantum computing sectors signals this is economic espionage with strategic stakes — tied directly to the ASML export control dispute — not merely state intelligence gathering. The MIVD assessment will likely accelerate European NIS2 compliance timelines, push NATO to update its formal cyber deterrence posture, and justify expanded European intelligence sharing on Chinese cyber threats, all of which were politically easier to resist when parity was merely implied rather than explicitly stated.</p>
+      <p><a href="https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:a01b7b9303a435fe7f05f063ba50579cdf76d850</id>
+    <title>[cybersecurity] TridentLocker ransomware hits Sedgwick Government Solutions, stealing data tied to DHS, ICE, CBP and CISA subsidiaries</title>
+    <link href="https://therecord.media/sedgwick-cyber-incident-ransomware"/>
+    <updated>2026-05-10T16:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>The TridentLocker ransomware gang claimed a breach at Sedgwick Government Solutions, a federal contractor serving DHS, ICE, CBP, and CISA, stealing 3.4 gigabytes of data and marking the newly emerged group&#x27;s second known victim after Belgium&#x27;s postal service.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/sedgwick-cyber-incident-ransomware"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The TridentLocker ransomware gang claimed a breach at Sedgwick Government Solutions — a federal contractor serving DHS, ICE, CBP, and CISA — stealing 3.4 gigabytes of data and marking the newly emerged group's second known victim after Belgium's postal service.</strong></p>
+      <p>TridentLocker, a ransomware-as-a-service operation that emerged in November 2025, claimed the Sedgwick Government Solutions attack on New Year's Eve 2025, with Sedgwick publicly confirming the incident in May 2026 after investigation. The subsidiary provides claims and risk management services to some of the most sensitive US federal agencies: the Department of Homeland Security, Immigration and Customs Enforcement, Customs and Border Protection, US Citizenship and Immigration Services, the Department of Labor, and — notably — the Cybersecurity and Infrastructure Security Agency itself. Sedgwick stated the affected file transfer system was isolated from broader operations, with claims management servers unaffected; law enforcement and customers were notified and external cybersecurity experts engaged. TridentLocker uses standard double-extortion tactics: encrypting systems and threatening to release exfiltrated data if ransom demands go unmet. The group's rapid escalation from its November 2025 debut to a US federal contractor breach within weeks signals a sophisticated, well-resourced operation with unusually high targeting ambitions.</p>
+      <p><strong>Why it matters:</strong> The breach of a CISA-serving contractor — CISA being the federal agency responsible for US cybersecurity coordination — crystallizes a longstanding systemic vulnerability: federal contractors who handle sensitive government data are not subject to the same cybersecurity standards as the agencies themselves. Claims and risk management data tied to DHS and immigration agencies is among the most sensitive categories, potentially including personally identifiable information on asylum seekers, border incident records, and workplace claims by federal employees — data that in the wrong hands enables targeted harassment, extortion, or foreign intelligence exploitation. A 3.4 gigabyte exfiltration is small by modern standards, but ransomware groups routinely retain data for follow-on extortion campaigns; the full impact may not be known for months. This breach will likely be cited in congressional oversight proceedings and could accelerate legislative efforts to extend FedRAMP-like security requirements to contractors that handle federal agency data — a regulatory gap that has existed since FedRAMP's creation in 2011. The TridentLocker group's track record after just two victims also warrants close monitoring: if this is the beginning of a campaign against government contractors, the attack surface is enormous.</p>
+      <p><a href="https://therecord.media/sedgwick-cyber-incident-ransomware">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:b45cede1f2c604039e4c66ce4f4124561f43b17a</id>
+    <title>[tech law] Wyden and Krishnamoorthi ask FTC to probe Flock Safety license plate reader network after 35 law enforcement accounts hacked</title>
+    <link href="https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices"/>
+    <updated>2026-05-10T18:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>Senators Wyden and Krishnamoorthi asked the FTC to investigate Flock Safety after at least 35 law enforcement accounts were compromised because the company, which operates license plate readers in more than 8,000 US communities, does not require multi-factor authentication.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Senators Wyden and Krishnamoorthi asked the FTC to investigate Flock Safety after at least 35 law enforcement accounts were compromised because the company, which operates license plate readers in more than 8,000 US communities, does not require multi-factor authentication.</strong></p>
+      <p>Flock Safety operates automatic license plate reader cameras deployed across more than 8,000 US communities, giving participating law enforcement agencies real-time nationwide vehicle tracking capability. Sen. Ron Wyden (D-OR) and Rep. Raja Krishnamoorthi (D-IL) sent a letter to FTC Chairman Andrew Ferguson identifying two critical security failures: Flock does not mandate multi-factor authentication for its law enforcement customers, and its voluntary authentication system lacks support for phishing-resistant MFA — a baseline standard in federal cybersecurity guidelines. At least 35 Flock customer accounts have been stolen by hackers; the absence of mandatory MFA has also enabled improper password sharing, allowing federal agents to access Flock systems using credentials belonging to other agencies without detection. The FTC has previously taken enforcement action against four companies — Uber, Chegg, Drizly, and Blackbaud — specifically for failing to implement MFA, establishing a regulatory precedent. Beyond cybersecurity, Flock's camera network has been documented in investigations involving abortion patients and undocumented immigrants, adding a civil liberties dimension to the security failure.</p>
+      <p><strong>Why it matters:</strong> A compromised Flock account is not a conventional data breach — it is a compromise of real-time nationwide vehicle tracking with law enforcement privileges, giving an attacker or unauthorized user the ability to surveil any vehicle in the US at scale, in real time, with no judicial oversight. The surveillance-meets-cybersecurity overlap makes the stakes unusually high: Flock data tied to abortion access or immigration status carries life-altering consequences if disclosed, abused, or sold, putting this squarely in the privacy-harm categories where the FTC has historically been most aggressive. The FTC letter arrives as Chairman Ferguson has signaled aggressive COPPA enforcement, suggesting some appetite for action even under a lighter-touch administration — though whether that extends to surveillance infrastructure vendors is untested. If the FTC acts, it could create binding security requirements specifically for companies that sell surveillance tools to law enforcement — a category currently without dedicated federal standards. If it does not, the letter creates a public record of notice that plaintiff attorneys and state AGs can use to establish a duty-of-care theory in civil litigation following any future breach. Congress is also watching: the letter is likely intended to build momentum for comprehensive privacy legislation that covers law enforcement data brokers, a category exempted from most state-level privacy laws.</p>
+      <p><a href="https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:88f54832a73c8fe4d7e8acff35e7113bade2d149</id>
+    <title>[tech law] China&#x2019;s NPC reviews cybersecurity law amendments imposing fines up to &#xa5;10 million and personal supervisor liability for critical infrastructure breaches</title>
+    <link href="https://therecord.media/china-cybersecurity-law-update-penalties-companies-executives"/>
+    <updated>2026-05-10T10:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>China&#x27;s National People&#x27;s Congress is reviewing draft amendments to its Cybersecurity Law that would impose fines up to 10 million yuan on critical infrastructure operators whose incidents affect sensitive data and create personal financial liability for direct supervisors.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/china-cybersecurity-law-update-penalties-companies-executives"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>China's National People's Congress is reviewing draft amendments to its Cybersecurity Law that would impose fines up to 10 million yuan on critical infrastructure operators whose incidents affect sensitive data and create personal financial liability for direct supervisors.</strong></p>
+      <p>The Standing Committee of the NPC received the draft amendment for review this week, with debate scheduled through Friday. Under the proposal, critical information infrastructure operators in transport, energy, and finance face maximum fines of ¥10 million ($1.4 million) for severe incidents affecting sensitive data or disrupting services. Selling uncertified cybersecurity products triggers fines of up to three times illegal gains; using non-certified products in critical sectors triggers fines of ten times procurement costs. Storage of critical information on international cloud servers would independently establish liability. Individual supervisors — direct managers responsible for security decisions — face personal fines up to ¥100,000 ($14,000) for severe incidents, introducing a compliance incentive absent from current Chinese law. Experts characterize the amendment as blending network defense with information sovereignty requirements, making companies accountable for both technical security and data localization.</p>
+      <p><strong>Why it matters:</strong> The amendment effectively makes Chinese cybersecurity law an instrument of both security policy and industrial policy: the uncertified-product provisions create strong financial incentives to use domestically certified — and typically domestically produced — cybersecurity technology over foreign alternatives, accelerating the market displacement of Western security vendors in China's critical sectors. For multinationals operating critical infrastructure in China using global cloud providers, this forces a concrete choice: compliance or operational efficiency, with fines reaching ten times procurement costs if inspectors determine a product was non-certified. The personal liability provision for supervisors mirrors EU NIS2 and proposed US CIRCIA requirements, suggesting a global convergence on individual accountability for corporate cybersecurity failures — making this less an outlier than a regional implementation of an emerging global governance norm. The data localization trigger for international cloud storage will accelerate the fragmentation of enterprise cloud architectures in China, reducing market share for AWS, Azure, and Google Cloud in favor of domestic Chinese cloud providers even further. If enacted, this represents the most significant expansion of Chinese cybersecurity enforcement powers since the original Cybersecurity Law took effect in 2017, and will be closely watched by compliance teams at every major multinational operating in China.</p>
+      <p><a href="https://therecord.media/china-cybersecurity-law-update-penalties-companies-executives">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:de1a6143d7a2f968c3ebbe94bb1dfb0700084b4f</id>
+    <title>[tech law] EU launches European Vulnerability Database as MITRE CVE Program funding remains on 11-month stopgap contract</title>
+    <link href="https://therecord.media/eu-launches-vulnerability-database"/>
+    <updated>2026-05-10T12:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>The EU&#x27;s cybersecurity agency ENISA launched the European Vulnerability Database as a structured notification platform for cybersecurity flaws, arriving as MITRE&#x27;s global CVE Program faces renewed funding uncertainty under a short-term US federal contract.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/eu-launches-vulnerability-database"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The EU's cybersecurity agency ENISA launched the European Vulnerability Database as a structured notification platform for cybersecurity flaws, arriving as MITRE's global CVE Program faces renewed funding uncertainty under a short-term US federal contract.</strong></p>
+      <p>ENISA launched the European Vulnerability Database on Tuesday as an aggregation and alert platform for cybersecurity issues affecting products and services deployed in the EU. Despite the name, the system functions more as a structured notification service than a traditional repository — ENISA's head Hans de Vries said the agency deliberately avoided building "a huge database that can very much be hacked" to prevent concentrating exploit knowledge in one place. The CVE Program, run by MITRE and funded by CISA, is the global standard for cataloguing software vulnerabilities; CISA recently extended MITRE's contract for only 11 additional months after warnings that funding was expiring, with no long-term commitment in place. ENISA confirmed it is "in contact with MITRE to understand the impact and next steps." If MITRE's contract lapses, no new CVE identifiers would be assigned globally, though historical records would remain accessible on GitHub. The EU database arrives two months before the EU AI Act's full enforcement provisions take effect in August 2026, reflecting Brussels' broader push to build sovereign digital infrastructure.</p>
+      <p><strong>Why it matters:</strong> The European Vulnerability Database is not a CVE replacement, but it is a hedge — and its launch signals that the EU is building sovereign cybersecurity cataloguing infrastructure specifically because US federal funding for MITRE has become unpredictable under current budget pressures. If the CVE Program lapses and ENISA's database is the only active system cataloguing vulnerabilities affecting EU-marketed products, the center of gravity in global vulnerability disclosure shifts from MITRE in McLean, Virginia to Brussels — a regulatory power shift with significant implications for which vulnerabilities receive priority treatment in sectors like critical infrastructure, automotive, and medical devices. For vendors, the launch signals a growing compliance burden: EU-specific vulnerability disclosure obligations under NIS2 and the Cyber Resilience Act are now more likely to point to ENISA's database as the authoritative registry, creating a potential dual-track disclosure requirement for companies selling in both the US and EU markets. The fragility of the CVE Program's funding also inadvertently highlights a governance failure: a piece of global cybersecurity infrastructure that underpins virtually all enterprise security tooling has been running on annual appropriations with no stable institutional home, and it has taken a potential funding lapse to prompt serious discussion of alternatives. Expect ENISA's database to become mandatory for CRA compliance in the EU, effectively making it a regulatory tool whether or not it was designed as one.</p>
+      <p><a href="https://therecord.media/eu-launches-vulnerability-database">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:bb4a30bf24b5c65e7cdc58368d691abcf8360c78</id>
+    <title>[tech] Google DeepMind assembles dedicated strike team to close coding and agentic AI gap with Anthropic, with Sergey Brin driving the push</title>
+    <link href="https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/"/>
+    <updated>2026-05-11T06:00:00Z</updated>
+    <author><name>sherwood.news</name></author>
+    <summary>Google DeepMind has formed a dedicated engineering strike team focused on improving Gemini's coding and agentic execution capabilities after leadership concluded that Anthropic's Claude has achieved superior performance in these areas, with co-founder Sergey Brin personally driving the initiative.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Google DeepMind has formed a dedicated engineering strike team focused on improving Gemini's coding and agentic execution capabilities after leadership concluded that Anthropic's Claude has achieved superior performance in these areas, with co-founder Sergey Brin personally driving the initiative.</strong></p>
+      <p>Sherwood News reports that Google co-founder Sergey Brin sent an internal memo to DeepMind staff emphasizing urgency, writing: "To win the final sprint, we must urgently bridge the gap in agentic execution and turn our models into primary developers." The team's primary objective is developing AI systems capable of autonomous multi-step software development — agentic execution — rather than improvement on isolated coding benchmarks. The competitive pressure is attributed directly to Claude Code's commercial traction: Anthropic's coding-focused CLI has gained significant enterprise adoption, creating the kind of switching-cost dynamics that can produce winner-take-most outcomes in developer tooling markets. Claude Opus 4.7 currently leads Vals AI's Finance Agent benchmark at 64.37%, and Anthropic recently closed a SpaceX Colossus 1 compute deal adding 220,000 NVIDIA GPUs to its capacity. DeepMind is also facing talent pressure, with OpenAI and Anthropic aggressively recruiting senior engineers and researchers from Google in recent months.</p>
+      <p><strong>Why it matters:</strong> Brin's direct involvement in a product catch-up effort is unusual for a co-founder who has largely stepped back from operations, and signals that Google's leadership considers the agentic coding gap to be an existential competitive risk rather than a manageable product deficit. The agentic coding race matters because enterprise software development is one of the most valuable and measurable AI markets: companies that adopt a primary AI coding platform face significant switching costs, creating winner-take-most dynamics where being second is commercially far worse than being second in, say, a chatbot market. Anthropic's current lead is backed by Claude Code's enterprise traction, SpaceX compute capacity, and benchmark leadership — but Google has distribution advantages Anthropic lacks: deep integration with Cloud, Workspace, and Android, plus a sales force that serves every Fortune 500. The emergence of a specifically named "strike team" also has organizational implications: it signals that DeepMind is moving from a research-first to a product-racing posture in at least some domains, which may accelerate capability releases and narrow the safety review window Google has traditionally maintained between research and deployment. The broader industry implication is that the primary competition axis has shifted from raw intelligence benchmarks to agentic execution and ecosystem integration — and Google is acknowledging publicly through internal memos that it is currently behind.</p>
+      <p><a href="https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:29276d540e65a68489352bf088f88dd4f49c49cc</id>
+    <title>[tech] Anthropic launches ten finance agent templates and Microsoft 365 integration as Claude Opus 4.7 leads Vals AI finance benchmark at 64.37%</title>
+    <link href="https://www.anthropic.com/news/finance-agents"/>
+    <updated>2026-05-05T00:00:00Z</updated>
+    <author><name>anthropic.com</name></author>
+    <summary>Anthropic released ten pre-built finance agent templates covering pitchbooks, KYC screening, and month-end close, alongside Microsoft 365 integration for Excel, PowerPoint, Word, and Outlook, as Claude Opus 4.7 takes the top position on Vals AI&#x27;s Finance Agent benchmark.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.anthropic.com/news/finance-agents"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Anthropic released ten pre-built finance agent templates covering pitchbooks, KYC screening, and month-end close, alongside Microsoft 365 integration for Excel, PowerPoint, Word, and Outlook, as Claude Opus 4.7 takes the top position on Vals AI's Finance Agent benchmark.</strong></p>
+      <p>Announced May 5, 2026, the templates span two categories: research and client coverage (pitch builder, meeting preparer, earnings reviewer, financial model builder, market researcher) and finance and operations (valuation reviewer, general ledger reconciler, month-end closer, statement auditor, KYC screener). Templates deploy as plugins in Claude Cowork or Claude Code, or as cookbooks for Claude Managed Agents (beta), across all paid plans. The Microsoft 365 integration adds Excel, PowerPoint, Word, and Outlook (coming soon) add-ins, enabling context-aware AI assistance across the standard corporate productivity stack without re-entering context between applications. Eight new financial data connectors were added: Dun &amp; Bradstreet, Fiscal AI, Financial Modeling Prep, Guidepoint, IBISWorld, SS&amp;C Intralinks, Third Bridge, and Verisk — alongside Moody's MCP app providing ratings on 600 million-plus companies. Claude Opus 4.7 leads Vals AI's Finance Agent benchmark with a 64.37% accuracy score, which Anthropic describes as the industry-leading result for financial AI tasks.</p>
+      <p><strong>Why it matters:</strong> The finance agent release is part of Anthropic's broader enterprise monetization strategy — including the $1.5 billion Blackstone/Goldman joint venture announced last week — to embed Claude into operational workflows at major financial institutions rather than competing solely on the basis of model intelligence. Microsoft 365 integration is strategically significant because it means Microsoft's enterprise sales organization effectively becomes a distribution channel for Claude, even though Microsoft is simultaneously invested in and distributing OpenAI through Azure; this reflects the reality that enterprise buyers want multi-model optionality rather than single-vendor lock-in. Financial services is the highest-value AI deployment sector because the workflows involve high-stakes, auditable decisions where error costs are extreme, and where workflow automation produces measurable ROI that CIOs can present to boards. The KYC screener template specifically sits at the intersection of AI capability and regulatory compliance: KYC is a legally mandated anti-money-laundering process where failures carry direct regulatory penalties, making an AI-assisted workflow simultaneously a competitive advantage and a regulated activity that attracts regulator scrutiny. Anthropic's benchmark lead in finance agents will face sustained pressure from Google (given the DeepMind strike team initiative) and from OpenAI's own enterprise push; the more important competitive moat will be whether enterprise firms adopt Claude as their primary workflow platform and develop switching costs before rivals close the performance gap.</p>
+      <p><a href="https://www.anthropic.com/news/finance-agents">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:4791e3103397f8670bb29719d614b0613f15c5ae</id>
+    <title>[law] Black voters seek rehearing after SCOTUS immediately finalizes Callais VRA ruling, as Alito-Jackson exchanges signal coming election-law battles</title>
+    <link href="https://www.scotusblog.com/2026/05/is-the-court-done-with-callais/"/>
+    <updated>2026-05-06T13:00:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>Black voters who supported Louisiana&#x27;s majority-Black congressional map filed for rehearing after the Supreme Court immediately finalized its 6-3 Voting Rights Act ruling in Louisiana v. Callais, as heated Alito-Jackson written exchanges foreshadow future election-law confrontations.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/05/is-the-court-done-with-callais/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Black voters who supported Louisiana's majority-Black congressional map filed for rehearing after the Supreme Court immediately finalized its 6-3 Voting Rights Act ruling in Louisiana v. Callais, as heated Alito-Jackson written exchanges foreshadow future election-law confrontations.</strong></p>
+      <p>On Monday May 6, the Supreme Court moved to immediately finalize its 6-3 opinion in Louisiana v. Callais — striking down Louisiana's congressional map that created two majority-Black districts on Equal Protection grounds — and refused a request to reverse that decision. The following day, Black voter groups who had supported the original map filed a motion asking the Court to recall its judgment, arguing they had not been given adequate time to petition for rehearing — a procedurally extraordinary step. Justice Alito's concurring opinion, joined by Thomas and Gorsuch, prompted sharp exchanges with Justice Ketanji Brown Jackson, the sole dissenter, over whether the Court had overstepped its role in nationwide redistricting. CNN coverage described the concurrences as foreshadowing similar confrontations in forthcoming election-law cases on campaign finance and mail-in voting procedures. Alabama separately asked the Court to preemptively approve its challenged congressional map for use through 2030, which would effectively extend the ruling's practical impact to a second redistricting cycle. The Court indicated additional opinions may be released May 14.</p>
+      <p><strong>Why it matters:</strong> The immediate-effect order means Louisiana must redraw its congressional maps on a compressed pre-2026-midterm schedule, likely reverting to a single majority-Black district and reducing Black representation in the delegation — a direct, near-term electoral consequence of the ruling. The recall motion, while extraordinarily unlikely to succeed, creates a public record challenging the Court's handling of minority parties' procedural rights, which will be cited in future VRA litigation. Alabama's request, if granted, would immunize its map from VRA challenge until after the 2030 redistricting cycle — effectively doubling the ruling's practical impact by foreclosing the next round of minority vote-dilution challenges before they begin. The Alito-Jackson concurrence war signals that the Court's ideological fault lines are hardening and becoming more publicly adversarial, which will shape how the moderate bloc (Roberts, Kavanaugh) positions itself on contested election-law questions where the reputational costs of siding with either extreme are now higher. Legal scholars watching the "2-3-4 wild card court" dynamic note that the Callais aftermath is precisely where the dynamics of a shifting center reveal themselves: the question of whether any justice will break from the conservative majority to slow Alabama's request will be the most important signal of the term's remaining election-law arc.</p>
+      <p><a href="https://www.scotusblog.com/2026/05/is-the-court-done-with-callais/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:8586749fc39a9abea277fa9df648290c731b696d</id>
+    <title>[cybersecurity] Russia arrests 21-year-old cybersecurity entrepreneur Timur Kilin on treason charges for criticizing state-backed messaging app on Telegram</title>
+    <link href="https://therecord.media/russia-arrests-tech-entrepreneur-treason"/>
+    <updated>2026-05-10T14:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>Russian authorities arrested 21-year-old cybersecurity entrepreneur Timur Kilin in Moscow on treason charges in late November 2025, apparently triggered by his Telegram posts criticizing a Kremlin-favored messaging app and opposing a proposed anti-cyberfraud law.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/russia-arrests-tech-entrepreneur-treason"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Russian authorities arrested 21-year-old cybersecurity entrepreneur Timur Kilin in Moscow on treason charges in late November 2025, apparently triggered by his Telegram posts criticizing a Kremlin-favored messaging app and opposing a proposed anti-cyberfraud law.</strong></p>
+      <p>Kilin founded a cybersecurity startup called Spide Security in 2025 and had previously built vulnerability scanning systems and operated the hosting service TverHost. His arrest appears to stem from public Telegram commentary in which he called the state-owned messaging app "Max" a "disgusting product," flagged its use of software libraries from "unfriendly countries," and opposed a proposed anti-cyberfraud bill, writing "no civilized society would ever allow a ban on global knowledge." The case continues a long pattern of Russia targeting technical community members: Group-IB co-founder Ilya Sachkov received a 14-year sentence on contested treason charges in 2023, and ordinary citizens have been prosecuted for social media posts ranging from anti-war commentary to academic research. Russian media attributes Kilin's arrest to his Telegram channel criticism, though case details remain classified; court documents are publicly available through Moscow's system. Kilin was 21 years old at the time of arrest, making him one of the youngest people caught in this pattern of prosecutions.</p>
+      <p><strong>Why it matters:</strong> The arrest of a 21-year-old security researcher for Telegram commentary illustrates how Russia has expanded the definition of treason to encompass technical criticism of state-preferred technology platforms — a chilling signal to anyone in Russia's tech sector who publicly evaluates government software or advocates for open technical standards. For Western cybersecurity intelligence, the pattern of arresting technically skilled individuals who criticize state surveillance infrastructure serves two purposes: it removes potential sources of information about Russian offensive cyber programs, and it creates a pool of technically skilled, potentially motivated exiles who arrive in Western countries with compelling personal reasons to cooperate. Russia's simultaneous prosecution of security researchers and reliance on state-sponsored hacking units creates an obvious tension: security expertise is weaponized by the state while being criminalized when exercised independently, a cognitive dissonance that will eventually produce a talent crisis for Russia's legitimate security sector. The specific targeting of Kilin for opposing restrictions on global technical knowledge — combined with the Max criticism — is consistent with Russia's broader RuNet sovereignty agenda, which views open-source participation and international security research community membership as threats to information control. Western cybersecurity firms and governments should expect Russian technical talent emigration to continue accelerating as long as this enforcement posture continues, creating both intelligence opportunities and integration challenges.</p>
+      <p><a href="https://therecord.media/russia-arrests-tech-entrepreneur-treason">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
 
   <entry>
     <id>tag:mhsezgin.github.io,2026:summary:2026-05-10-1840</id>
@@ -25,6 +234,7 @@
       ]]></content>
     <category term="summary"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ca0d7d7a93c829dc765f5110607c333bc9ac6f3f</id>
     <title>[ai] Anthropic unveils Claude Mythos Preview, an AI that autonomously exploits zero-day vulnerabilities across every major OS</title>
@@ -41,6 +251,7 @@
       ]]></content>
     <category term="tech"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:c4b11f5cbe74941639bbadf19b4f64261d7373c4</id>
     <title>[global politics] Iran drone strikes target Qatar, UAE, and Kuwait on May 10, testing the fragile US-brokered ceasefire</title>
@@ -57,22 +268,7 @@
       ]]></content>
     <category term="global_politics"/>
   </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:2f244068731d266de45c692c728414a9a572a13e</id>
-    <title>[tech] Anthropic launches $1.5 billion enterprise AI services joint venture with Blackstone, Goldman Sachs, and Hellman &amp; Friedman</title>
-    <link href="https://www.anthropic.com/news/enterprise-ai-services-company"/>
-    <updated>2026-05-04T00:00:00Z</updated>
-    <author><name>anthropic.com</name></author>
-    <summary>Anthropic co-launched a $1.5 billion enterprise AI services joint venture with Blackstone, Hellman &amp; Friedman, Goldman Sachs, and Singapore's GIC to embed AI engineers inside mid-sized companies—community banks, regional manufacturers, and health systems—that lack the resources for sophisticated Claude deployments.</summary>
-    <content type="html"><![CDATA[
-        <p><a href="https://www.anthropic.com/news/enterprise-ai-services-company"><strong>&#128240; Read full article &#8594;</strong></a></p>
-        <p><strong>Anthropic co-launched a $1.5 billion enterprise AI services joint venture with Blackstone, Hellman & Friedman, Goldman Sachs, and Singapore's GIC to embed AI engineers inside mid-sized companies—community banks, regional manufacturers, and health systems—that lack the resources for sophisticated Claude deployments.</strong></p>
-        <p>The joint venture, announced May 4, 2026, is backed by a consortium including General Atlantic, Leonard Green, Apollo Global Management, GIC, and Sequoia Capital, with Anthropic, Blackstone, and Hellman & Friedman each contributing approximately $300 million. The new firm targets companies beneath the Fortune 500 threshold: health systems, community banks, regional manufacturers, and similar organizations that have not been served by Anthropic's existing partnerships with Accenture, Deloitte, and PwC. The business model is implementation-first: applied AI engineers from Anthropic work alongside the firm's own engineers to redesign client workflows and build custom Claude integrations, then provide long-term support—fundamentally different from a pure API access or consulting engagement. CFO Krishna Rao explained the rationale: 'Enterprise demand for Claude is significantly outpacing any single delivery model.' The announcement came the same day OpenAI announced a comparable joint venture, signaling that the two largest frontier AI labs have converged on the same go-to-market strategy for capturing mid-market enterprise revenue.</p>
-        <p><strong>Why it matters:</strong> By bringing in Blackstone—the world's largest alternative asset manager with roughly $1 trillion in AUM and portfolio companies spanning healthcare, logistics, real estate, and infrastructure—and Goldman Sachs with relationships across thousands of corporate clients, Anthropic gains an instant distribution channel to exactly the mid-market customers it could not previously reach at scale. For incumbent management consulting and systems integration firms—Accenture, Deloitte, McKinsey's AI practice—this JV is a direct threat: it bundles model access, implementation, and long-term support under one roof at pricing middle-market budgets can sustain, compressing the margin on which consultants depend. The simultaneous OpenAI JV announcement suggests the frontier AI market is entering a deployment phase in which go-to-market and distribution advantages matter as much as model quality, and raises the question of whether mid-market companies will standardize on Claude or ChatGPT in ways that create durable switching costs. The healthcare use case highlighted in the announcement—redirecting physician time from documentation to patient care—is also the sector most directly regulated by HIPAA and state health-data privacy laws, ensuring that regulatory compliance infrastructure will be a key competitive differentiator for whichever enterprise AI firm penetrates health systems first.</p>
-        <p><a href="https://www.anthropic.com/news/enterprise-ai-services-company">Read original &#8594;</a></p>
-      ]]></content>
-    <category term="tech"/>
-  </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:63b83b32b513f8ac2bddb93af12641532ef33119</id>
     <title>[tech] Anthropic seals multi-gigawatt Google and Broadcom TPU deal as run-rate revenue triples to $30 billion</title>
@@ -89,6 +285,7 @@
       ]]></content>
     <category term="tech"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:d9412fef6bdf5b0d5d27846901b95ecaf1f00fba</id>
     <title>[tech law] Bambu Lab sends cease-and-desist to OrcaSlicer developer who restored cloud-printing feature company had disabled via firmware</title>
@@ -105,22 +302,7 @@
       ]]></content>
     <category term="tech_law"/>
   </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:f063e7c57e7ebab5da9a60f4e8afba1c6032c0d5</id>
-    <title>[law] SCOTUSblog: The 'two-three-four wild card court' and what Blanche v. Lau tells us about the new SCOTUS coalition dynamics</title>
-    <link href="https://www.scotusblog.com/2026/05/a-2-3-4-wild-card-court-and-blanche-v-lau-made-easy/"/>
-    <updated>2026-05-06T13:30:00Z</updated>
-    <author><name>scotusblog.com</name></author>
-    <summary>Legal analyst Rory Little's 'two-three-four wild card court' framework redraws the traditional 3-3-3 conservative/moderate/liberal model of the Supreme Court, identifying four justices—Roberts, Gorsuch, Kavanaugh, and Barrett—as genuinely unpredictable swing voters whose case-specific judgments now determine most outcomes.</summary>
-    <content type="html"><![CDATA[
-        <p><a href="https://www.scotusblog.com/2026/05/a-2-3-4-wild-card-court-and-blanche-v-lau-made-easy/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-        <p><strong>Legal analyst Rory Little's 'two-three-four wild card court' framework redraws the traditional 3-3-3 conservative/moderate/liberal model of the Supreme Court, identifying four justices—Roberts, Gorsuch, Kavanaugh, and Barrett—as genuinely unpredictable swing voters whose case-specific judgments now determine most outcomes.</strong></p>
-        <p>Little argues the Thomas-Alito bloc (solid 2) and the Sotomayor-Kagan-Jackson bloc (solid 3) are stable, but the four remaining justices—Roberts, Gorsuch, Kavanaugh, and Barrett—vote as swing votes rather than as a unified bloc, making coalition-building unpredictable case by case. The most surprising repositioning is Gorsuch: once assumed to be a reliable fifth conservative vote, Little places him as a wild card based on his textualism applied in ways that favor criminal defendants, immigrants, and Native American interests against government overreach—positions that have repeatedly aligned him with the liberal justices. The case Blanche v. Lau illustrates the model: Muk Choi Lau, a lawful permanent resident since 2007, was detained at JFK upon return from China when immigration officers found a felony trademark counterfeiting indictment in an FBI database; the Second Circuit ruled the government lacked 'clear and convincing evidence' at the time of reentry as required for normal-admission denial. The government appeals to SCOTUS, asking whether a pending felony indictment alone suffices for border officers to detain an LPR without satisfying the evidentiary standard. Little proposes a narrow holding—pending charges should suffice for preliminary parole pending removal proceedings—that could attract a supermajority while avoiding a broad proof-standard ruling.</p>
-        <p><strong>Why it matters:</strong> The 2-3-4 wild card framework has immediate practical significance for lawyers and advocates: if four justices are genuinely unpredictable rather than two, the Supreme Court becomes harder to model strategically, which paradoxically makes in-person oral argument more influential—nuanced advocacy before potentially persuadable justices matters more than baseline vote-counting. For immigration law specifically, Blanche v. Lau asks a narrow but high-stakes question: whether LPRs returning after international travel can be detained based on criminal database hits without a full evidentiary hearing at the border, a question affecting hundreds of thousands of permanent residents who travel internationally. If the Court validates the government's position, it would effectively give border officers broad detention authority over LPRs with pending criminal charges regardless of the strength of the underlying case—expanding executive power in immigration enforcement at the border checkpoint before any judicial review. The case is also a test of how Gorsuch's textualism plays out in immigration law: the INA's 'at the time of' language is central, and Gorsuch's approach to statutory text could produce an outcome that surprises both immigration advocates and the Trump administration. A narrow ruling along the lines Little proposes—parole pending removal proceedings is acceptable even without full 'clear and convincing' proof—would give both sides a partial win and is the outcome most consistent with the 2-3-4 model.</p>
-        <p><a href="https://www.scotusblog.com/2026/05/a-2-3-4-wild-card-court-and-blanche-v-lau-made-easy/">Read original &#8594;</a></p>
-      ]]></content>
-    <category term="law"/>
-  </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:1cdc34615b26b1f4497ca2606b1e89e085bc1192</id>
     <title>[global politics] Australia's One Nation wins historic first lower house seat in Farrer by-election, ending 77-year Coalition hold</title>
@@ -137,166 +319,7 @@
       ]]></content>
     <category term="global_politics"/>
   </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:bf5f146fd3b7f34bbaac3be8002c972d332357b5</id>
-    <title>SpaceX Backs Anthropic with Colossus 1 Compute Access While Musk Simultaneously Sues OpenAI</title>
-    <link href="https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit"/>
-    <updated>2026-05-06T12:00:00Z</updated>
-    <author><name>aljazeera.com</name></author>
-    <summary>SpaceX agreed to grant Anthropic access to its 220,000-GPU Colossus 1 data center in Memphis, Tennessee — providing 300 megawatts of new compute capacity within one month — while Elon Musk simultaneously pursues his lawsuit against OpenAI, making SpaceX a direct compute backer of OpenAI's most capable competitor.</summary>
-    <content type="html"><![CDATA[
-          <p><a href="https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit"><strong>📰 Read full article →</strong></a></p>
-        <p><strong>SpaceX agreed to grant Anthropic access to its 220,000-GPU Colossus 1 data center in Memphis, Tennessee — providing 300 megawatts of new compute capacity within one month — while Elon Musk simultaneously pursues his lawsuit against OpenAI, making SpaceX a direct compute backer of OpenAI's most capable competitor.</strong></p>
-        <p>The deal gives Anthropic access to SpaceX's Colossus 1 facility in Memphis, housing more than 220,000 Nvidia processors with 300 megawatts of power capacity available within one month — enough electricity to power over 300,000 homes. Anthropic will use the compute to enhance Claude Pro and Claude Max assistants, and simultaneously announced it was doubling rate limits for paid plans, removing peak-hour usage caps, and increasing developer request volumes. The arrangement is strategically pointed: Musk is actively suing OpenAI and CEO Sam Altman, alleging OpenAI abandoned its nonprofit mission in favor of commercial interests, and SpaceX's simultaneous support of Anthropic — which competes directly with OpenAI — functions as a compute-level second front in that competitive conflict. Musk stated he approved the deal after meeting Anthropic's leadership, saying 'No one set off my evil detector.' Both parties expressed interest in eventually collaborating on 'multiple gigawatts of space-based orbital data centres,' tying the arrangement to SpaceX's broader IPO and orbital compute ambitions. Separately, Anthropic was excluded from a Pentagon classified-network AI deal that went to Microsoft, Google, and xAI.</p>
-        <p><strong>Why it matters:</strong> Access to 220,000 Nvidia GPUs at a single facility is a training- and inference-scale resource that materially changes Anthropic's competitive position relative to OpenAI's Azure relationship and Google's TPU infrastructure, which had been the two dominant compute partnerships in frontier AI. The deal is partly a strategic Musk calculation: backing Anthropic with hardware while litigating against OpenAI functions as a market fragmentation move — Musk apparently prefers a frontier AI market with multiple competitive poles to one where OpenAI holds dominant position. For Anthropic, the benefit includes independence from sole reliance on Amazon Web Services as its primary compute partner, which reduces its negotiating constraints on pricing and priority access during peak demand. The orbital data center ambition is worth monitoring: if SpaceX's Starship-based orbital compute infrastructure materializes at gigawatt scale, it would give Anthropic access to compute outside terrestrial power grid constraints at a moment when US energy policy and data center permitting are becoming significant bottlenecks for frontier model training. The concurrent Pentagon exclusion creates a notable asymmetry in US AI policy: Anthropic, which has the most developed published safety frameworks among major frontier labs, holds no classified-network contracts, while competitors with fewer public safety commitments hold government AI relationships.</p>
-        <p><a href="https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit">Read original →</a></p>
-    ]]></content>
-    <category term="tech"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:dc322473cfadffbac35c792e20f8654d45bcbaf1</id>
-    <title>DMA at Two: EU's Big Tech Law Produced Real Market Changes—but Compliance Theater Blunts Its Impact</title>
-    <link href="https://www.euronews.com/my-europe/2026/05/07/dma-how-the-eus-big-tech-law-changed-citizens-lives"/>
-    <updated>2026-05-07T00:00:00Z</updated>
-    <author><name>euronews.com</name></author>
-    <summary>Two years after the EU Digital Markets Act entered into force, analysis finds the regulation has produced tangible gains—a 500 million euro Apple fine, cross-platform messaging rights, measurable browser competition—but up to 66 percent of frequent users report that gatekeeper compliance increases friction rather than delivering the promised consumer benefits.</summary>
-    <content type="html"><![CDATA[
-        <p><a href="https://www.euronews.com/my-europe/2026/05/07/dma-how-the-eus-big-tech-law-changed-citizens-lives"><strong>&#128240; Read full article &#8594;</strong></a></p>
-        <p><strong>Two years after the EU Digital Markets Act entered into force, analysis finds the regulation has produced tangible gains—a 500 million euro Apple fine, cross-platform messaging rights, measurable browser competition—but up to 66 percent of frequent users report that gatekeeper compliance increases friction rather than delivering the promised consumer benefits.</strong></p>
-        <p>The Digital Markets Act took effect in May 2023, designating seven platforms as "gatekeepers"—Apple, Google, Meta, Amazon, ByteDance, and two others—and imposing interoperability, data-sharing, and anti-steering obligations designed to open their ecosystems to competition. Concrete changes for EU consumers include the ability to set alternative browsers and payment apps as iPhone defaults, enforceable cross-platform messaging (a Latvian startup called BirdyChat now allows users to message WhatsApp contacts from outside Meta's ecosystem), and choice screens that have measurably shifted browser market share toward privacy-focused alternatives like Firefox. The Commission fined Apple 500 million euros in April 2025 for anti-steering violations that blocked App Store developers from directing users to cheaper purchases outside the App Store, and fined Meta 200 million euros for its "consent-or-pay" advertising model—both fines have been appealed. The Commission's April 2026 first formal DMA review declared the law "fit for purpose" while acknowledging a "ping-pong" enforcement dynamic: gatekeepers submit changes, the Commission requests improvements, and the cycle repeats without conclusive resolution. The Commission is now investigating Meta's integration of AI features into WhatsApp without a user opt-out, testing whether the DMA's systemic-risk provisions can reach AI-embedded features that post-date the regulation's drafting.</p>
-        <p><strong>Why it matters:</strong> The DMA's two-year record reveals the gap between structural obligation and behavioral change: Apple and Meta have technically complied with most formal requirements while engineering compliance to increase friction and discourage users from exercising the rights the law creates—a pattern up to 66 percent of frequent users report experiencing as longer searches and less relevant results, and critics describe as "compliance theater." The 500 million euro Apple fine and 200 million euro Meta fine are significant but represent small fractions of both companies' annual revenues; credible deterrence requires the Commission to demonstrate willingness to escalate toward the DMA's ceiling of 10 percent of global annual turnover, a threshold that has not yet been invoked. The AI integration investigations are the most consequential test of the DMA's scope since enactment: if embedding AI features constitutes a new market-access barrier under Article 34 systemic-risk obligations, the regulation's reach will extend far beyond what the 2023 text explicitly anticipated and could require legislative clarification. The "fit for purpose" review signals no legislative revisions are imminent, meaning enforcement-through-fines remains the primary lever for at least two more years, making the size and sequencing of upcoming penalty decisions the decisive variable for the DMA's deterrence effect. Transatlantic tensions complicate enforcement: the Trump administration has signaled it views DMA actions targeting American companies as discriminatory trade policy, creating diplomatic pressure the Commission must navigate alongside its legal proceedings.</p>
-        <p><a href="https://www.euronews.com/my-europe/2026/05/07/dma-how-the-eus-big-tech-law-changed-citizens-lives">Read original &#8594;</a></p>
-      ]]></content>
-    <category term="tech_law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:32f1f2e4cf555655bf06be5074dc78ed84b96460</id>
-    <title>What the EU AI Omnibus Deal Changes for the AI Act and What Lies Ahead</title>
-    <link href="https://www.techpolicy.press/what-the-eu-ai-omnibus-deal-changes-for-the-ai-act-and-what-lies-ahead/"/>
-    <updated>2026-05-07T06:00:00Z</updated>
-    <author><name>techpolicy.press</name></author>
-    <summary>The EU Council and Parliament reached a provisional agreement on May 7 to amend the AI Act, delaying high-risk system compliance deadlines by over a year while adding a new ban on AI nudifier tools and broadening permissions to use sensitive personal data for bias detection.</summary>
-    <content type="html"><![CDATA[
-          <p><a href="https://www.techpolicy.press/what-the-eu-ai-omnibus-deal-changes-for-the-ai-act-and-what-lies-ahead/"><strong>📰 Read full article →</strong></a></p>
-        <p><strong>The EU Council and Parliament reached a provisional agreement on May 7 to amend the AI Act, delaying high-risk system compliance deadlines by over a year while adding a new ban on AI nudifier tools and broadening permissions to use sensitive personal data for bias detection.</strong></p>
-        <p>The Digital AI Omnibus package, finalized in early-morning negotiations in Brussels on May 7, 2026, extends the compliance deadline for standalone high-risk AI systems under Annex III — covering biometrics, law enforcement, border control, and critical infrastructure — from August 2, 2026 to December 2, 2027, a 16-month extension. AI systems embedded in regulated products such as medical devices, machinery, and toys receive an even longer runway until August 2, 2028. The deal reflects sustained lobbying by European industry groups backed by German Chancellor Friedrich Merz, who personally pressed for broader industrial exemptions and secured France and Italy's backing; Parliament ultimately limited exemptions to the machinery sector. Parliament's right wing prioritized industry relief; the left wing traded concessions to secure the new nudifier ban, which prohibits AI tools generating realistic non-consensual nude images and takes effect December 2026 — directly responding to millions of deepfake cases linked to Grok. Transparency and AI-generated content watermarking obligations under Article 50 retain the August 2 deadline, though existing deployed systems receive grace periods. SME privileges were extended to small mid-cap companies, and a new EU-level regulatory sandbox was established to allow controlled testing of high-risk AI.</p>
-        <p><strong>Why it matters:</strong> The 16-month extension for high-risk AI removes the most immediate compliance pressure from companies developing AI for healthcare, law enforcement, and critical infrastructure — the sectors where certification requirements generated the greatest industry pushback, with compliance cost estimates running to tens of millions of euros per system. The delay is a direct concession to competitiveness arguments that the original August 2026 deadline would disadvantage European companies against US and Chinese competitors operating under lighter AI regulation. The nudifier ban is the deal's meaningful civil society win: placing an affirmative prohibition directly in the AI Act rather than relying solely on the Digital Services Act and criminal law creates a new EU-level enforcement vector against platforms hosting or generating such content. The Data Omnibus — the companion regulation addressing GDPR simplification — remains outstanding and poses greater risks, as it would broaden personal data processing permissions for AI training. The provisional agreement must receive formal approval from EU member states and the European Parliament, with Ireland taking over the Council presidency on June 30, timing that will determine how quickly formal adoption proceeds — and whether the August 2 transparency deadline triggers first compliance actions before high-risk rules take effect.</p>
-        <p><a href="https://www.techpolicy.press/what-the-eu-ai-omnibus-deal-changes-for-the-ai-act-and-what-lies-ahead/">Read original →</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:cddc5b6e7f9b5663cccc2bf3365a1c45dc7d7f22</id>
-    <title>Musk v. Altman Week 2: OpenAI Fires Back as Shivon Zilis Reveals Musk Tried to Recruit Altman to Tesla</title>
-    <link href="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>technologyreview.com</name></author>
-    <summary>As the $134 billion OpenAI trial entered its second week in Oakland, Shivon Zilis testified that Elon Musk attempted to recruit Sam Altman to lead a competing AI company at Tesla and asked researcher Andrej Karpathy to compile a list of top OpenAI employees to poach, while OpenAI countered that Musk is suing to destroy a commercial rival to xAI.</summary>
-    <content type="html"><![CDATA[
-        <p><a href="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-        <p><strong>As the $134 billion OpenAI trial entered its second week in Oakland, Shivon Zilis testified that Elon Musk attempted to recruit Sam Altman to lead a competing AI company at Tesla and asked researcher Andrej Karpathy to compile a list of top OpenAI employees to poach, while OpenAI countered that Musk is suing to destroy a commercial rival to xAI.</strong></p>
-        <p>The trial, which began April 27, 2026 before Judge Yvonne Gonzalez Rogers in Oakland, centers on whether OpenAI's transformation from a nonprofit into a capped-profit entity violated a charitable trust Musk helped found, with Musk seeking $134 billion in damages. OpenAI's week-two legal strategy turned sharply offensive: the company argued Musk had demanded majority equity and the CEO position in any for-profit structure, and sued only after those demands were refused. OpenAI president Greg Brockman testified that after cofounders proposed equal equity splits, Musk stormed out saying "I actually thought he was going to hit me." Shivon Zilis—a former OpenAI board member who later bore Musk's children through IVF and joined Tesla and Neuralink—testified that Musk attempted to recruit Altman to lead an AI lab at Tesla around 2017 and asked Andrej Karpathy "to send a list of top OpenAI people to poach." Musk's counsel Steven Molo cross-examined Brockman on his approximately $30 billion equity stake despite never investing personal funds and on his holdings in Cerebras, CoreWeave, and Helion Energy—all companies with existing OpenAI business relationships—arguing financial self-interest overshadowed mission fidelity.</p>
-        <p><strong>Why it matters:</strong> Judge Gonzalez Rogers will issue the binding ruling after weighing the advisory jury's findings; a decision against OpenAI could delay or derail its planned IPO at approximately $1 trillion valuation, with direct consequences for Microsoft's $13 billion equity stake. The trial is producing an unusually detailed public record of AI governance: Musk's December 2017 pivot to building an AI lab at Tesla after concluding OpenAI was "unlikely to build AGI," his attempted poaching of Altman and other researchers, and the competing equity demands all illuminate how the competitive AI landscape took its current shape. Ilya Sutskever and Microsoft CEO Satya Nadella are scheduled to testify in coming days—Nadella's appearance is significant because it may require him to explain publicly what consideration Microsoft provided for its equity stake, a question central to the nonprofit-breach theory. SpaceX is targeting a June 2026 IPO at a $1.75 trillion valuation, giving Musk financial incentives to manage the litigation's public impact carefully. The advisory jury's deliberations and verdict are expected within two weeks, after which Judge Gonzalez Rogers will set her own timeline for the final ruling.</p>
-        <p><a href="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/">Read original &#8594;</a></p>
-      ]]></content>
-    <category term="tech"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:7196474f878e4faaae7ee2d2338f8182bbfb97ec</id>
-    <title>FBI Raids Office of Virginia Democratic Leader Who Championed 10-1 Democratic Redistricting Maps, With Fox News Pre-Positioned at the Scene</title>
-    <link href="https://www.techdirt.com/2026/05/08/fbi-raids-office-of-dem-politician-instrumental-in-redrawing-virginia-voter-maps-with-fox-news-in-tow/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>techdirt.com</name></author>
-    <summary>FBI agents raided the Portsmouth home office of Virginia Democratic State Senate leader L. Louise Lucas—the legislator whose redistricting effort produced a 10-1 Democratic congressional advantage ratified by voters in April—with Fox News already positioned at the scene before the search began, raising questions about law enforcement-media coordination.</summary>
-    <content type="html"><![CDATA[
-        <p><a href="https://www.techdirt.com/2026/05/08/fbi-raids-office-of-dem-politician-instrumental-in-redrawing-virginia-voter-maps-with-fox-news-in-tow/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-        <p><strong>FBI agents raided the Portsmouth home office of Virginia Democratic State Senate leader L. Louise Lucas—the legislator whose redistricting effort produced a 10-1 Democratic congressional advantage ratified by voters in April—with Fox News already positioned at the scene before the search began, raising questions about law enforcement-media coordination.</strong></p>
-        <p>Louise Lucas was the central Democratic figure in Virginia's 2026 redistricting initiative, a Democrat-led effort to redraw the state's congressional district boundaries in response to prior Republican gerrymandering. Virginia voters approved the new maps via referendum in April 2026, shifting the congressional delegation from a 6-5 Democratic advantage to a projected 10-1 Democratic majority—a dramatic reversal that prompted Trump to label the outcome a "RIGGED ELECTION" on Truth Social and Lucas to respond to Senator Ted Cruz's criticism with "You all started it and we fucking finished it." FBI agents searched Lucas's Portsmouth office on May 8, 2026; according to anonymous sources cited by the Associated Press and New York Times, the investigation concerned corruption allegations that opened during the Biden administration, predating the redistricting controversy. Fox News reporter Alex Hogan—previously listed as a London-based correspondent—was already present at the search site before agents arrived; Fox subsequently revised Hogan's biography page after scrutiny of this fact emerged. As of publication, no charges have been filed against Lucas and no court documents have been made public.</p>
-        <p><strong>Why it matters:</strong> The most significant legal question is whether the FBI's apparent pre-coordination with Fox News before an unannounced search raises Fourth Amendment execution concerns and whether the timing—against a legislator whose redistricting maps the administration publicly denounced—creates a pattern that implicates First Amendment and equal-protection principles even if the stated underlying allegations are formally unrelated to redistricting. Fox's advance knowledge suggests someone in or with access to the investigative chain informed the outlet, conduct that, if proven, could affect the admissibility of evidence and expose participants to accountability under DOJ leak guidelines. Virginia's redistricting fight is itself a downstream consequence of the Supreme Court's 2019 Rucho v. Common Cause decision that partisan gerrymandering is a non-justiciable political question; states have since engaged in an unregulated partisan mapmaking competition with no federal judicial check. The raid joins a growing pattern of federal law enforcement actions against Democratic officials involved in electoral map challenges, which civil rights organizations say raises systemic rule-of-law concerns regardless of individual cases' legal merits. Lucas's defiant public posture signals that any eventual charges will be contested aggressively and framed as politically motivated prosecution, making the government's charging decision—and its timing—a significant political and legal event in its own right.</p>
-        <p><a href="https://www.techdirt.com/2026/05/08/fbi-raids-office-of-dem-politician-instrumental-in-redrawing-virginia-voter-maps-with-fox-news-in-tow/">Read original &#8594;</a></p>
-      ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:3b91b6e52068c16dd6bd752a86df9feadceb8033</id>
-    <title>Too Dangerous to Deploy: Anthropic’s Mythos and What Comes Next</title>
-    <link href="https://www.justsecurity.org/138011/too-dangerous-anthropic-mythos/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>justsecurity.org</name></author>
-    <summary>Anthropic’s Mythos Preview — a frontier AI model that can autonomously exploit software vulnerabilities within hours of discovery — is the first AI system deemed too dangerous for public release, spurring the Trump administration to reverse course on AI oversight.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.justsecurity.org/138011/too-dangerous-anthropic-mythos/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>Anthropic’s Mythos Preview — a frontier AI model that can autonomously exploit software vulnerabilities within hours of discovery — is the first AI system deemed too dangerous for public release, spurring the Trump administration to reverse course on AI oversight.</strong></p>
-      <p>On April 7, 2026, Anthropic announced Mythos Preview, a frontier AI model with hacking capabilities so potent the company declared it “too dangerous” for unrestricted public release. Mythos can autonomously identify and exploit previously unknown software vulnerabilities “potentially within minutes or hours of discovery” — capabilities that “surpass all but the most skilled human” operators, according to Anthropic. The company reported the model had already found thousands of high-severity vulnerabilities, including some in every major operating system and web browser. Rather than a standard commercial launch, Anthropic restricted access to approximately 50 industry partners — including Amazon, Apple, Cisco, Google, Microsoft, and NVIDIA — through Project Glasswing, a defensive cybersecurity initiative backed by $100 million in usage credits and $4 million in direct donations to non-profit security groups. The Pentagon had designated Anthropic a “supply chain risk” in March 2026, but Mythos’s capabilities prompted Dario Amodei to meet White House officials; Trump told CNBC afterward that a defense deal was “possible.” The Commerce Department’s Center for AI Standards and Innovation subsequently announced expanded pre-deployment testing agreements with Google DeepMind, Microsoft, and xAI.</p>
-      <p><strong>Why it matters:</strong> Mythos marks the first instance of a major AI lab voluntarily restricting a commercial model’s release on capability-safety grounds rather than product readiness — a precedent the AI governance community has long advocated but never secured through voluntary commitments alone. The model’s autonomous vulnerability exploitation compresses the patch-response window from the current weeks-to-months standard to potentially hours, rendering current patch cadence fatally inadequate for under-resourced institutions like hospitals, schools, and utilities. The Trump administration’s shift from opposition to Biden-era AI oversight toward active model-testing frameworks signals that national security realities can override ideological hostility to regulation — but the resulting framework remains voluntary and fragmented, covering only companies that signed CAISI agreements. European allies were excluded from Glasswing’s 50 founding partners, intensifying transatlantic tensions over AI access and defensive coordination. The key question: whether Congress codifies any pre-deployment evaluation requirement, or whether Mythos remains a one-time exception that the next generation of AI companies is free to ignore.</p>
-      <p><a href="https://www.justsecurity.org/138011/too-dangerous-anthropic-mythos/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:959a9e314ff177c4cc448443b50dce8c2f16f458</id>
-    <title>The Dialectic of Viewpoint Discrimination</title>
-    <link href="https://verfassungsblog.de/the-dialectic-of-viewpoint-discrimination/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>verfassungsblog.de</name></author>
-    <summary>On the anniversary of Germany’s World War II surrender, the Bundesrat began debate on a Hesse-sponsored bill that would criminalize publicly denying Israel’s right to exist with up to five years in prison, reigniting a fundamental constitutional debate about whether Germany’s historical obligations can justify viewpoint-based speech restrictions.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://verfassungsblog.de/the-dialectic-of-viewpoint-discrimination/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>On the anniversary of Germany’s World War II surrender, the Bundesrat began debate on a Hesse-sponsored bill that would criminalize publicly denying Israel’s right to exist with up to five years in prison, reigniting a fundamental constitutional debate about whether Germany’s historical obligations can justify viewpoint-based speech restrictions.</strong></p>
-      <p>The proposed legislation, introduced by the state of Hesse in the Bundesrat, would create a new criminal offence targeting anyone who “publicly or in an assembly denies the right of the State of Israel to exist or calls for the elimination of the State of Israel in a manner capable of encouraging antisemitic acts of violence or arbitrary measures.” Hesse frames the bill as closing a legal loophole not covered by Holocaust denial laws, with penalties of up to five years in prison or a fine. The top administrative court in North Rhine-Westphalia ruled in November 2025 that questioning Israel’s right to exist does not constitute an existing criminal offence — exactly the gap the bill targets. A virtually identical Hesse proposal failed two years earlier after leading legal scholars and practitioners objected on constitutional grounds. The deliberate timing of the first Bundesrat reading on May 8, the anniversary of Germany’s unconditional surrender, reinforces the legislation’s framing as a response to Germany’s specific historical responsibility toward Jewish life.</p>
-      <p><strong>Why it matters:</strong> The bill tests a structural tension in German constitutional law: the Basic Law’s Article 5 protections for free expression permit restrictions only through “general laws,” meaning the state cannot restrict speech based on its content or viewpoint. Criminal laws against Holocaust denial passed the “general law” test because courts found they targeted a narrow, historically specific deception rather than a political opinion; it is much less clear whether “denial of Israel’s right to exist” satisfies the same standard, because the concept is inherently political and contested. The earlier Hesse bill failed for precisely this reason: leading constitutional scholars argued it constituted viewpoint discrimination — the state criminalizing one side of a political dispute rather than banning incitement or deception as such. If enacted, the law is almost certain to reach the Federal Constitutional Court (Bundesverfassungsgericht), which would have to determine whether Germany’s heightened duty to protect Jewish life justifies content-based speech restrictions beyond Holocaust denial. The European Court of Human Rights has struck down analogous laws in other Council of Europe jurisdictions under Article 10, meaning a German statute of this kind would likely generate international litigation spanning both national and European courts simultaneously.</p>
-      <p><a href="https://verfassungsblog.de/the-dialectic-of-viewpoint-discrimination/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:2183565f4034629b38d8cfd0ef4e498864d33871</id>
-    <title>Once Again, Trump Looks To Get Out Of Paying E. Jean Carroll By Having The DOJ Substitute In For Himself</title>
-    <link href="https://www.techdirt.com/2026/05/08/once-again-trump-looks-to-get-out-of-paying-e-jean-carroll-by-having-the-doj-substitute-in-for-himself/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>techdirt.com</name></author>
-    <summary>The Trump Justice Department filed a Supreme Court motion invoking the Westfall Act to substitute the federal government as defendant in the E. Jean Carroll defamation case — a maneuver three courts have already rejected — which would extinguish Carroll’s $88.3 million verdict if the Court accepts it.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.techdirt.com/2026/05/08/once-again-trump-looks-to-get-out-of-paying-e-jean-carroll-by-having-the-doj-substitute-in-for-himself/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>The Trump Justice Department filed a Supreme Court motion invoking the Westfall Act to substitute the federal government as defendant in the E. Jean Carroll defamation case — a maneuver three courts have already rejected — which would extinguish Carroll’s $88.3 million verdict if the Court accepts it.</strong></p>
-      <p>Trump faces $88.3 million in combined judgments from two Carroll jury verdicts: one for sexual abuse and a separate defamation award arising from Trump’s public denials of Carroll’s account. The Westfall Act allows the federal government to substitute itself as defendant when a government employee has acted within the scope of official duties; if substituted, the case would be dismissed because citizens cannot sue the government for defamation in the same manner. Three separate courts have rejected this argument: the Attorney General explicitly declined Westfall certification during the original 2023 district court proceedings, and courts ruled that waiver belongs to the United States as an entity — not to individual administrations that can revisit it; the 2025 attempt came post-trial and post-verdict, violating the statute’s procedural timing requirements; and courts found that “denying you raped someone is not part of the president’s official job.” A Second Circuit judge described the litigation as “deeply burdensome” while refusing en banc review of the substitution question for the third time. The matter now reaches the Supreme Court, which granted Trump broad presidential immunity in its 2024 Trump v. United States ruling.</p>
-      <p><strong>Why it matters:</strong> The 2024 Trump v. United States immunity decision created the legal environment in which this renewed Westfall argument becomes more plausible — the Court has demonstrated willingness to expand the scope of what constitutes official presidential conduct, and the same logic could theoretically extend to statements made during or about a president’s tenure. If the Court accepts the substitution, it would allow any president to escape personal civil liability by retrospectively invoking government immunity, extinguishing jury verdicts that have already been rendered after full trial. The procedural irregularity matters: the DOJ’s willingness to re-argue a question courts have ruled waived suggests the government is treating successive administrations as separate legal actors who can relitigate finalized procedural decisions — a theory with significant implications for civil litigation involving government officials. Carroll would be left with an uncollectible verdict despite prevailing twice before juries, setting a precedent that future presidential defendants could exploit to run out the clock on civil accountability. The case is now a direct test of whether the Court’s 2024 immunity expansion extends into civil defamation law, a domain where First Amendment doctrine has previously treated presidential speech about public controversies as a matter of free expression rather than sovereign immunity.</p>
-      <p><a href="https://www.techdirt.com/2026/05/08/once-again-trump-looks-to-get-out-of-paying-e-jean-carroll-by-having-the-doj-substitute-in-for-himself/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:126ae190ff91565d43784fbef2e2ff58a010b68b</id>
-    <title>What I learned attending all those Supreme Court oral arguments this term</title>
-    <link href="https://www.scotusblog.com/2026/05/what-i-learned-attending-all-those-supreme-court-oral-arguments-this-term/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>scotusblog.com</name></author>
-    <summary>SCOTUSblog’s Amy Howe attended nearly every oral argument in the 2025-26 term and found a court under visible internal strain, with sessions running nearly double their scheduled length, justices speaking simultaneously in “face-offs,” and public inter-justice conflicts spilling from courtroom into speeches and social media.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.scotusblog.com/2026/05/what-i-learned-attending-all-those-supreme-court-oral-arguments-this-term/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>SCOTUSblog’s Amy Howe attended nearly every oral argument in the 2025-26 term and found a court under visible internal strain, with sessions running nearly double their scheduled length, justices speaking simultaneously in “face-offs,” and public inter-justice conflicts spilling from courtroom into speeches and social media.</strong></p>
-      <p>Oral arguments in the 2025-26 term have nearly doubled their scheduled duration, a trend Howe attributes to multiplying advocates, more complex cases, and justices reluctant to cede question time; Chief Justice Roberts has indicated he may revise the format this summer. Multiple justices now regularly speak simultaneously — Howe calls these “face-offs” — with junior justices expected by unwritten protocol to yield to senior colleagues, and Roberts occasionally intervening when overlap becomes unmanageable. Attending arguments in person revealed dynamics invisible through livestream audio: Justice Amy Coney Barrett physically waved off Justice Ketanji Brown Jackson’s attempted interruption, and President Trump’s attendance at the birthright citizenship argument — the first sitting president present at any oral argument — visibly changed the courtroom’s tone. Women comprised only 30 percent of arguing lawyers in 2025-26, barely improved from 28 percent in 2016-17, and just 27 percent of Solicitor General’s office advocates — a striking gap given that office’s role in launching Supreme Court bar careers. Justice Samuel Alito expressed concern that arguments “can go on and on and on,” and in April’s session only one non-government lawyer argued before the Court for the first time among non-government counsel.</p>
-      <p><strong>Why it matters:</strong> The practical effect of longer arguments is not more information for the justices — who have already read full briefing — but rather heightened fatigue and diminished engagement during second arguments in the same session, a dynamic Howe documents explicitly as visible from the courtroom. The public inter-justice conflicts from April 2026 — Justice Sotomayor’s speech about Kavanaugh, Justice Jackson’s Yale lecture criticizing shadow-docket orders, Justice Thomas’s public response — are reflected in the in-person dynamics: a bench that visibly argues with itself and projects internal divisions that once would have stayed behind closed conference-room doors. The concentration of the Supreme Court bar — with nearly all non-government arguing slots held by repeat advocates — raises access-to-justice concerns, since success in the increasingly extended, contentious format requires a level of preparation and institutional knowledge available to only a small group of practitioners. A format revision this summer could significantly alter oral argument as a legal institution: reducing time limits, restricting interruptions, or changing advocate selection rules would affect not only courtroom experience but also the signals the Court sends about how much it values live advocacy versus written briefs. Any structural change would also affect how the inter-justice tensions currently playing out in speeches might instead express themselves within the argument itself.</p>
-      <p><a href="https://www.scotusblog.com/2026/05/what-i-learned-attending-all-those-supreme-court-oral-arguments-this-term/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:45b29545c5f2482a3e9c7a74d0839606655d3965</id>
-    <title>Musk v. Altman</title>
-    <link href="https://verfassungsblog.de/musk-v-altman/"/>
-    <updated>2026-05-08T00:00:00Z</updated>
-    <author><name>verfassungsblog.de</name></author>
-    <summary>The Musk v. Altman trial, in which Elon Musk seeks Sam Altman’s removal and demands OpenAI revert to its nonprofit structure, raises fundamental questions about whether charitable mission statements embedded in AI company charters create enforceable legal obligations that override subsequent commercial restructuring.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://verfassungsblog.de/musk-v-altman/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>The Musk v. Altman trial, in which Elon Musk seeks Sam Altman’s removal and demands OpenAI revert to its nonprofit structure, raises fundamental questions about whether charitable mission statements embedded in AI company charters create enforceable legal obligations that override subsequent commercial restructuring.</strong></p>
-      <p>The trial centers on OpenAI’s conversion from a nonprofit to a capped-profit company and its subsequent plans for a full for-profit restructuring, which Musk alleges abandons the founding mission to develop AI “for the benefit of humanity.” Evidence introduced during the trial shows OpenAI had fallen from second to near-last among major AI companies on the 2025 Stanford Foundation Model Transparency Index; the company announced plans to introduce advertising into ChatGPT in January 2026 and disbanded its alignment team in February 2026 despite repeated lawsuits alleging premature model releases. Shivon Zilis — mother of Musk’s children and a former OpenAI board observer — testified that Musk had attempted to recruit Sam Altman to Tesla’s board before their falling-out, complicating Musk’s claim that his motives are purely mission-driven. The Verfassungsblog analysis by Teodora Groza, published May 8, argues the trial highlights a gap in European AI regulation: the EU AI Act sets technical safety requirements for AI systems but creates no enforceable governance standards for the AI organizations that build and deploy them. Groza identifies mandatory internal safety boards with independent experts, regulator-appointed observers embedded in AI organizations, and golden shares giving public authorities a direct governance stake as the structural instruments necessary to fill that gap.</p>
-      <p><strong>Why it matters:</strong> The trial is the first judicial examination of whether a charitable mission embedded in a tech company’s founding documents creates legally binding constraints that override subsequent commercial restructuring decisions — a question with direct relevance to every AI company that has incorporated public-benefit language in its charter, safety commitments in its documentation, or mission-driven representations to regulators and investors. If a California court rules that OpenAI’s founding mission creates enforceable governance obligations, the precedent would affect not only OpenAI but every US benefit corporation and AI lab that has made comparable representations. From the EU’s perspective, the trial illustrates why the AI Act’s technical risk classification system is structurally insufficient: it can regulate what an AI system does technically, but it cannot govern who decides whether, when, and at what safety threshold that system is deployed commercially. Groza’s call for mandatory governance instruments — internal safety boards, regulator-appointed observers, golden shares — goes well beyond anything in current EU or US law, and it is unlikely to reach the EU’s AI Act implementing regulations before 2027 at the earliest. The case to watch after the verdict: whether any state attorney general intervenes to enforce charitable trust obligations against OpenAI’s restructuring, which is the most likely domestic enforcement mechanism even if Musk loses.</p>
-      <p><a href="https://verfassungsblog.de/musk-v-altman/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:9708d07d17cde5f08dcf97a6a57bee670a58060d</id>
     <title>Eighth Circuit Kills FCC's Digital Discrimination Rule, Eliminating Federal Oversight of Racial Broadband Gaps</title>
@@ -313,6 +336,7 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:28171835c12d6a374c92b91d44a026b96e8e332b</id>
     <title>Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process and Also a First Amendment Violation</title>
@@ -329,6 +353,7 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:dfa209c453bb8942a904e4cb7812a54a274a0fb7</id>
     <title>But First, Implementation</title>
@@ -345,6 +370,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:3f5e7d17bf09dacfc0635e77ef33c7e03a4c64c5</id>
     <title>When Justices Turn on Each Other</title>
@@ -361,6 +387,7 @@
     ]]></content>
     <category term="law"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:467185b44a60ee0c96c3df93c0e555f6a9af490a</id>
     <title>Iran Accuses US of 'Reckless Military Adventure' as Hormuz Fire Exchange Strains Ceasefire</title>
@@ -377,6 +404,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:d51519dd8fa70f1945a849f8d04076eecca6625a</id>
     <title>Putin Denounces NATO at Scaled-Back Victory Day Parade Featuring North Korean Troops</title>
@@ -393,6 +421,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:0c66082ccef14cc34f22292ce3eea41f996f154a</id>
     <title>P&#xe9;ter Magyar Sworn in as Hungary&#x2019;s Prime Minister, Ending Orb&#xe1;n&#x2019;s 16-Year Rule</title>
@@ -409,6 +438,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:84707e2fce12eb66e29c751f5d4960cdd5ab1c05</id>
     <title>UK Warship HMS Dragon Heads to Middle East for Potential Strait of Hormuz Mission</title>
@@ -425,6 +455,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:734234686247a270f7a545ecc43e731c63fd7452</id>
     <title>Putin Says He Thinks Ukraine Conflict &#x2018;Coming to an End&#x2019;</title>
@@ -441,6 +472,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:90aaaf54f7bb11ff929d1ffd735026b33fd379a8</id>
     <title>Lebanon says Israeli strikes killed 39</title>
@@ -457,6 +489,7 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:65528e9379786afdef20139ac118a754f36bc970</id>
     <title>Iran Sends Formal Ceasefire Response via Pakistan, Insisting War Must End on All Fronts Before Nuclear Talks</title>
@@ -473,6 +506,7 @@
       ]]></content>
     <category term="global_politics"/>
   </entry>
+
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:d2bb25bd8096a63442bcb191f456393892e7ff1f</id>
     <title>What we know about Iran’s response to the latest US ceasefire proposal</title>
@@ -489,4 +523,5 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
+
 </feed>
