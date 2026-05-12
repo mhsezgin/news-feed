@@ -737,6 +737,84 @@
       "url": "https://therecord.media/russia-arrests-tech-entrepreneur-treason",
       "title_hash": "9b9f049a6fa76710bcf0ff73bf6cedd9cdafcf78",
       "ts": "2026-05-11T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-12-0900",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "3b7b6be2de128f8a61886a99a60c9aacb9982e44",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:298ced11cdfbe09de487e98dbb917b6953c5a578",
+      "url": "https://www.scotusblog.com/2026/05/court-clears-way-for-alabama-to-use-congressional-map-blocked-by-lower-court-as-racially-discrim/",
+      "title_hash": "9a3ea2609963a2b4e51e863349e7c980a5b48a30",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ed6dc4b7ac71b9af10a9693676c338b4d541d722",
+      "url": "https://www.scotusblog.com/2026/05/virginia-asks-supreme-court-to-allow-it-to-reinstate-congressional-map-that-would-advantage-demo/",
+      "title_hash": "98a5636ac7d5a6bd172fc492c565a689e9f8709e",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:55c2408180a492a94ed4e04fafee09916045cb9b",
+      "url": "https://www.scotusblog.com/2026/05/court-extends-temporary-order-allowing-access-to-abortion-pill-by-mail/",
+      "title_hash": "b8816aa368205ca4545b1d48954d9302c2578158",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2801e9858940db634e415ba61f21e538b96788d6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "title_hash": "99c6a0e90e34116922114386b81819c4a6f808ae",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:77befe6ef98d097cc85f511e83c0e1a4bfffde68",
+      "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+      "title_hash": "61940f0f00546c3f4b80241c85af9badbef046b9",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:fc444c4833222427f7f7abde9ed543fbbf45a68c",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "title_hash": "e8b14685eddf7bf689f5ae85da503d8c7e9b9e8a",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ae31a2ffa54e23e9637e57a092e28e4e8d47d8aa",
+      "url": "https://therecord.media/dirty-frag-linux-kernel-hit-by-second-major-bug",
+      "title_hash": "e4f19b966e1af7c435157eb9716eda96aba60ced",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b015e6c03d7889322c0a0db12adb469935dbb0fb",
+      "url": "https://therecord.media/texas-sues-netflix-over-data-practices-surveillance",
+      "title_hash": "0913acadb958f38c2602ebe20bcf555228228073",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1b8c2bc5f1601ee7a37999b10ddcd47581a87b0e",
+      "url": "https://therecord.media/uk-water-company-had-hackers-lurking-for-years",
+      "title_hash": "25dddeaa440c3cf0054454e60f216dc831fb3fd8",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ae99293da42b41f9b30415d750d0d6f9a49fa88e",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread",
+      "title_hash": "117b825f60baf9f5de97b1a8071fcf4a037a21dc",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:db7a68ce5545979e7c322a5db51f2147cb9fd41f",
+      "url": "https://www.cnbc.com/2026/05/09/elon-musk-sec-settlement.html",
+      "title_hash": "4d62d672b3b964ec7d83140e65ac44189c45bcaa",
+      "ts": "2026-05-12T09:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:5e903d944ddfd7a28243cccb46e78aded420e473",
+      "url": "https://www.techdirt.com/2026/05/11/tech-companies-fail-to-kill-colorados-right-to-repair-law/",
+      "title_hash": "0c5a5f08b789aa4c4d4f2eab8eadd376163f7cb3",
+      "ts": "2026-05-12T09:00:00Z"
     }
   ]
 }
