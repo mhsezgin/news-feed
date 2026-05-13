@@ -4,8 +4,155 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml"/>
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-12T18:00:00Z</updated>
+  <updated>2026-05-13T10:39:30Z</updated>
 
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:summary:2026-05-13-1039</id>
+    <title>[summary] 2026-05-13 10:39</title>
+    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+    <updated>2026-05-13T10:39:30Z</updated>
+    <author><name>news-feed-agent</name></author>
+    <summary>Digest for 2026-05-13 10:39 UTC: Supreme Court clears Alabama to use map blocked as racially discriminatory while Virginia files redistricting emergency; CBO puts Trump Golden Dome at $1.2 trillion; Yermak corruption trial in Kyiv; Foxconn Nitrogen ransomware hits North American factories; West Pharmaceutical SEC 8-K ransomware disclosure; May Patch Tuesday sees critical Windows Netlogon overflow; Congress probes AI-driven retail surveillance pricing; Alito on arguments and post-Dobbs judicial security.</summary>
+    <content type="html"><![CDATA[
+      <h2>law</h2>
+      <p>Supreme Court's redistricting docket hit a double inflection point on May 12. The justices — over dissents from Sotomayor, Kagan, and Jackson — vacated the federal district court order blocking Alabama's 2023 congressional map (which the district court had found intentionally racially discriminatory) and remanded for reconsideration under <em>Louisiana v. Callais</em>, the May 2026 ruling that narrowed VRA Section 2 liability to require proof that a racially neutral alternative map existed. Within hours, Virginia Democrats and Attorney General Jay Jones filed an emergency application asking the Supreme Court to reinstate a Democratic-drawn congressional map that could flip four House seats — the Virginia Supreme Court had invalidated the constitutional amendment authorizing the legislature to draw it. Justice Samuel Alito, meanwhile, gave a rare extended interview on three rarely aired topics: his frustration that oral arguments have devolved into "speechifying" by justices rather than genuine questioning; the ongoing security crisis following the Dobbs leak (which he says has made judges' work "significantly harder"); and his writing process, in which he edits law-clerk drafts thoroughly at his own word processor and values great writing above all in clerk hiring.</p>
+      <h2>tech_law</h2>
+      <p>Rep. Frank Pallone (D-NJ), ranking member of the House Energy and Commerce Committee, sent letters to 25 major food and pharmacy retailers — including Amazon, Whole Foods, Walmart, Target, Albertsons, CVS, and Wegmans — demanding disclosure of whether they use customer personal data and AI algorithms to set individualized prices. A January 2025 FTC report documented the practice across major firms; New York's disclosure law prompted Target to display "set by an algorithm using your personal data" pop-ups. The inquiry demands specifics on which data elements are used, whether AI determines prices, third-party data sourcing, and consumer opt-out mechanisms. The questions sit at the intersection of the Robinson-Patman Act, state privacy statutes (CPRA, CDPA), and the FTC's open rulemaking on surveillance-based pricing, with significant political salience heading into the 2026 midterms.</p>
+      <h2>global_politics</h2>
+      <p>The Congressional Budget Office released a cost analysis of Trump's Golden Dome missile defense initiative, estimating $1.2 trillion over 20 years — nearly seven times the $175 billion figure Trump cited at launch and six times the $185 billion in the FY2027 defense budget. Congress has already approved $24 billion. Defense analysts note the system cannot reliably intercept ICBMs from Russia or China with existing technology. In Ukraine, Andriy Yermak — Zelensky's former chief of staff and the architect of his political rise — appeared in a Kyiv court on money-laundering charges tied to the Energoatom corruption probe (Operation Midas), with prosecutors alleging he funneled $10.5 million into a luxury housing complex and seeking $4 million bail. Zelensky is not implicated. The case is a significant test of Ukraine's judicial independence and anti-corruption credibility ahead of EU accession talks.</p>
+      <h2>tech / cybersecurity</h2>
+      <p>May 2026 Patch Tuesday brought 118 Microsoft fixes including a critical Windows Netlogon stack-based buffer overflow (CVE-2026-41089) granting SYSTEM privileges on domain controllers without user interaction — priority patching for any enterprise running Active Directory. No zero-days were exploited in the wild, the first such month in nearly two years; Krebs attributes the unprecedented patch volume to Anthropic's "Project Glasswing" AI vulnerability detection program, which found 271 of the vulnerabilities fixed in Firefox 150 alone. On the incident front: Foxconn confirmed a Nitrogen ransomware attack (Conti-derived) beginning Friday across North American factories in Wisconsin, Ohio, Texas, Virginia, Indiana, and Mexico — the third major ransomware incident against the company since 2020 — with the gang claiming 8 terabytes of stolen technical data from Foxconn clients including Apple, Google, and Microsoft. West Pharmaceutical Services, a $3 billion pharma packaging firm with 50 global facilities, filed an SEC 8-K disclosing a May 4 ransomware attack that disrupted manufacturing and shipping, with Unit 42 leading response and an undisclosed amount of data exfiltrated.</p>
+    ]]></content>
+    <category term="summary"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:36e1fb842eed0c025c4e497ac6ea0c92c2841400</id>
+    <title>[law] Court addresses one redistricting battle, faces another: Alabama cleared, Virginia files emergency application</title>
+    <link href="https://www.scotusblog.com/2026/05/court-addresses-one-redistricting-battle-faces-another/"/>
+    <updated>2026-05-12T13:00:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>The Supreme Court on Monday cleared Alabama to use a congressional map a lower court found racially discriminatory, while Virginia Democrats simultaneously filed an emergency application to reinstate a Democratic-drawn map that could flip four House seats before the November 2026 elections.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/05/court-addresses-one-redistricting-battle-faces-another/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The Supreme Court on Monday cleared Alabama to use a congressional map a lower court found racially discriminatory, while Virginia Democrats simultaneously filed an emergency application to reinstate a Democratic-drawn map that could flip four House seats before the November 2026 elections.</strong></p>
+      <p>Monday, May 12 was a double redistricting crisis day at the Supreme Court. First, the justices — over dissents from Sotomayor, Kagan, and Jackson — vacated the federal district court order blocking Alabama from implementing its 2023 congressional map, which the district court had found violated Section 2 of the Voting Rights Act by intentionally diluting Black voting power. The Court remanded the case for reconsideration under Louisiana v. Callais, the May 2026 decision that significantly narrowed VRA Section 2 liability by requiring plaintiffs to show that a "racially neutral" alternative map existed and would have substantially reduced minority dilution — a burden civil rights lawyers say is nearly impossible to meet in practice. Alabama had argued no such alternative existed under its neutrality criteria. Hours after the Alabama order, Virginia Democrats and Attorney General Jay Jones filed an emergency petition asking the Supreme Court to reinstate a congressional map the Democratic-controlled legislature drew after winning both chambers; the Virginia Supreme Court had struck down the constitutional amendment authorizing the legislature to draw maps, holding it violated two provisions of federal law. The Virginia map, if reinstated, could flip as many as four congressional seats from Republican to Democrat for the November 2026 midterms.</p>
+      <p><strong>Why it matters:</strong> The Alabama order has immediate practical effects: a map that a federal court found intentionally racially discriminatory will now be used in the 2026 elections, likely reducing the number of majority-Black congressional districts from two to one. More broadly, the Callais remand signals how far the Court intends to let its new VRA Section 2 framework reshape redistricting litigation — courts must now assess whether a racially neutral alternative existed before finding liability, effectively shifting the burden to plaintiffs. The Virginia application raises distinct questions about whether states can delegate redistricting power to legislatures via constitutional amendment, touching the Political Question doctrine and the scope of federal court review of state supreme court constitutional interpretations. Together, these two Monday orders confirm that redistricting will remain a live Supreme Court issue through November, and the outcomes will directly shape control of the House of Representatives in the 2026 elections.</p>
+      <p><a href="https://www.scotusblog.com/2026/05/court-addresses-one-redistricting-battle-faces-another/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:81caa7ed46b537b21f49eb90dd5ca29471d57952</id>
+    <title>[cybersecurity] Foxconn confirms Nitrogen ransomware attack on North American factories, third major breach since 2020</title>
+    <link href="https://therecord.media/foxconn-confirms-cyberattack-north-american-factories"/>
+    <updated>2026-05-12T19:57:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>Foxconn, the $258 billion Taiwanese electronics manufacturer that produces hardware for Apple, Google, Microsoft, and Cisco, confirmed Monday that the Nitrogen ransomware gang struck multiple North American factories beginning Friday, claiming to have stolen 8 terabytes of technical data from Foxconn's clients.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/foxconn-confirms-cyberattack-north-american-factories"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Foxconn, the $258 billion Taiwanese electronics manufacturer that produces hardware for Apple, Google, Microsoft, and Cisco, confirmed Monday that the Nitrogen ransomware gang struck multiple North American factories beginning Friday, claiming to have stolen 8 terabytes of technical data from Foxconn's clients.</strong></p>
+      <p>Foxconn — the world's largest electronics contract manufacturer with $258.3 billion in 2025 revenue — disclosed Monday that a ransomware attack beginning Friday had disrupted network connectivity at multiple North American facilities, including plants in Wisconsin, Ohio, Texas, Virginia, Indiana, and Mexico, forcing some workers to resort to paper and pen when computer systems became unavailable. The Nitrogen ransomware gang claimed responsibility, asserting they had stolen 8 terabytes of data comprising "millions of files that include technical information from several prominent tech firms" — an implicit threat to expose proprietary manufacturing and design data from Foxconn's major clients. Cybersecurity researchers believe the Nitrogen ransomware strain is derived from code from the defunct Conti ransomware platform, which is broadly associated with Russian-affiliated criminal networks. Foxconn confirmed production resumed at affected facilities after implementing incident response protocols but declined to specify the total number of sites affected. This is the third significant ransomware incident against Foxconn since 2020, following attacks in December 2020 and May 2021 that also disrupted operations and led to ransom demands.</p>
+      <p><strong>Why it matters:</strong> The attack carries significant supply chain risk because Foxconn's North American facilities manufacture hardware for some of the world's most critical technology and defense-adjacent companies; the alleged 8-terabyte exfiltration of "technical information from prominent tech firms" raises immediate questions about whether proprietary hardware designs, custom silicon specifications, or manufacturing process data belonging to Foxconn's clients are now in criminal hands. A pattern of three successful ransomware attacks on the same company within five years signals either persistent security posture deficiencies or deliberate targeting for the supply chain access Foxconn provides. Nitrogen's derivation from Conti code places this in the lineage of Russian-affiliated criminal infrastructure, and given current geopolitical tensions, US government agencies may examine whether any defense or government-supply data flowed through affected facilities. The incident also highlights the structural vulnerability of the global electronics supply chain — concentrated in a small number of contract manufacturers — to ransomware actors who have learned that attacking a Foxconn disrupts the ecosystem of every company it serves.</p>
+      <p><a href="https://therecord.media/foxconn-confirms-cyberattack-north-american-factories">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:8ccf3c212404d6726f130d191a5ea542144fca4a</id>
+    <title>[cybersecurity] West Pharmaceutical files SEC 8-K disclosing May 4 ransomware attack that disrupted global drug-packaging operations</title>
+    <link href="https://therecord.media/west-pharmaceutical-warns-of-ransomware-attack-impacting-operations"/>
+    <updated>2026-05-12T19:00:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>West Pharmaceutical Services, a $3 billion pharmaceutical packaging firm critical to vaccine and injectable drug supply chains, filed an SEC 8-K disclosing that a May 4 ransomware attack disrupted global manufacturing and shipping operations across its 50-plus facilities, with Palo Alto Networks Unit 42 leading incident response.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/west-pharmaceutical-warns-of-ransomware-attack-impacting-operations"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>West Pharmaceutical Services, a $3 billion pharmaceutical packaging firm critical to vaccine and injectable drug supply chains, filed an SEC 8-K disclosing that a May 4 ransomware attack disrupted global manufacturing and shipping operations across its 50-plus facilities, with Palo Alto Networks Unit 42 leading incident response.</strong></p>
+      <p>West Pharmaceutical Services — headquartered in Exton, Pennsylvania, with more than 10,000 employees across over 50 global locations and $3 billion in 2025 net sales — is a critical but often invisible node in global pharmaceutical supply chains: the company manufactures the stoppers, seals, and containment systems used to package injectable drugs, biologics, and vaccines produced by major pharmaceutical companies worldwide. On May 4, 2026, the company suffered a ransomware attack that forced it to shut down and isolate affected infrastructure, disrupting core manufacturing and shipping processes with recovery timelines varying by site. West Pharmaceutical disclosed the incident on May 12 through an SEC Form 8-K — the mechanism now mandated by the SEC's December 2023 cybersecurity disclosure rule for material cybersecurity incidents — confirming that data was exfiltrated and that the company had "taken steps intended to mitigate the risk of dissemination of the exfiltrated data," language that typically signals payment, negotiation, or a data-suppression agreement with the attacker. Palo Alto Networks' Unit 42 incident response team was engaged, and law enforcement was notified. No ransomware group had publicly claimed responsibility as of May 12.</p>
+      <p><strong>Why it matters:</strong> The SEC 8-K disclosure is the critical regulatory angle: under the December 2023 SEC cybersecurity rules, companies must file within four business days of determining an incident is material. West Pharmaceutical's May 12 filing — eight days after the May 4 attack — will draw scrutiny over when the company determined materiality, a question the SEC has actively pursued in enforcement. The pharmaceutical supply chain implications are also significant: disruption to West Pharmaceutical's stopper and seal manufacturing could cascade into delays for vaccine and injectable drug production, depending on the depth of operational impact. This incident follows a pattern of ransomware groups specifically targeting pharmaceutical manufacturers — including 2024's Change Healthcare attack and the 2025 Emergent BioSolutions incident — that has made the pharma supply chain one of the highest-priority sectors for CISA and HHS cybersecurity guidance. The absence of a public claim may indicate active ransom negotiations, which, if confirmed, would put West Pharmaceutical in the company of the growing list of healthcare-sector organizations that have paid ransoms to prevent data release.</p>
+      <p><a href="https://therecord.media/west-pharmaceutical-warns-of-ransomware-attack-impacting-operations">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:43819904543c44b13ca304d69fd5291fd5373dfe</id>
+    <title>[global politics] CBO puts Trump's Golden Dome missile defense at $1.2 trillion over 20 years, nearly seven times the stated cost</title>
+    <link href="https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost"/>
+    <updated>2026-05-13T09:00:00Z</updated>
+    <author><name>npr.org</name></author>
+    <summary>The nonpartisan Congressional Budget Office estimates that Trump's "Golden Dome" space-based missile defense initiative will cost $1.2 trillion over 20 years, nearly seven times the $175 billion figure Trump originally cited and six times the $185 billion the administration allocated in its FY2027 defense budget request.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The nonpartisan Congressional Budget Office estimates that Trump's "Golden Dome" space-based missile defense initiative will cost $1.2 trillion over 20 years, nearly seven times the $175 billion figure Trump originally cited and six times the $185 billion the administration allocated in its FY2027 defense budget request.</strong></p>
+      <p>The Congressional Budget Office released its analysis of the Golden Dome initiative on May 12, characterizing it as "one illustrative approach rather than an estimate of a specific Administration proposal" because the Defense Department had not provided sufficient technical specifics for a concrete deployment cost estimate. The program was established via executive order during Trump's first week in office and is modeled in part on Israel's Iron Dome defense system; Trump pledged full operational capability before January 2029 and initially stated the cost at $175 billion. The CBO now estimates acquisition costs alone at just over $1 trillion, with total 20-year costs at $1.2 trillion. Congress has already approved approximately $24 billion through a major tax and spending measure, and the FY2027 defense budget proposes an additional $185 billion. The Golden Dome envisions a multilayer missile defense network combining ground- and space-based interceptors capable of detecting and destroying missiles at multiple flight stages, including boost, mid-course, and terminal phases. General Michael Guetlein, the Golden Dome project director, defended the program's cost discipline, saying the team remains "laser focused on affordability."</p>
+      <p><strong>Why it matters:</strong> A $1.2 trillion program would dwarf every major US defense acquisition in history — the F-35 program cost approximately $400 billion — and would consume a significant fraction of the federal discretionary budget if funded to completion over two decades. The CBO's inability to even model a specific deployment plan because the Pentagon lacks one, nearly a year after the executive order, raises serious questions about programmatic readiness. Critically, existing US missile defense technology — including land-based Aegis systems — has a poor track record against intercontinental ballistic missiles deployed by Russia and China, the scenarios the Golden Dome is meant to address; critics including Senator Jeff Merkley (D-OR) argue the program is "nothing more than a massive giveaway to defense contractors." Defense contractors including L3Harris, Northrop Grumman, and Lockheed Martin stand to be primary beneficiaries, and the political economy of a program this size — with contracts distributed across dozens of states — will make it extremely difficult to cancel once funding flows. If implemented at scale, the Golden Dome would reshape US federal fiscal priorities for a generation and would also raise arms-control concerns under what remains of the strategic arms reduction framework with Russia.</p>
+      <p><a href="https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:2102930923fdf4458546b91c69681460649c7b13</id>
+    <title>[global politics] Zelensky's ex-chief of staff Yermak appears in court on money-laundering charges tied to Energoatom probe</title>
+    <link href="https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case"/>
+    <updated>2026-05-13T09:00:00Z</updated>
+    <author><name>aljazeera.com</name></author>
+    <summary>Andriy Yermak, 54, who served as Ukraine's presidential chief of staff from 2020 to November 2025 and helped engineer Zelensky's political rise, appeared in a Kyiv court Tuesday on money-laundering charges alleging he funneled $10.5 million into a luxury housing complex through funds tied to corruption at Energoatom.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Andriy Yermak, 54, who served as Ukraine's presidential chief of staff from 2020 to November 2025 and helped engineer Zelensky's political rise, appeared in a Kyiv court Tuesday on money-laundering charges alleging he funneled $10.5 million into a luxury housing complex through funds tied to corruption at Energoatom.</strong></p>
+      <p>Andriy Yermak served as head of the Ukrainian Presidential Office — the most powerful administrative position in the executive branch — from 2020 until his resignation in November 2025, when Ukraine's National Anti-Corruption Bureau (NABU) raided his home as part of Operation "Midas," a broad corruption investigation centered on Energoatom, Ukraine's state nuclear energy company. A former film producer, Yermak was a central architect of Zelensky's improbable transition from actor playing a fictional president on television to actual wartime leader. Prosecutors allege he directed approximately 460 million Ukrainian hryvnias — roughly $10.5 million — into the Dynasty housing complex, a luxury residential development near Kyiv, through funds investigators suspect originated as kickbacks at Energoatom. Operation Midas also targets Timur Mindich, a former Zelensky business associate accused of orchestrating a separate $100 million kickback scheme at Energoatom, and former Deputy Prime Minister Oleksii Chernyshov. Yermak appeared in court Tuesday, dismissed the charges as "unfounded," and told reporters he owns only one apartment and one car; he denied involvement and said he would stay in Ukraine. Prosecutors sought detention with bail set at 180 million hryvnias ($4 million). NABU chief Semen Kryvonos confirmed publicly that President Zelensky is not under investigation; a sitting president cannot legally be investigated under Ukrainian law.</p>
+      <p><strong>Why it matters:</strong> Corruption remains among the most significant obstacles to Ukraine's EU accession: a May 2026 poll found that 54 percent of Ukrainians consider corruption a greater threat than Russia's military campaign, and the EU has made anti-corruption progress an explicit condition for membership talks to advance. Charging someone of Yermak's seniority — Zelensky's number-two for five years of wartime leadership — is unprecedented and signals NABU's growing willingness to confront the presidential administration directly. The case will serve as a test of Ukraine's judicial independence: if the proceedings proceed to conclusion without political interference, it will strengthen Ukraine's EU accession case; if they stall or collapse, it will confirm critics' concerns that Ukrainian institutions cannot hold powerful insiders accountable. The political risk for Zelensky is also real: his approval rating is approximately 58 percent as of early May, and opposition figures will use the Yermak charges to argue corruption reached the highest levels of wartime leadership, potentially affecting Western public support for continued military aid.</p>
+      <p><a href="https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:1272da189124f766c0a7e7669dee01d4e630100e</id>
+    <title>[cybersecurity] Patch Tuesday May 2026: critical Windows Netlogon overflow, 118 Microsoft fixes, AI-driven detection fuels record patch volumes</title>
+    <link href="https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/"/>
+    <updated>2026-05-12T21:46:00Z</updated>
+    <author><name>krebsonsecurity.com</name></author>
+    <summary>Microsoft patched 118 security vulnerabilities in May 2026's Patch Tuesday including a critical stack-based buffer overflow in Windows Netlogon that grants SYSTEM privileges on domain controllers without user interaction, with no zero-days exploited in the wild for the first time in nearly two years, as Anthropic's Project Glasswing AI program drove 271 of Firefox 150's vulnerability fixes.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Microsoft patched 118 security vulnerabilities in May 2026's Patch Tuesday including a critical stack-based buffer overflow in Windows Netlogon that grants SYSTEM privileges on domain controllers without user interaction, with no zero-days exploited in the wild for the first time in nearly two years, as Anthropic's Project Glasswing AI program drove 271 of Firefox 150's vulnerability fixes.</strong></p>
+      <p>The May 2026 Patch Tuesday release cycle was notable for two things simultaneously: extraordinary volume and an unusual absence of exploited zero-days — the first such month in nearly two years. Microsoft's 118 fixes were headlined by three critical vulnerabilities: CVE-2026-41089, a stack-based buffer overflow in Windows Netlogon that an unauthenticated remote attacker can exploit to gain SYSTEM privileges on domain controllers without any user interaction — effectively the most dangerous category of Windows enterprise vulnerability, as domain controllers handle authentication for entire networks; CVE-2026-41096, a remote code execution flaw in the Windows DNS client; and CVE-2026-41103, an elevation-of-privilege vulnerability allowing an attacker to impersonate existing users by presenting forged credentials. Concurrent with Microsoft's release, Apple patched 52 flaws in iOS 15, Google pushed 127 Chrome fixes, Oracle released 450 patches in its quarterly cycle, and Mozilla fixed vulnerabilities in Firefox 150 — where Krebs reports that 271 of those fixes were discovered by Anthropic's "Project Glasswing," a Claude-based automated vulnerability detection initiative. The program uses large language model analysis to surface bugs at scale before adversaries can weaponize them, and its impact on Firefox alone represents one of the largest single-program vulnerability discovery contributions in open-source history.</p>
+      <p><strong>Why it matters:</strong> CVE-2026-41089 in Windows Netlogon deserves immediate emergency patching by any enterprise running on-premises Active Directory infrastructure: domain controllers are the backbone of Windows network authentication, and unauthenticated SYSTEM-level access without user interaction is precisely the capability ransomware operators and nation-state actors need to achieve full-network lateral movement and credential harvesting. The absence of zero-days this month is both welcome and probably temporary; it may reflect that adversaries are holding exploits in reserve, or it may signal that AI-driven defenses like Project Glasswing are finding flaws before criminal or state actors can weaponize them — a dynamic that will intensify as both defenders and attackers integrate AI into their tooling. The 271 Firefox vulnerabilities found by a single Anthropic AI program in a single release cycle is a striking data point: it suggests that AI-assisted vulnerability discovery will permanently alter the economics of security research, enabling organizations and researchers to find and fix vulnerabilities at a pace that was previously impossible. The flip side is that adversarial AI programs can conduct the same search at scale, which means the window between vulnerability discovery and exploitation is likely to compress dramatically in coming years.</p>
+      <p><a href="https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:f97aa9b69a3654d3acb22f847281d94262040cc5</id>
+    <title>[tech law] Congress probes 25 major food retailers on AI-driven surveillance pricing using personal customer data</title>
+    <link href="https://therecord.media/congressman-launches-inquiry-into-food-retail-surveillance"/>
+    <updated>2026-05-12T19:47:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>Rep. Frank Pallone (D-NJ), ranking member of the House Energy and Commerce Committee, sent letters to Amazon, Walmart, Target, Albertsons, CVS, and 20 other major retailers demanding disclosure of whether they use personal customer data and AI algorithms to set individualized prices, building on an FTC report documenting the practice across major firms.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/congressman-launches-inquiry-into-food-retail-surveillance"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Rep. Frank Pallone (D-NJ), ranking member of the House Energy and Commerce Committee, sent letters to Amazon, Walmart, Target, Albertsons, CVS, and 20 other major retailers demanding disclosure of whether they use personal customer data and AI algorithms to set individualized prices, building on an FTC report documenting the practice across major firms.</strong></p>
+      <p>Pallone's inquiry targeted 25 of the largest US food and pharmacy retailers, including Amazon, Whole Foods, Walmart, Target, Albertsons, CVS, and Wegmans. The letters follow a January 2025 FTC report that documented widespread use of customer surveillance data to power dynamic pricing algorithms across major retailers — a practice that became publicly visible in New York after state disclosure requirements took effect, prompting Target to begin displaying pop-ups stating that certain prices are "set by an algorithm using your personal data." Retailers have been collecting geolocation, shopping history, demographic, and behavioral data — including mouse-movement patterns on websites — for years, and some purchase additional signals from third-party data brokers to refine models. Pallone's letters demand four specific disclosures: which data elements are used to set prices; whether AI or machine learning algorithms determine individualized prices; whether third-party data is purchased; and what opt-out mechanisms exist for consumers. The inquiry was framed as a consumer protection matter: "Consumers deserve to know if businesses are using their personal information to manipulate the prices they pay," Pallone stated.</p>
+      <p><strong>Why it matters:</strong> AI-driven personalized pricing sits at the intersection of multiple unresolved legal questions in US consumer protection law: whether charging different customers different prices for identical goods constitutes unlawful price discrimination under the Robinson-Patman Act; whether it violates state consumer protection statutes; and whether the collection of behavioral data to power pricing algorithms requires affirmative consent under state privacy laws including California's CPRA and Virginia's CDPA. If the inquiry reveals widespread deployment of AI individualized pricing, it will intensify pressure for either a federal privacy law or specific algorithmic pricing legislation, and it will likely be incorporated into the FTC's open rulemaking on surveillance-based pricing, potentially accelerating enforcement action. The political dimension is significant: individualized pricing that charges different consumers different prices for the same product is easily frameable as AI-enabled consumer manipulation, particularly as food-price pressures remain a core political vulnerability heading into 2026 midterm elections. The inquiry also establishes a congressional evidentiary record that could anchor future litigation by state attorneys general pursuing unfair business practice claims under statutes like California's Unfair Competition Law.</p>
+      <p><a href="https://therecord.media/congressman-launches-inquiry-into-food-retail-surveillance">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:52e656793e89e6c2096d3eca4f94f725c2334889</id>
+    <title>[law] Justice Alito says Supreme Court oral arguments have fundamentally changed, calls post-Dobbs security crisis ongoing</title>
+    <link href="https://www.scotusblog.com/2026/05/justice-samuel-alito-opens-up-about-oral-arguments-judicial-security-and-his-writing-process/"/>
+    <updated>2026-05-11T14:37:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>Justice Samuel Alito said in a rare extended interview that Supreme Court oral arguments have become "entirely different" since 2006 due to excessive speechifying by justices, described the security crisis following the Dobbs draft leak as ongoing and making judges' work significantly harder, and disclosed he is completing a book on originalism aimed at distinguishing judicial from scholarly application of the method.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/05/justice-samuel-alito-opens-up-about-oral-arguments-judicial-security-and-his-writing-process/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Justice Samuel Alito said in a rare extended interview that Supreme Court oral arguments have become "entirely different" since 2006 due to excessive speechifying by justices, described the security crisis following the Dobbs draft leak as ongoing and making judges' work significantly harder, and disclosed he is completing a book on originalism aimed at distinguishing judicial from scholarly application of the method.</strong></p>
+      <p>SCOTUSblog published an extended interview with Justice Alito covering three substantive areas rarely discussed by sitting justices. On oral arguments: Alito described a fundamental shift in argument culture since he joined the Court in 2006, with justices increasingly "speechifying" — using questions to make statements rather than probe case-specific legal issues — a change he finds frustrating. He conducted an experiment in which he refrained from asking questions himself to observe the dynamic, and found the experience "unbelievably boring." Despite this critique, he concluded that oral arguments still have value, though they have limited direct influence on case outcomes. On the Dobbs leak: Alito characterized the May 2022 unauthorized disclosure of his draft majority opinion in Dobbs v. Jackson Women's Health Organization as creating a serious, ongoing security crisis for the federal judiciary at all levels, calling it a factor that has made the work of judges "significantly harder" — though he declined to identify the leaker and the Court's internal investigation concluded without a public finding. On writing: Alito described his process as directing law clerks to produce outlines and draft opinions, which he then edits thoroughly at his own word processor, with concurrences and dissents handled more personally. He identified finding law school graduates who can write well as "the greatest challenge" in building his chambers.</p>
+      <p><strong>Why it matters:</strong> Alito is among the most intellectually prolific and jurisprudentially influential justices on the current Court, and candid interviews covering his internal practices and assessments are exceptionally rare. His critique of oral argument culture — specifically the shift toward speechifying — is consistent with empirical research showing Supreme Court questions have grown longer and less case-specific since the early 2000s; if this perception is shared by a critical mass of justices, it could prompt internal format reforms or at least more self-conscious moderation at the lectern. His continued public emphasis on the Dobbs leak as a crisis signal that the internal wound remains unresolved and politically charged within the Court, and it may foreshadow continued institutional defensiveness about internal deliberation transparency. His forthcoming book distinguishing judicial from scholarly originalism is likely to become a key reference in academic and legal debates about the proper scope and application of the methodology that has reshaped constitutional law since 2020, particularly as the Court faces major decisions on administrative law, religious freedom, and executive power in its current term.</p>
+      <p><a href="https://www.scotusblog.com/2026/05/justice-samuel-alito-opens-up-about-oral-arguments-judicial-security-and-his-writing-process/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
   <entry>
     <id>tag:mhsezgin.github.io,2026:summary:2026-05-12-1800</id>
     <title>[summary] 2026-05-12 18:00</title>
@@ -25,7 +172,6 @@
     ]]></content>
     <category term="summary"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:462c2a7706ff4d93c2845ea4921752e7163fd3ac</id>
     <title>[ai] Sam Altman takes the stand in Musk v. OpenAI trial, describing how Elon's management style damaged the company</title>
@@ -42,7 +188,6 @@
     ]]></content>
     <category term="tech"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:b1a28ee8a09f5c93e51cae80e9ae06d88ed8357f</id>
     <title>[ai/law] Parents sue OpenAI after ChatGPT allegedly recommended a fatal drug combination to their 19-year-old son</title>
@@ -59,7 +204,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:d382a2b9c545791cccbc01c0cde3dd301ccd302f</id>
     <title>[tech law] EU Commission preliminarily finds TikTok's addictive design breaches the DSA; Meta and X face parallel proceedings</title>
@@ -76,7 +220,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:174bfd6f30ecef0bfcd7d217c8bf8794d85d2c21</id>
     <title>[cybersecurity] Instructure pays undisclosed ransom to ShinyHunters after second Canvas breach; House Homeland Security Committee demands briefing</title>
@@ -93,7 +236,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:58773a167a5e7deed247d84344ca727d53a49846</id>
     <title>[law] James Comey indicted for Instagram seashell post prosecutors call a "true threat" against Trump, testing First Amendment limits</title>
@@ -110,7 +252,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:8138ccfa3723092445b25e53b47ba521eaaead9a</id>
     <title>[law] Federal prosecutors charge Dali ship operator with conspiracy, obstruction, and misconduct resulting in death in Baltimore bridge collapse</title>
@@ -127,7 +268,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:56b707d6114b88e4507dccc825dc8f5fdb16dca6</id>
     <title>[tech law] EU member states exported surveillance tech to 20+ human rights violators despite 2021 reform rules, Human Rights Watch finds</title>
@@ -144,7 +284,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:8156b80d7c2e3299a1fe9aa9865467b0d48756b4</id>
     <title>[law] Fighting back after the gutting of the Voting Rights Act: what the Guarantee Clause, trigger laws, and economic sanctions could offer</title>
@@ -161,7 +300,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:af4d5ecfa0fb37a24860e7fd4316e096e2199a85</id>
     <title>[tech law] FCC reverses course on foreign router and drone update ban, extending deadline to January 2029 to avoid mass-unpatching millions of devices</title>
@@ -178,7 +316,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:298ced11cdfbe09de487e98dbb917b6953c5a578</id>
     <title>[law] Supreme Court clears way for Alabama to use congressional map found intentionally racially discriminatory, 6-3</title>
@@ -195,7 +332,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ed6dc4b7ac71b9af10a9693676c338b4d541d722</id>
     <title>[law] Virginia Democrats ask Supreme Court to reinstate congressional map that could flip four House seats, after state supreme court voids enabling referendum</title>
@@ -212,7 +348,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:55c2408180a492a94ed4e04fafee09916045cb9b</id>
     <title>[law] Justice Alito extends abortion pill mail-access stay to May 14 as full Court weighs Fifth Circuit ruling requiring in-person dispensing</title>
@@ -229,7 +364,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:2801e9858940db634e415ba61f21e538b96788d6</id>
     <title>[tech] OpenAI launches Daybreak: a GPT-5.5-Cyber-powered cybersecurity platform to rival Anthropic Mythos, same day Google confirms first AI-built zero-day exploit in the wild</title>
@@ -246,7 +380,6 @@
     ]]></content>
     <category term="tech"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:77befe6ef98d097cc85f511e83c0e1a4bfffde68</id>
     <title>[cybersecurity] Google detects first AI-generated zero-day exploit used in the wild: criminal group planned mass 2FA bypass before GTIG disrupted it</title>
@@ -263,7 +396,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:fc444c4833222427f7f7abde9ed543fbbf45a68c</id>
     <title>[cybersecurity] TanStack NPM supply-chain attack: 84 malicious package versions published in 6 minutes via GitHub Actions cache poisoning, harvesting cloud and SSH credentials</title>
@@ -280,7 +412,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ae31a2ffa54e23e9637e57a092e28e4e8d47d8aa</id>
     <title>[cybersecurity] Dirty Frag (CVE-2026-43284/43500): critical Linux kernel networking flaw enabling container escape affects virtually all major distributions</title>
@@ -297,7 +428,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:b015e6c03d7889322c0a0db12adb469935dbb0fb</id>
     <title>[tech law] Texas sues Netflix for operating unauthorized surveillance infrastructure harvesting 5 petabytes of behavioral data daily and sharing it with brokers and ad-tech platforms</title>
@@ -314,7 +444,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:1b8c2bc5f1601ee7a37999b10ddcd47581a87b0e</id>
     <title>[cybersecurity] ICO fines South Staffordshire Water £963,900 after Cl0p ransomware lurked undetected for 22 months, exfiltrating 4.1TB of data on 1.6 million customers</title>
@@ -331,7 +460,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ae99293da42b41f9b30415d750d0d6f9a49fa88e</id>
     <title>[global politics] Trump declares Iran ceasefire "on massive life support" and calls Tehran's 14-point proposal "garbage" as aides say resumption of combat is being seriously considered</title>
@@ -348,7 +476,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:db7a68ce5545979e7c322a5db51f2147cb9fd41f</id>
     <title>[tech law] Federal judge refuses to rubber-stamp Musk's $1.5M SEC settlement over Twitter stake disclosure, schedules May 13 fairness hearing</title>
@@ -364,166 +491,5 @@
       <p><a href="https://www.cnbc.com/2026/05/09/elon-musk-sec-settlement.html">Read original &#8594;</a></p>
     ]]></content>
     <category term="tech_law"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:5e903d944ddfd7a28243cccb46e78aded420e473</id>
-    <title>[tech law] Colorado right-to-repair law survives Cisco and IBM's attempt to gut it with sweeping "critical infrastructure" exemptions</title>
-    <link href="https://www.techdirt.com/2026/05/11/tech-companies-fail-to-kill-colorados-right-to-repair-law/"/>
-    <updated>2026-05-11T20:15:52Z</updated>
-    <author><name>techdirt.com</name></author>
-    <summary>A Colorado House committee voted 7-4 on May 10 to permanently shelve Senate Bill 26-090, a Cisco and IBM-sponsored bill that would have effectively neutered Colorado's right-to-repair law through "critical infrastructure" exemptions so broad they would have covered most networked electronics.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.techdirt.com/2026/05/11/tech-companies-fail-to-kill-colorados-right-to-repair-law/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>A Colorado House committee voted 7-4 on May 10 to permanently shelve Senate Bill 26-090, a Cisco and IBM-sponsored bill that would have effectively neutered Colorado's right-to-repair law through "critical infrastructure" exemptions so broad they would have covered most networked electronics.</strong></p>
-      <p>Cisco and IBM sponsored Senate Bill 26-090, titled "Exempt Critical Infrastructure from Right to Repair," which attempted to carve out exemptions from Colorado's right-to-repair requirements using "critical infrastructure" as a definitional hook. Opponents argued — successfully — that the bill's definition was deliberately vague enough to encompass virtually any networked device that could plausibly touch a company's network, which in practice means most enterprise and consumer electronics. The Colorado House State, Civic, Military, and Veterans Affairs Committee voted 7-4 to classify the bill as "postponed indefinitely," effectively killing it for the session. Colorado enacted its right-to-repair law in 2024 and is now one of eight US states with such legislation on the books, alongside Massachusetts, New York, Texas, Minnesota, California, Oregon, and Washington. The right-to-repair framework requires manufacturers to provide independent repair shops and consumers with access to parts, diagnostic tools, and service documentation.</p>
-      <p><strong>Why it matters:</strong> The Colorado vote illustrates the dominant pattern in right-to-repair policy: states pass the legislation, then manufacturers and technology companies attempt to recapture lost ground through companion legislation invoking "safety," "security," or "critical infrastructure" exemptions broad enough to swallow the rule. The legislative defeat is a genuine win for right-to-repair advocates, but the deeper problem — which Techdirt identified — is that none of the eight states with right-to-repair laws have successfully enforced them despite multiple opportunities to do so. Laws that are never enforced provide little practical relief to independent repair shops or consumers, which means the right-to-repair movement's next challenge is not legislative expansion but building enforcement infrastructure: regulators willing to bring cases, legal aid for small repair shops challenging manufacturer non-compliance, and consumer awareness of existing rights. FTC right-to-repair rulemaking at the federal level, if revived, would preempt the current state-by-state patchwork and provide consistent national enforcement standards; the current FTC's posture on consumer protection will determine whether that path remains viable.</p>
-      <p><a href="https://www.techdirt.com/2026/05/11/tech-companies-fail-to-kill-colorados-right-to-repair-law/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:summary:2026-05-11-0900</id>
-    <title>[summary] 2026-05-11 09:00</title>
-    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
-    <updated>2026-05-11T09:00:00Z</updated>
-    <author><name>news-feed-agent</name></author>
-    <summary>Digest summary for 2026-05-11 09:00 UTC: Trump rejects Iran ceasefire; Philippines Duterte impeached again; China achieves cyber parity with US; Sedgwick federal contractor breached; Google DeepMind launches strike team against Anthropic; Flock Safety FTC probe; EU vulnerability database; Russia arrests cybersecurity entrepreneur; China cybersecurity law overhaul; Anthropic finance agents; Callais redistricting aftermath.</summary>
-    <content type="html"><![CDATA[
-      <h2>law</h2>
-      <p>The Callais redistricting saga took a new turn this week: after the Supreme Court moved to immediately finalize its 6-3 VRA ruling on Monday, Black voter groups filed a rare motion Tuesday asking the Court to recall its judgment, arguing they had not had adequate time to petition for rehearing. The Alito-Jackson written exchanges in the concurrences are being read by SCOTUS observers as a preview of the Court's posture going into an election-law-heavy end of term — campaign finance, mail-in voting, and gerrymandering challenges all remain on the docket. Alabama separately asked the Court to pre-approve a challenged congressional map through 2030, which would effectively double the ruling's practical impact if granted.</p>
-      <h2>tech_law</h2>
-      <p>Three significant tech law developments this run. First, Senators Wyden and Krishnamoorthi asked the FTC to investigate Flock Safety — operator of license plate readers in 8,000+ US communities — after at least 35 law enforcement accounts were compromised due to the company's refusal to mandate multi-factor authentication; the same cameras have been used to track abortion patients and undocumented immigrants. Second, ENISA launched the EU's own European Vulnerability Database as an alternative/complement to MITRE's CVE Program, whose US federal funding remains on an 11-month stopgap contract with no long-term commitment. Third, China's NPC is reviewing draft cybersecurity law amendments that would impose fines up to ¥10 million on critical infrastructure operators and create personal liability for supervisors — one of the most significant expansions of Chinese cybersecurity enforcement since 2017.</p>
-      <h2>global_politics</h2>
-      <p>The Iran conflict enters a new phase of uncertainty: Trump rejected Iran's formal ceasefire counter-proposal as "TOTALLY UNACCEPTABLE," sending Brent crude above $104/barrel. Iran's terms — end to hostilities on all fronts including Lebanon, sanctions relief, asset unfreezing, and Hormuz sovereignty recognition — were delivered via Pakistani mediators on May 10, the same day Iran conducted drone strikes against Qatar, the UAE, and Kuwait. In Southeast Asia, the Philippine House voted 255-26 to impeach VP Sara Duterte for the second time, on charges of plundering public funds ($110M in unexplained transactions), bribery, and death threats against President Marcos. Senate conviction requires 16 votes — difficult given Duterte's allies just elected a loyalist Senate President — setting up a prolonged constitutional standoff ahead of the 2028 presidential race.</p>
-      <h2>tech</h2>
-      <p>The Anthropic-Google DeepMind competition sharpened this week. Sherwood News reports that Google co-founder Sergey Brin personally drove the formation of a DeepMind "strike team" focused on closing Gemini's coding and agentic execution gap with Claude — citing Claude Code's enterprise traction as the pressure point. Anthropic meanwhile launched ten pre-built finance agent templates and Microsoft 365 integration (Excel, PowerPoint, Word, Outlook), with Claude Opus 4.7 leading Vals AI's Finance Agent benchmark at 64.37%. The SpaceX Colossus 1 compute deal and the Blackstone/Goldman enterprise JV announced last week continue to close the infrastructure gap between Anthropic and larger incumbents.</p>
-      <h2>cybersecurity</h2>
-      <p>Three significant cybersecurity stories. Dutch intelligence (MIVD) issued the first explicit NATO-allied assessment that China now matches the US in offensive cyber capabilities, noting Chinese groups doubled their zero-day exploit use in 2025 and that most attacks against Dutch interests go undetected. TridentLocker ransomware hit Sedgwick Government Solutions — a federal contractor serving DHS, ICE, CBP, and CISA itself — stealing 3.4GB of data; the group previously hit Belgium's bpost in its debut. Finally, Russia arrested 21-year-old cybersecurity entrepreneur Timur Kilin in Moscow on treason charges apparently triggered by his Telegram criticism of a Kremlin-favored messaging app, continuing the pattern of prosecutions targeting technical dissidents established by the 14-year Sachkov sentence in 2023.</p>
-    ]]></content>
-    <category term="summary"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:31cbfbacc2419ca83ee0c69f641495c2fb6daf32</id>
-    <title>[global politics] Trump calls Iran&#x2019;s ceasefire counter-proposal &#x2018;totally unacceptable&#x2019; as oil prices spike above $104 a barrel</title>
-    <link href="https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal"/>
-    <updated>2026-05-11T01:55:00Z</updated>
-    <author><name>npr.org</name></author>
-    <summary>President Trump rejected Iran&#x27;s formal counter-proposal to the US ceasefire plan, calling it totally unacceptable on social media and sending Brent crude above $104 a barrel, raising doubts about the month-old ceasefire&#x27;s durability.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>President Trump rejected Iran's formal counter-proposal to the US ceasefire plan, calling it "totally unacceptable" on social media and sending Brent crude above $104 a barrel, raising doubts about the month-old ceasefire's durability.</strong></p>
-      <p>Iran delivered its formal ceasefire counter-proposal via Pakistani mediators on Sunday, May 10 — the same day Iranian forces conducted drone strikes against a cargo vessel off Qatar, military sites in the UAE, and targets in Kuwait. Tehran's response demanded a complete cessation of hostilities on all fronts including Lebanon, removal of US sanctions on Iranian oil sales, lifting of the naval blockade on Iranian ports, unfreezing of Iranian assets, and US recognition of Iranian sovereignty over the Strait of Hormuz. Trump responded on Truth Social, writing "I have just read the response from Iran's so-called 'Representatives.' I don't like it — TOTALLY UNACCEPTABLE!" and accused Iran of "playing games with the United States, and the rest of the World." Brent crude rose 3.17% to $104.50/barrel and US crude climbed 3.21% to $98.48 on the news. The war began February 28, with US objectives centered on halting Iran's nuclear program, reducing its missile arsenal, and ending support for regional proxy groups; Iran responded by closing the Strait of Hormuz to shipping, prompting a US naval blockade of Iranian ports that has rippled globally through fuel prices and supply chains.</p>
-      <p><strong>Why it matters:</strong> The Trump rejection ends the diplomatic window opened by the April 8 ceasefire and Pakistan's mediation effort, at least temporarily, and signals the conflict will continue into its third month with no near-term resolution. Oil prices above $104/barrel reflect that markets had priced in some probability of a deal — the collapse of that expectation directly feeds into global inflation and supply chain costs, particularly for Europe and Asia which depend heavily on Gulf shipping. Iran's insistence on a multi-front end to hostilities including Lebanon reflects its strategic calculation that Hezbollah is a core deterrent asset that cannot be negotiated away separately from the main conflict. The most dangerous near-term escalation scenario centers on the Strait of Hormuz: if Iran responds to the rejection by renewing shipping interdiction, the US faces a choice between escalating militarily in a contested waterway through which approximately 21% of global oil supply transits, or accepting a credibility loss that would embolden other actors. Pakistan's continued role as mediator means a diplomatic channel technically remains open, but the gap between the US position (nuclear program constraints, proxy group rollback) and Iran's position (comprehensive multi-front peace, full sanctions relief) has not meaningfully narrowed.</p>
-      <p><a href="https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="global_politics"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:493a0d34ed5650133b5b73df00d04867d70270b7</id>
-    <title>[global politics] Philippine House impeaches VP Sara Duterte 255-26 on charges of plunder and death threats against Marcos &#x2014; the first VP impeached twice in Philippine history</title>
-    <link href="https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte"/>
-    <updated>2026-05-11T09:28:00Z</updated>
-    <author><name>aljazeera.com</name></author>
-    <summary>The Philippine House of Representatives voted 255 to 26 to impeach Vice President Sara Duterte on charges including plunder of public funds, bribery, and death threats against President Marcos, making her the first Philippine official impeached twice.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>The Philippine House of Representatives voted 255 to 26 to impeach Vice President Sara Duterte on charges including plunder of public funds, bribery, and death threats against President Marcos, making her the first Philippine official impeached twice.</strong></p>
-      <p>The House approved the justice committee's report on Monday, May 11, transmitting four articles of impeachment to the Senate: misuse of confidential government funds, bribery of government officials, death threats against President Ferdinand Marcos Jr., his wife, and former House Speaker Martin Romualdez, and unexplained wealth. Anti-money laundering officials flagged private bank transactions exceeding $110 million that investigators say "cannot be reasonably explained by lawful income" or declared assets. Duterte and Marcos ran as running mates in 2022 but experienced a bitter political split; Duterte has already announced her candidacy for the 2028 presidential race. Her father, former President Rodrigo Duterte, is currently detained by the International Criminal Court on crimes against humanity charges stemming from his drug war. A previous 2025 impeachment — passed with 215 votes — was voided by the Philippine Supreme Court on technical grounds, meaning this second vote incorporates lessons from that procedural failure.</p>
-      <p><strong>Why it matters:</strong> The 255-vote margin — far exceeding the one-third threshold and meaningfully above the 2025 figure — shows the House coalition against Duterte is broadening under Marcos, reflecting his administration's consolidation of legislative power. However, conviction requires a two-thirds Senate supermajority (16 of 24 votes), and Duterte's allies just elected Senator Alan Cayetano — son of the former foreign secretary who served under Rodrigo Duterte — as Senate President, making acquittal likely. This constitutional cliff-hanger sets up a prolonged political crisis: Duterte can remain politically active and pursue the 2028 presidency even as an impeached official, much as her father retains supporters despite ICC detention. The ICC's parallel proceedings against Rodrigo Duterte create an unprecedented family dynamic — a sitting VP potentially removed by impeachment while her father faces international criminal justice — and will complicate the Philippines' international relationships regardless of outcome. For the Marcos administration, a Senate acquittal will publicly embarrass the president while a conviction eliminates the most credible 2028 challenger, creating perverse incentives that will shape every procedural decision in the Senate trial.</p>
-      <p><a href="https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="global_politics"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:a61a5d6c456d0cb1daa5d7ad57da33df736e45b6</id>
-    <title>[cybersecurity] Dutch intelligence warns China has achieved parity with the US in offensive cyber capabilities, citing doubled zero-day use in 2025</title>
-    <link href="https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says"/>
-    <updated>2026-05-11T08:00:00Z</updated>
-    <author><name>therecord.media</name></author>
-    <summary>The Netherlands&#x27; Defence Intelligence and Security Service declared that China now probably stands on equal footing with the United States in offensive cyber capabilities, marking the first time a NATO-allied intelligence agency has explicitly assessed Chinese cyber parity.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>The Netherlands' Defence Intelligence and Security Service (MIVD) declared that China now "probably stands on equal footing" with the United States in offensive cyber capabilities, marking the first time a NATO-allied intelligence agency has explicitly assessed Chinese cyber parity.</strong></p>
-      <p>The MIVD report found that Chinese-linked groups doubled their use of zero-day exploits in 2025 according to Google threat intelligence, making them the most prolific state-sponsored users of previously unknown vulnerabilities globally. In 2025, Chinese operatives gained router access at smaller Dutch internet service providers as part of the Salt Typhoon campaign — the same campaign that compromised US carrier infrastructure in 2024. The PLA's 2024 restructuring dissolved the Strategic Support Force and established a standalone Cyberspace Force, enabling enhanced operational flexibility and faster adaptation. The MIVD noted that detection, response, and mitigation against Chinese operations are "often inadequate" and that only a small fraction of Chinese cyberattacks against Dutch interests are ever discovered. China actively targets Dutch researchers, businesses, and universities in semiconductors, quantum computing, and aerospace — sectors tied directly to Dutch export controls on ASML lithography equipment, suggesting the cyber operations support technology acquisition objectives.</p>
-      <p><strong>Why it matters:</strong> An explicit "parity" assessment from a NATO-allied agency carries weight that US intelligence assessments cannot, because it is not filtered through domestic policy considerations — it is a third-party corroboration that changes European governments' threat calculus and their willingness to adopt stricter cyber defenses. The doubling of Chinese zero-day use is alarming because zero-days represent the most asymmetric offensive instrument: defenders have no patch, no warning, and no remediation path until the vulnerability is discovered independently. The PLA Cyberspace Force institutionalization means China has doctrinal cyber capacity now comparable to US Cyber Command, removing the organizational friction that previously limited operational tempo. For Netherlands and EU tech companies, the targeting of semiconductor and quantum computing sectors signals this is economic espionage with strategic stakes — tied directly to the ASML export control dispute — not merely state intelligence gathering. The MIVD assessment will likely accelerate European NIS2 compliance timelines, push NATO to update its formal cyber deterrence posture, and justify expanded European intelligence sharing on Chinese cyber threats, all of which were politically easier to resist when parity was merely implied rather than explicitly stated.</p>
-      <p><a href="https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:a01b7b9303a435fe7f05f063ba50579cdf76d850</id>
-    <title>[cybersecurity] TridentLocker ransomware hits Sedgwick Government Solutions, stealing data tied to DHS, ICE, CBP and CISA subsidiaries</title>
-    <link href="https://therecord.media/sedgwick-cyber-incident-ransomware"/>
-    <updated>2026-05-10T16:00:00Z</updated>
-    <author><name>therecord.media</name></author>
-    <summary>The TridentLocker ransomware gang claimed a breach at Sedgwick Government Solutions, a federal contractor serving DHS, ICE, CBP, and CISA, stealing 3.4 gigabytes of data and marking the newly emerged group&#x27;s second known victim after Belgium&#x27;s postal service.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://therecord.media/sedgwick-cyber-incident-ransomware"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>The TridentLocker ransomware gang claimed a breach at Sedgwick Government Solutions — a federal contractor serving DHS, ICE, CBP, and CISA — stealing 3.4 gigabytes of data and marking the newly emerged group's second known victim after Belgium's postal service.</strong></p>
-      <p>TridentLocker, a ransomware-as-a-service operation that emerged in November 2025, claimed the Sedgwick Government Solutions attack on New Year's Eve 2025, with Sedgwick publicly confirming the incident in May 2026 after investigation. The subsidiary provides claims and risk management services to some of the most sensitive US federal agencies: the Department of Homeland Security, Immigration and Customs Enforcement, Customs and Border Protection, US Citizenship and Immigration Services, the Department of Labor, and — notably — the Cybersecurity and Infrastructure Security Agency itself. Sedgwick stated the affected file transfer system was isolated from broader operations, with claims management servers unaffected; law enforcement and customers were notified and external cybersecurity experts engaged. TridentLocker uses standard double-extortion tactics: encrypting systems and threatening to release exfiltrated data if ransom demands go unmet. The group's rapid escalation from its November 2025 debut to a US federal contractor breach within weeks signals a sophisticated, well-resourced operation with unusually high targeting ambitions.</p>
-      <p><strong>Why it matters:</strong> The breach of a CISA-serving contractor — CISA being the federal agency responsible for US cybersecurity coordination — crystallizes a longstanding systemic vulnerability: federal contractors who handle sensitive government data are not subject to the same cybersecurity standards as the agencies themselves. Claims and risk management data tied to DHS and immigration agencies is among the most sensitive categories, potentially including personally identifiable information on asylum seekers, border incident records, and workplace claims by federal employees — data that in the wrong hands enables targeted harassment, extortion, or foreign intelligence exploitation. A 3.4 gigabyte exfiltration is small by modern standards, but ransomware groups routinely retain data for follow-on extortion campaigns; the full impact may not be known for months. This breach will likely be cited in congressional oversight proceedings and could accelerate legislative efforts to extend FedRAMP-like security requirements to contractors that handle federal agency data — a regulatory gap that has existed since FedRAMP's creation in 2011. The TridentLocker group's track record after just two victims also warrants close monitoring: if this is the beginning of a campaign against government contractors, the attack surface is enormous.</p>
-      <p><a href="https://therecord.media/sedgwick-cyber-incident-ransomware">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:b45cede1f2c604039e4c66ce4f4124561f43b17a</id>
-    <title>[tech law] Wyden and Krishnamoorthi ask FTC to probe Flock Safety license plate reader network after 35 law enforcement accounts hacked</title>
-    <link href="https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices"/>
-    <updated>2026-05-10T18:00:00Z</updated>
-    <author><name>therecord.media</name></author>
-    <summary>Senators Wyden and Krishnamoorthi asked the FTC to investigate Flock Safety after at least 35 law enforcement accounts were compromised because the company, which operates license plate readers in more than 8,000 US communities, does not require multi-factor authentication.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>Senators Wyden and Krishnamoorthi asked the FTC to investigate Flock Safety after at least 35 law enforcement accounts were compromised because the company, which operates license plate readers in more than 8,000 US communities, does not require multi-factor authentication.</strong></p>
-      <p>Flock Safety operates automatic license plate reader cameras deployed across more than 8,000 US communities, giving participating law enforcement agencies real-time nationwide vehicle tracking capability. Sen. Ron Wyden (D-OR) and Rep. Raja Krishnamoorthi (D-IL) sent a letter to FTC Chairman Andrew Ferguson identifying two critical security failures: Flock does not mandate multi-factor authentication for its law enforcement customers, and its voluntary authentication system lacks support for phishing-resistant MFA — a baseline standard in federal cybersecurity guidelines. At least 35 Flock customer accounts have been stolen by hackers; the absence of mandatory MFA has also enabled improper password sharing, allowing federal agents to access Flock systems using credentials belonging to other agencies without detection. The FTC has previously taken enforcement action against four companies — Uber, Chegg, Drizly, and Blackbaud — specifically for failing to implement MFA, establishing a regulatory precedent. Beyond cybersecurity, Flock's camera network has been documented in investigations involving abortion patients and undocumented immigrants, adding a civil liberties dimension to the security failure.</p>
-      <p><strong>Why it matters:</strong> A compromised Flock account is not a conventional data breach — it is a compromise of real-time nationwide vehicle tracking with law enforcement privileges, giving an attacker or unauthorized user the ability to surveil any vehicle in the US at scale, in real time, with no judicial oversight. The surveillance-meets-cybersecurity overlap makes the stakes unusually high: Flock data tied to abortion access or immigration status carries life-altering consequences if disclosed, abused, or sold, putting this squarely in the privacy-harm categories where the FTC has historically been most aggressive. The FTC letter arrives as Chairman Ferguson has signaled aggressive COPPA enforcement, suggesting some appetite for action even under a lighter-touch administration — though whether that extends to surveillance infrastructure vendors is untested. If the FTC acts, it could create binding security requirements specifically for companies that sell surveillance tools to law enforcement — a category currently without dedicated federal standards. If it does not, the letter creates a public record of notice that plaintiff attorneys and state AGs can use to establish a duty-of-care theory in civil litigation following any future breach. Congress is also watching: the letter is likely intended to build momentum for comprehensive privacy legislation that covers law enforcement data brokers, a category exempted from most state-level privacy laws.</p>
-      <p><a href="https://therecord.media/wyden-letter-ftc-flock-safety-investigate-cybersecurity-practices">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:bb4a30bf24b5c65e7cdc58368d691abcf8360c78</id>
-    <title>[tech] Google DeepMind assembles dedicated strike team to close coding and agentic AI gap with Anthropic, with Sergey Brin driving the push</title>
-    <link href="https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/"/>
-    <updated>2026-05-11T06:00:00Z</updated>
-    <author><name>sherwood.news</name></author>
-    <summary>Google DeepMind has formed a dedicated engineering strike team focused on improving Gemini's coding and agentic execution capabilities after leadership concluded that Anthropic's Claude has achieved superior performance in these areas, with co-founder Sergey Brin personally driving the initiative.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/"><strong>&#128240; Read full article &#8594;</strong></a></p>
-      <p><strong>Google DeepMind has formed a dedicated engineering strike team focused on improving Gemini's coding and agentic execution capabilities after leadership concluded that Anthropic's Claude has achieved superior performance in these areas, with co-founder Sergey Brin personally driving the initiative.</strong></p>
-      <p>Sherwood News reports that Google co-founder Sergey Brin sent an internal memo to DeepMind staff emphasizing urgency, writing: "To win the final sprint, we must urgently bridge the gap in agentic execution and turn our models into primary developers." The team's primary objective is developing AI systems capable of autonomous multi-step software development — agentic execution — rather than improvement on isolated coding benchmarks. The competitive pressure is attributed directly to Claude Code's commercial traction: Anthropic's coding-focused CLI has gained significant enterprise adoption, creating the kind of switching-cost dynamics that can produce winner-take-most outcomes in developer tooling markets. Claude Opus 4.7 currently leads Vals AI's Finance Agent benchmark at 64.37%, and Anthropic recently closed a SpaceX Colossus 1 compute deal adding 220,000 NVIDIA GPUs to its capacity. DeepMind is also facing talent pressure, with OpenAI and Anthropic aggressively recruiting senior engineers and researchers from Google in recent months.</p>
-      <p><strong>Why it matters:</strong> Brin's direct involvement in a product catch-up effort is unusual for a co-founder who has largely stepped back from operations, and signals that Google's leadership considers the agentic coding gap to be an existential competitive risk rather than a manageable product deficit. The agentic coding race matters because enterprise software development is one of the most valuable and measurable AI markets: companies that adopt a primary AI coding platform face significant switching costs, creating winner-take-most dynamics where being second is commercially far worse than being second in, say, a chatbot market. Anthropic's current lead is backed by Claude Code's enterprise traction, SpaceX compute capacity, and benchmark leadership — but Google has distribution advantages Anthropic lacks: deep integration with Cloud, Workspace, and Android, plus a sales force that serves every Fortune 500. The emergence of a specifically named "strike team" also has organizational implications: it signals that DeepMind is moving from a research-first to a product-racing posture in at least some domains, which may accelerate capability releases and narrow the safety review window Google has traditionally maintained between research and deployment. The broader industry implication is that the primary competition axis has shifted from raw intelligence benchmarks to agentic execution and ecosystem integration — and Google is acknowledging publicly through internal memos that it is currently behind.</p>
-      <p><a href="https://sherwood.news/tech/google-deepmind-builds-strike-team-to-catch-up-to-anthropic-models/">Read original &#8594;</a></p>
-    ]]></content>
-    <category term="tech"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:summary:2026-05-10-1840</id>
-    <title>[summary] 2026-05-10 18:40</title>
-    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
-    <updated>2026-05-10T18:40:00Z</updated>
-    <author><name>news-feed-agent</name></author>
-    <summary>Digest summary for 2026-05-10 18:40 UTC covering law, tech law, global politics, and tech.</summary>
-    <content type="html"><![CDATA[
-      <h2>law</h2>
-      <p>The Musk v. Altman trial enters its decisive final stretch: Microsoft CEO Satya Nadella testifies Monday May 11, co-founder Ilya Sutskever follows, closing arguments are set for May 14, and the advisory jury could begin deliberations as early as May 18. Week 2 saw OpenAI go on offense, with Greg Brockman testifying that Musk demanded majority equity and the CEO role before storming out, and Shivon Zilis—mother of four of Musk's children—revealing that Musk asked researcher Andrej Karpathy to compile a poaching list of top OpenAI employees to recruit to Tesla. At SCOTUS, legal analyst Rory Little has identified an emerging "2-3-4 wild card court" dynamic in which Roberts, Gorsuch, Kavanaugh, and Barrett increasingly determine outcomes on a case-by-case basis; the immigration case Blanche v. Lau, asking whether border officers need "clear and convincing evidence" to detain a lawful permanent resident with a pending felony charge, illustrates the dynamic perfectly.</p>
-      <h2>tech_law</h2>
-      <p>Bambu Lab sent a cease-and-desist to Polish developer Paweł Jarczak after he published an OrcaSlicer fork restoring cloud-printing features the company had unilaterally disabled via firmware in January 2025; Jarczak removed the project citing litigation cost, raising unresolved AGPL-3.0 and DMCA Section 1201 questions about whether hardware manufacturers can weaponize copyright law to remove features from software they open-sourced. Right-to-repair advocate Louis Rossmann offered to cover the first $10,000 of legal costs. On EU digital regulation, the DMA's first formal review found the regulation "fit for purpose" but noted persistent compliance theater by gatekeepers, while the AI Act's transparency-watermarking deadline for AI-generated content was postponed from August to December 2026.</p>
-      <h2>global_politics</h2>
-      <p>Iran launched drone attacks against Qatar (a cargo vessel hit 23 nautical miles northeast of Doha), the UAE (two drones intercepted), and Kuwait (multiple drones dealt with) on May 10—the most significant ceasefire breach since April 8—while simultaneously transmitting its formal ceasefire response to Washington via Pakistan, rejecting a 12-year uranium enrichment moratorium as non-negotiable and conditioning any deal on an end to hostilities that includes Lebanon. In Australia, the far-right One Nation party won its first-ever lower house seat in the Farrer by-election with 59.1 percent of the vote, ending a 77-year Coalition hold on the rural New South Wales electorate, in a result consistent with global right-wing populist surges seen in Hungary, France, and Italy.</p>
-      <h2>tech</h2>
-      <p>Anthropic announced two major strategic moves this week. First, a $1.5 billion enterprise AI services joint venture with Blackstone, Hellman &amp; Friedman, Goldman Sachs, and sovereign wealth fund GIC, targeting mid-sized companies that lack resources for sophisticated AI deployment—directly competing with consulting firms' AI practices. Second, a multi-gigawatt compute deal with Google and Broadcom for next-generation TPU capacity coming online from 2027, as run-rate revenue surpassed $30 billion (up from $9 billion in December 2025). Claude Mythos Preview—which autonomously exploited zero-days across every major OS during testing—remains publicly restricted via Project Glasswing, a controlled-access patching coalition; CEO Dario Amodei has publicly warned that the window to patch AI-discoverable vulnerabilities before malicious actors develop the same capability is narrowing fast.</p>
-      ]]></content>
-    <category term="summary"/>
   </entry>
 </feed>

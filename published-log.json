@@ -875,6 +875,60 @@
       "url": "https://therecord.media/fcc-pushes-ban-on-updates-to-foreign-routers-drones-2029",
       "title_hash": "e10972c98bf424ea7316595a9423bb1f6e6af024",
       "ts": "2026-05-12T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-13-1039",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "6709b303bf4f7e68cd7bb8f51d35e476632ac07b",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:36e1fb842eed0c025c4e497ac6ea0c92c2841400",
+      "url": "https://www.scotusblog.com/2026/05/court-addresses-one-redistricting-battle-faces-another/",
+      "title_hash": "1ef84c861f270a81ad883b60d97c34afe5afd753",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:81caa7ed46b537b21f49eb90dd5ca29471d57952",
+      "url": "https://therecord.media/foxconn-confirms-cyberattack-north-american-factories",
+      "title_hash": "ae161c5a338e7187a82b50edfb43ee97af168df0",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8ccf3c212404d6726f130d191a5ea542144fca4a",
+      "url": "https://therecord.media/west-pharmaceutical-warns-of-ransomware-attack-impacting-operations",
+      "title_hash": "db92c6152cb42d02b09da0f8ceba0648661d3e3b",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:43819904543c44b13ca304d69fd5291fd5373dfe",
+      "url": "https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost",
+      "title_hash": "eebe00ee26bf7b49d98518c46ca3763b1de39ff4",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2102930923fdf4458546b91c69681460649c7b13",
+      "url": "https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case",
+      "title_hash": "91a0178d3c37ab11b5af26953654721a06330dd6",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1272da189124f766c0a7e7669dee01d4e630100e",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "title_hash": "e85ba2c8a25797540e2582cb6b9e06a643d6b487",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f97aa9b69a3654d3acb22f847281d94262040cc5",
+      "url": "https://therecord.media/congressman-launches-inquiry-into-food-retail-surveillance",
+      "title_hash": "3201d38307bdf01b5d9a1c099e0d2cce3b4b72e2",
+      "ts": "2026-05-13T10:39:30Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:52e656793e89e6c2096d3eca4f94f725c2334889",
+      "url": "https://www.scotusblog.com/2026/05/justice-samuel-alito-opens-up-about-oral-arguments-judicial-security-and-his-writing-process/",
+      "title_hash": "ec3087b3852cc94725925b263a66c76144113aa1",
+      "ts": "2026-05-13T10:39:30Z"
     }
   ]
 }
