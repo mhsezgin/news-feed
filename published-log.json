@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-13-1830",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "084f75561ed5fa31e83e3bb933eee3337c983bfd",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f2d90e48ae044258c58437e314b593f68f14e992",
+      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo",
+      "title_hash": "10afb9b6cf1bdaae7a933983ddacc04ffa3683c9",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ead5ebc7cdbef59319e147edd1d26bb93286617f",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o",
+      "title_hash": "83be4ce713563fb5b80b336ebf49a0ee9444508f",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:dcef7ac4ab617881783949f8f5fcc17698cf5703",
+      "url": "https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires",
+      "title_hash": "a3f263cad75eecebda9806a586e185184b48e8de",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ed2f3a8f307d1daaf5fdf1878ba97ce53995a434",
+      "url": "https://therecord.media/uk-moves-to-shield-security-researchers-cybercrime",
+      "title_hash": "d0d345b33adc3004f17e3ae89ad38b908dbbf4e4",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8cd588c91755618e69d6092a41f1cc565e2dc75e",
+      "url": "https://therecord.media/european-commission-head-pushes-restriction-teen-social-media",
+      "title_hash": "660a3ddc7800c11245e40272c2f0036d15db316a",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:663b262b7c41dbd61b1f25ad78f575e91d6d5a92",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "title_hash": "b1530ec35102d52065b08e06fa0526971df83412",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3c776d9eefcebdf485efb2d0b97a346b451d4927",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
+      "title_hash": "a5955779f9fc6a46f3247c4cabbd6735eb38ee0b",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b450d48603a4baae962150b1e317ba504df74581",
+      "url": "https://www.scotusblog.com/2026/05/can-the-state-force-religious-preschools-to-promote-other-religions-/",
+      "title_hash": "6ed4ddbc0e69b8cba3078cf65f30c4338a04b91f",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b90cd53bb591625f5b5bc6b1c5a3d119bd2b8b13",
+      "url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up",
+      "title_hash": "4ad3a1987251521a36b0fd064ed46d01c8866b95",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b69d9ee955ceb23b0b7e9410adcfa80dd0b27213",
+      "url": "https://therecord.media/microsoft-on-pace-to-break-annual-vulnerability-record-ai",
+      "title_hash": "5a7de099b657b2f0f47f29759e38d2e9317da637",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f6335c1b4f327fe2662f87ba44fe6482b55e481c",
+      "url": "https://www.scotusblog.com/2026/05/the-governments-fourth-amendment-double-standard/",
+      "title_hash": "04c1e34819caaaefbfd56b3250163d1d5a876063",
+      "ts": "2026-05-13T18:30:00Z"
+    },
+    {
       "id": "tag:mhsezgin.github.io,2026:item:190ad3994703df46c59aeb7ce5f5b75963de7871",
       "url": "https://www.scotusblog.com/2026/05/abortion-pill-dispute-returns-to-supreme-court/",
       "title_hash": "4f67002a77b6027654f8cfbd850091b6d6b1bbd9",
