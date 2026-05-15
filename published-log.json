@@ -1103,6 +1103,84 @@
       "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
       "title_hash": "62a034df6c0fcae288dead72b52b8014e3fcd7e7",
       "ts": "2026-05-14T14:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-15-1200",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "d1da14631dfe4d1d8353e25f1b12246e3aa2d4d7",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:85de79b117eb1e6e062dc1db60bfdd969e8f8f4d",
+      "url": "https://www.scotusblog.com/2026/05/court-allows-for-access-to-abortion-pill-by-mail-for-now/",
+      "title_hash": "325963cd41db948197f076513c0b452a603943b7",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:9fb7659991e0f7b473ae829e70e0798cb1231380",
+      "url": "https://www.scotusblog.com/2026/05/republican-legislators-urge-justices-to-leave-virginia-supreme-courts-redistricting-ruling-in-pl/",
+      "title_hash": "23e00167b646283667ac850d52f97c2128ceceef",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2abdd1da5d838f75ff41cbd804b7fa6fe6c0170e",
+      "url": "https://verfassungsblog.de/climate-change-in-the-high-court-of-australia/",
+      "title_hash": "b987e2e9966bd24859c526e629e1002046c7c8c7",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2129aa61dfe38fa538564e999362267f1d7bdbfa",
+      "url": "https://therecord.media/openai-asks-macos-users-to-update-tanstack-npm",
+      "title_hash": "5136ee40682a3016c43e39239f7234762d283a24",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ab864bbcb68fd96727e262748a84f66db824552c",
+      "url": "https://www.techdirt.com/2026/05/14/openais-kosa-endorsement-is-regulatory-capture-with-a-smiley-face/",
+      "title_hash": "6d9a501a893a3cbdfebb11e93248f0bb139369ce",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:4a2ad23d5324703de7580373a97c06c8751b1185",
+      "url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+      "title_hash": "488f05d53a270956fd5c185a9bac73187ddeb3a2",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:9f168bed910c3fc81759af373454b86eaffcee45",
+      "url": "https://www.techdirt.com/2026/05/14/congress-narrowed-the-guard-act-but-serious-problems-remain/",
+      "title_hash": "de2201fd77cd2014caf3d306b883368b1ba48f1b",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:7f626df2e8ecce3ab9b5d3d8632eab5c5a12d513",
+      "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o",
+      "title_hash": "230b15122bdff5e7cf6709c66964bcee6f00e103",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:cf943dead07ebcb6554145728865a2e6f23da741",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o",
+      "title_hash": "ac3724dc860f65ec903c0efee9625499723e1b68",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:954408b3e6dd2544452f231bcab557ef645a29a6",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "title_hash": "41f45302cfb75bb251b9b652e3dcf712d29cab26",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:76e5a237b85b49ceae80baaad25d3bef95ebf044",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "title_hash": "4d5f83ce64005c7707394adca62c32804427b0e7",
+      "ts": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a2450b6c11a475fac944a82c4429cbb6935a0881",
+      "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+      "title_hash": "6ed6bf861dca8a95a6f5baf058d1f91dcdaa84c1",
+      "ts": "2026-05-15T12:00:00Z"
     }
   ]
 }
