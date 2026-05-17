@@ -1349,6 +1349,60 @@
       "url": "https://nvlabs.github.io/Sana/WM/",
       "title_hash": "839d7df3d5b726360ac378d0d962c6bc992f6ffe",
       "ts": "2026-05-16T12:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-17-1030",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml#2026-05-17T1030Z",
+      "title_hash": "9cc1de8c4e5c69b6cf2871fa89a4ba7a7b92c82b",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:375c0d55290c90a7e29f65b3974dff463c3473cb",
+      "url": "https://www.scotusblog.com/2026/05/abortion-pill-to-remain-available-by-mail/",
+      "title_hash": "1fd14af15edfc7fa8d1b8476ebf53225a0d922f4",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d6b84ce75495e9a66c576fe126fe621cc4197abb",
+      "url": "https://www.scotusblog.com/2026/05/court-decides-major-voting-rights-act-case/",
+      "title_hash": "65c62d714341171751e2c1b84ea7dbe3b9c9a4d4",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:4d00438571dc7ec51b35d215949371d6c0b05184",
+      "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency",
+      "title_hash": "3389f0c508fea28991cb38dbc54f4b45e749b872",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c0ae36594b3368cc25876260e2c8c50e130e7d07",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "title_hash": "11fabb95d79088580f72d1b3c6e9bb3ca2d3d4af",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:23e598e2ff8f2a9e367081ad61bc9944b52c3e32",
+      "url": "https://www.malwarebytes.com/blog/news/2026/05/millions-of-students-personal-data-stolen-in-major-education-cyberattack",
+      "title_hash": "888d71d6d18b0b7688b1ba484d2f3a377df77771",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:821eb3bc162c6e69ce7fdc796e9b324e081a2b82",
+      "url": "https://www.usnews.com/news/world/articles/2026-05-13/new-york-man-found-guilty-in-chinese-secret-police-station-case",
+      "title_hash": "0edab5b7b6d8dbeabdadb54c0c65b202405bdec9",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:dc322473cfadffbac35c792e20f8654d45bcbaf1",
+      "url": "https://www.euronews.com/my-europe/2026/05/07/dma-how-the-eus-big-tech-law-changed-citizens-lives",
+      "title_hash": "9b726e89e63040ced54dc315b1247d8960845fff",
+      "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:cadda18837c18952d1c476d869447c3dfa2662b0",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools/",
+      "title_hash": "ed6b51147618ffbb17df0a7c14cda25336cbda15",
+      "ts": "2026-05-17T10:30:00Z"
     }
   ]
 }
