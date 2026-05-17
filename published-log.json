@@ -1403,6 +1403,66 @@
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools/",
       "title_hash": "ed6b51147618ffbb17df0a7c14cda25336cbda15",
       "ts": "2026-05-17T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-17-1840",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "7c3ea7ebc58f1fe0821e304ccb7b13d230674dbf",
+      "ts": "2026-05-17T18:40:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a6c13b6074e46272d217f3e963f3da142f7716df",
+      "url": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
+      "title_hash": "7ca4001d54407c00d904510c4b1cf35ce3fdfa79",
+      "ts": "2026-05-17T18:38:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:12a59ad806e6df84eb06a4508c87e7a5a6dafce2",
+      "url": "https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm",
+      "title_hash": "2b211eab52d0b91b4a61d8e2e47fa8b5fe32452b",
+      "ts": "2026-05-17T18:37:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:225866fd550e03e955d725877d913f02134b9047",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title_hash": "369610d6bf07f79620769dd1a960265dae8959c5",
+      "ts": "2026-05-17T18:36:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8bb981d7eac5335c7958f28daebad3c1d9a56ee2",
+      "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+      "title_hash": "20ba7a2d5993e2a9f0e7edc81ce7ddb940827797",
+      "ts": "2026-05-17T18:35:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:de488768a3df8aca1fabdf7dfb62c8aaccce18bf",
+      "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+      "title_hash": "5477e0d9e89ff5aad1c3dfec4032d8706eaaee15",
+      "ts": "2026-05-17T18:34:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1e0c3f5b4837613a415e530074da04d2320df412",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-ban-kochava-subsidiary-selling-sensitive-location-data-settle-charges-they-sold-location-data",
+      "title_hash": "438c3873124df9cdadb6189465bf915fb72f7551",
+      "ts": "2026-05-17T18:33:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3e018ab625a7ada617d18f86f4ae13bf9d0c0328",
+      "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+      "title_hash": "adf1d715cc32e2bbbe41c1060753e2da61952cdc",
+      "ts": "2026-05-17T18:32:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:277ef470d2b44223696428bdf93587154cd97542",
+      "url": "https://verfassungsblog.de/the-big-lie-of-two-thirds-majority/",
+      "title_hash": "e26731d697c270b446e2b43e082a934a9782baa8",
+      "ts": "2026-05-17T18:31:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:986df4469d2bb49fdc0640378ca81b95d70579e1",
+      "url": "https://verfassungsblog.de/federalism-against-democracy/",
+      "title_hash": "e90f75a6056f112fa88e3f6f9a0149ca9390ee77",
+      "ts": "2026-05-17T18:30:00Z"
     }
   ]
 }
