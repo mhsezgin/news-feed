@@ -4,8 +4,192 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml"/>
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-18T12:00:00Z</updated>
+  <updated>2026-05-19T10:38:00Z</updated>
 
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:summary:2026-05-19-1038</id>
+    <title>[summary] 2026-05-19 10:38</title>
+    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+    <updated>2026-05-19T10:38:00Z</updated>
+    <author><name>news-feed-agent</name></author>
+    <summary>Digest for 2026-05-19 10:38 UTC: Anthropic acquires SDK-generation company Stainless; Hungary's new government faces constitutional repair dilemmas after Orbán's fall; DC federal court blocks ICE warrantless arrests; Trump creates $1.776B Anti-Weaponization Fund of disputed constitutionality; CISA contractor exposed AWS GovCloud admin keys on public GitHub; INTERPOL Operation Ramz nets 201 arrests across 13 MENA countries; Trump calls off scheduled Iran military strike at Gulf allies' request; Murdoch-influenced NFL antitrust inquiry lacks legal basis; six-month LLM frontier recap; SCOTUS judicial-philosophy analysis.</summary>
+    <content type="html"><![CDATA[
+
+      <h2>law</h2>
+      <p>Hungary's TISZA party, led by Péter Magyar, secured a historic constitutional supermajority (53 percent, 141 seats) on April 12, ending 16 years of Orbán rule — and constitutional scholars are now debating how to repair the country's Fundamental Law without repeating Fidesz's unilateral constitution-writing precedent. Verfassungsblog identifies four priorities: restoring judicial independence, removing ideological content (gender, family, Christian heritage provisions), lifting unjustifiable rights restrictions, and reforming the majoritarian electoral system Orbán designed to amplify ruling-party seat share. Meanwhile, a D.C. federal judge (Beryl Howell) issued a second nationwide order blocking ICE warrantless civil immigration arrests, finding ICE had redefined its own "escape risk" standard — a semantic workaround designed to evade her earlier injunction — and expanded discovery toward a potential permanent injunction. On the political-constitutional front, the Trump DOJ announced a $1.776 billion "Anti-Weaponization Fund" structured as a settlement of Trump's IRS lawsuit; the fund bypasses congressional appropriation, operates without judicial oversight or disclosure obligations, and may cover January 6 defendants — drawing immediate constitutional challenges on Appropriations Clause, Fourteenth Amendment Section 3, and due process grounds.</p>
+
+      <h2>tech_law</h2>
+      <p>KrebsOnSecurity reported that a Nightwing contractor — working for CISA — left a public GitHub repository named "Private-CISA" containing high-privilege AWS GovCloud administrative keys, plaintext passwords for dozens of internal systems, SSH keys, and credentials to CISA's internal software-build artifactory; security researchers called it one of the most egregious government credential exposures in recent history, with the artifactory access creating a potential software supply-chain backdoor risk across federal systems. INTERPOL's Operation Ramz (October–February) coordinated 13 North African and Middle Eastern countries to arrest 201 people, identify 3,867 victims, seize 53 servers, and dismantle a phishing-as-a-service platform traced to Algeria — with investigators also uncovering that 15 suspects in Jordan were themselves human trafficking victims forced to run fraud operations. The Trump DOJ's antitrust inquiry into NFL media distribution — reportedly prompted by Rupert Murdoch's February dinner complaint that streaming was killing broadcast networks — lacks an articulated theory of harm and appears designed to protect Fox's broadcast rights rather than advance genuine competition policy.</p>
+
+      <h2>global_politics</h2>
+      <p>President Trump announced May 18 on Truth Social that he had cancelled a U.S. military strike on Iran scheduled for Tuesday, following a direct request from the leaders of Qatar, Saudi Arabia, and the UAE, who asked for two to three days to allow ongoing nuclear negotiations to conclude. Trump simultaneously ordered the military to remain "prepared to go forward with a full, large scale assault of Iran, on a moment's notice" — the first time a U.S. president has publicly disclosed both the existence and the exact date of a scheduled attack on a nation-state while cancelling it. If negotiations fail, a U.S. strike would mark the first direct military attack on Iran, with risks of escalation through Hezbollah, Iraqi militias, Houthi forces, and Iranian ballistic missile capabilities.</p>
+
+      <h2>tech</h2>
+      <p>Anthropic acquired Stainless, the SDK-generation company that has built every official Anthropic API SDK since the API's inception, integrating the team to accelerate Claude agent connectivity via MCP (Model Context Protocol) and widen language coverage across TypeScript, Python, Go, Java, and Kotlin. Simon Willison's retrospective on the past six months of LLM development identifies five changes in which lab held the "best" frontier model between November 2025 and May 2026 (Anthropic, OpenAI, and Google each trading the lead), the maturation of coding agents to "mostly-work" reliability via reinforcement learning, and open-weight models in the 20-26GB range now outperforming last year's closed-model frontier — with practical implications for enterprise procurement, junior software engineering labor markets, and privacy-sensitive sectors that cannot use cloud APIs.</p>
+    
+    ]]></content>
+    <category term="summary"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:9c0ddb2d59a6955e6d0b9d71ceb662580c97c120</id>
+    <title>[ai] Anthropic acquires Stainless, the company that has built every official Anthropic SDK since the API launched</title>
+    <link href="https://www.anthropic.com/news/anthropic-acquires-stainless"/>
+    <updated>2026-05-19T10:37:00Z</updated>
+    <author><name>anthropic.com</name></author>
+    <summary>Anthropic has acquired Stainless, the SDK-generation company that automatically built every official Anthropic API SDK since launch, bringing the team in-house to deepen Claude agent connectivity across programming languages.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.anthropic.com/news/anthropic-acquires-stainless"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>Anthropic has acquired Stainless, the SDK-generation company that automatically built every official Anthropic API SDK since launch, bringing the team in-house to deepen Claude agent connectivity across programming languages.</strong></p>
+      <p>Stainless, founded in 2022, specializes in automatically generating software development kits, command-line tools, and MCP (Model Context Protocol) servers from API specifications, supporting TypeScript, Python, Go, Java, and Kotlin. The company has powered Anthropic's official SDKs from the very beginning of the Claude API — meaning the acquisition brings an existing critical infrastructure partner in-house rather than integrating an external technology. Hundreds of additional companies also rely on Stainless to generate production SDKs and API connectors for their own products. Katelyn Lesse, Anthropic's Head of Platform Engineering, framed the strategic logic directly: 'Agents are only as useful as what they can connect to.' Alex Rattray, Stainless's founder and CEO, has argued that SDKs deserve the same engineering care as the APIs they wrap — a philosophy aligned with Anthropic's push to make Claude's agent capabilities more reliable. Financial terms were not disclosed.</p>
+      <p><strong>Why it matters:</strong> For developers building on Claude's API, the acquisition signals that Anthropic is treating its SDK and MCP infrastructure as a core platform investment rather than a developer-relations afterthought — which typically means faster updates, better cross-language parity, and tighter integration between new Claude capabilities and the tooling developers use to connect to external data. The move also positions Anthropic to accelerate adoption of MCP, the open agent-connectivity protocol it introduced in late 2024; with Stainless's generator in-house, Anthropic can ship MCP server connectors for third-party APIs far faster than it could by contracting out. For the broader developer tooling market, the acquisition raises the question of whether Stainless's third-party SDK generation business — currently serving hundreds of non-Anthropic companies — will continue unchanged or be gradually redirected toward Anthropic-adjacent priorities. The tighter SDK-to-model integration Anthropic is pursuing also has competitive implications: a developer whose tools are deeply integrated with Claude's latest capabilities faces higher switching costs when choosing between frontier model providers, and Anthropic is clearly betting that reducing integration friction is a durable moat.</p>
+      <p><a href="https://www.anthropic.com/news/anthropic-acquires-stainless">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:276cd83b0e70f60a0eb6ffa37c120d6b99017e36</id>
+    <title>[law] Hungary after Orbán: scholars debate constitutional repair without repeating his unilateral rewriting playbook</title>
+    <link href="https://verfassungsblog.de/hungary-constitutional-repair/"/>
+    <updated>2026-05-19T10:36:00Z</updated>
+    <author><name>verfassungsblog.de</name></author>
+    <summary>Legal scholars are debating how Hungary's new TISZA-led government should use its historic constitutional supermajority to repair 16 years of democratic backsliding without mimicking the Orbán playbook of unilateral constitutional rewriting.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://verfassungsblog.de/hungary-constitutional-repair/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>Legal scholars are debating how Hungary's new TISZA-led government should use its historic constitutional supermajority to repair 16 years of democratic backsliding without mimicking the Orbán playbook of unilateral constitutional rewriting.</strong></p>
+      <p>On April 12, 2026, Péter Magyar's TISZA party won 141 seats on nearly 53 percent of the vote in Hungary's parliamentary election, securing the two-thirds supermajority threshold that Orbán himself embedded in the 2011 Fundamental Law as a requirement for constitutional amendment — a provision designed to entrench Fidesz power that now enables its undoing. The victory ended 16 years of Orbán rule and what scholars classify as a 'hybrid regime': formally democratic elections combined with systematic capture of courts, media regulators, electoral administration, and public institutions. Verfassungsblog contributors identify four constitutional repair priorities: eliminating obstacles to democratic decision-making; restoring independence of courts and supervisory institutions; removing unjustifiable fundamental rights limitations; and excising ideological content Fidesz wrote into the constitution, including provisions on gender, family structure, and Christian national heritage. Electoral reform is identified as both urgent and transformative, since Orbán's majoritarian system amplified the ruling party's seat share far beyond its actual vote share across more than a decade of elections. Scholars explicitly warn that unilaterally adopting a new constitution — even for democratic purposes — would replicate Orbán's own legitimacy-bypassing move from 2010 and make the resulting document a target for future right-wing challenge.</p>
+      <p><strong>Why it matters:</strong> How TISZA handles its supermajority will be watched across the EU as the most important test of post-authoritarian democratic restoration in over a decade, with direct implications for the EU's capacity to enforce its own constitutional values through Article 7 proceedings against member states. Hungary's return to full EU rule-of-law compliance would unlock approximately €20 billion in cohesion funds frozen since 2022, giving TISZA a powerful material incentive to move quickly on judicial independence reforms that Brussels has explicitly demanded. The Polish precedent — PiS defeated in late 2023, followed by a Tusk government with similar constitutional-majority ambitions — provides both a road map and a caution: Polish courts and institutions have resisted the reform agenda on procedural grounds, and international bodies have split on whether the restoration measures themselves respect legal process. For the EU, Hungary's constitutional transition tests whether European law can serve as a backstop for democratic recovery — or whether the constitutional capture Orbán achieved is in practice irreversible without a willing political successor with exceptional electoral resources. Scholars note that even with a supermajority, TISZA will face constitutional courts packed with Fidesz-era appointees who may contest reform legislation before it takes effect.</p>
+      <p><a href="https://verfassungsblog.de/hungary-constitutional-repair/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:58d8ef90437bbde7b13c13c1b1ae16aa2e5de776</id>
+    <title>[law] D.C. federal court issues second order blocking ICE nationwide warrantless arrests, finding agency rewrote its own policy to evade the first injunction</title>
+    <link href="https://www.techdirt.com/2026/05/18/dc-court-orders-ice-to-stop-engaging-in-warrantless-arrests/"/>
+    <updated>2026-05-19T10:35:00Z</updated>
+    <author><name>techdirt.com</name></author>
+    <summary>U.S. District Judge Beryl Howell issued a second nationwide order blocking ICE warrantless civil immigration arrests after finding the agency had rewritten its internal 'escape risk' definition to evade her earlier injunction, allowing arrests at court check-ins and naturalization appointments.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.techdirt.com/2026/05/18/dc-court-orders-ice-to-stop-engaging-in-warrantless-arrests/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>U.S. District Judge Beryl Howell issued a second nationwide order blocking ICE warrantless civil immigration arrests after finding the agency had rewritten its internal 'escape risk' definition to evade her earlier injunction, allowing arrests at court check-ins and naturalization appointments.</strong></p>
+      <p>Judge Howell of the U.S. District Court for the District of Columbia issued the order after determining that ICE had manipulated its own policy guidance in response to her earlier ruling, which found warrantless civil immigration arrests violated Fourth Amendment standards. The core manipulation: ICE rewrote its definition of 'escape risk' — the traditional exception that triggered warrant-requirement workarounds — by dropping a key qualifying phrase, effectively narrowing the standard to whether an individual 'is likely to remain at the scene of the encounter.' Under this shrunken definition, ICE proceeded to arrest individuals attending court-ordered check-ins and pursuing naturalization applications — contexts where the arrestees were voluntarily cooperating with legal processes and self-evidently not attempting to flee. Judge Howell found ICE's reinterpretation constituted 'a departure from statutory text and historical understanding' and that the agency was using semantic manipulation to evade judicial oversight rather than complying with the order's substance. She granted expanded discovery to build a fuller factual record, leaving a potential permanent injunction available as a subsequent remedy.</p>
+      <p><strong>Why it matters:</strong> The fact that ICE responded to an injunction by rewriting internal policy definitions — rather than complying with the ruling's substance — will likely harden judicial supervision across immigration enforcement: future courts may draft injunctions with more precise definitional anchors, or appoint compliance monitors to review whether policy rewrites constitute covert noncompliance. A permanent injunction after full discovery would impose a nationwide constraint on the administration's deportation pipeline at its earliest enforcement stage — directly limiting the mass-arrest operations that have been central to the Trump administration's enforcement posture since January 2025. The broader pattern of agencies redefining internal terms to evade judicial orders is being litigated simultaneously across multiple enforcement contexts, and the D.C. Circuit's eventual ruling on whether such maneuvers constitute contempt will set precedent affecting executive-branch compliance with court orders government-wide. For immigration lawyers, the expanded discovery phase creates an opportunity to build a detailed factual record of ICE's nationwide operations — information that has historically been opaque and that could support future litigation in other circuits. The ruling also has a constitutional dimension: courts finding that an agency is systematically misrepresenting its own policy to circumvent judicial review may invoke inherent contempt powers, which are available independently of statutory enforcement mechanisms.</p>
+      <p><a href="https://www.techdirt.com/2026/05/18/dc-court-orders-ice-to-stop-engaging-in-warrantless-arrests/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:d4bd30caed8eb1b26eea1eb01d6230bd90baaf7f</id>
+    <title>[law] Trump DOJ creates $1.776B 'Anti-Weaponization Fund' — structured as IRS lawsuit settlement — to pay allies with no congressional vote, judicial oversight, or public disclosure</title>
+    <link href="https://www.techdirt.com/2026/05/18/trump-just-created-an-unconstitutional-1-776-billion-loyalty-rewards-program-for-maga/"/>
+    <updated>2026-05-19T10:34:00Z</updated>
+    <author><name>techdirt.com</name></author>
+    <summary>The Trump Justice Department announced a $1.776 billion 'Anti-Weaponization Fund' on May 18 — structured as a settlement of Trump's personal IRS lawsuit — that will disburse taxpayer money to alleged Biden-era victims with no congressional appropriation, no adjudicated claims, and no obligation to disclose decision-making.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.techdirt.com/2026/05/18/trump-just-created-an-unconstitutional-1-776-billion-loyalty-rewards-program-for-maga/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>The Trump Justice Department announced a $1.776 billion 'Anti-Weaponization Fund' on May 18 — structured as a settlement of Trump's personal IRS lawsuit — that will disburse taxpayer money to alleged Biden-era victims with no congressional appropriation, no adjudicated claims, and no obligation to disclose decision-making.</strong></p>
+      <p>The fund was revealed as part of a deal under which Trump dropped his $10 billion lawsuit against the IRS over the leak of his tax returns by former IRS contractor Charles Littlejohn, who was convicted in 2024. The DOJ structured the fund using the Treasury's Judgment Fund, which traditionally covers settlements in cases where courts have entered final judgments — a characterization legal experts immediately disputed, since this fund operates without any adjudicated claims whatsoever. A five-member commission, whose members have not yet been named, will administer the $1.776 billion (a figure that conspicuously echoes the year of the Declaration of Independence), with Trump reserving the right to remove commissioners at will and the commission operating under no disclosure requirements for individual disbursement decisions. Eligible claimants include anyone alleging they were harmed by Biden-era 'weaponization' of the legal system — a definition broad enough to encompass the roughly 1,600 individuals charged in connection with the January 6, 2021 Capitol attack. Constitutional scholars and government watchdogs flagged at minimum three structural violations: the Appropriations Clause (requiring congressional authorization for federal spending), Fourteenth Amendment Section 3 (prohibiting government funding of insurrection), and basic due-process requirements.</p>
+      <p><strong>Why it matters:</strong> If the courts allow the fund to operate, it establishes a precedent that a president can create an executive-discretion spending vehicle of over a billion dollars by settling a personal lawsuit against a federal agency — bypassing the congressional appropriations process entirely and creating a template for future administrations to fund political constituencies outside legislative control. The Fourteenth Amendment Section 3 angle is particularly consequential: any disbursements to January 6 defendants would directly test whether courts will enforce the insurrection bar as an affirmative limit on executive spending, a question that has never been litigated in this precise posture. Even conservative legal figures — including former Scalia clerk Ed Whelan — publicly questioned the fund's constitutionality, indicating the challenge will not be dismissed as purely partisan. Democratic state attorneys general have announced they will seek emergency injunctions, and civil-society organizations have pledged lawsuits; the central legal question is whether the Judgment Fund is a tool of executive discretion or whether the Appropriations Clause constrains its use to genuinely adjudicated claims. The fund's creation also raises a separate question about the IRS lawsuit settlement itself: dropping a $10 billion government lawsuit to create a $1.776 billion fund for political allies may independently implicate the Emoluments Clause and conflict-of-interest statutes, since Trump was personally a plaintiff.</p>
+      <p><a href="https://www.techdirt.com/2026/05/18/trump-just-created-an-unconstitutional-1-776-billion-loyalty-rewards-program-for-maga/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:94138721a3a5194919ce144a496ac0f5dc5ee0c1</id>
+    <title>[cybersecurity] CISA contractor left AWS GovCloud admin keys, plaintext passwords, and SSH keys in a public GitHub repo — experts call it one of the worst government credential leaks on record</title>
+    <link href="https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"/>
+    <updated>2026-05-19T10:33:00Z</updated>
+    <author><name>krebsonsecurity.com</name></author>
+    <summary>A Nightwing contractor working for CISA maintained a public GitHub repository containing high-privilege AWS GovCloud administrative credentials, plaintext passwords for dozens of internal CISA systems, and SSH keys — credentials that security experts described as among the most egregious government data exposures in recent history.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>A Nightwing contractor working for CISA maintained a public GitHub repository containing high-privilege AWS GovCloud administrative credentials, plaintext passwords for dozens of internal CISA systems, and SSH keys — credentials that security experts described as among the most egregious government data exposures in recent history.</strong></p>
+      <p>The repository, named 'Private-CISA' and maintained by a Nightwing contractor (Nightwing is a Virginia-based government IT services firm), contained a file titled 'importantAWStokens' with credentials to three AWS GovCloud servers at high privilege level. AWS GovCloud is Amazon's cloud region restricted to U.S. government use, and administrative-level keys provide root-equivalent access to those servers. Beyond the cloud tokens, the repository included plaintext passwords in CSV files for dozens of CISA internal systems, SSH keys, cloud access tokens, and credentials to CISA's internal 'artifactory' — the code package repository used to build and deploy CISA-developed software. Security researchers identified the artifactory access as particularly dangerous: 'Backdoor some software packages, and every time they build something new, they deploy your backdoor left and right' — meaning a threat actor with that access could inject persistent malicious code into CISA's own security tools. CISA issued a statement asserting 'there is no indication that any sensitive data was compromised,' while Nightwing declined to comment, deferring to CISA.</p>
+      <p><strong>Why it matters:</strong> The breach hits the specific agency responsible for defending U.S. government cybersecurity and coordinating incident response — the entity that advises all other federal agencies on exactly the credential management practices that this incident violated, making the credibility damage as significant as the technical risk. If the AWS GovCloud keys or artifactory credentials were accessed before discovery, the potential exposure is a software supply-chain attack affecting any CISA-built tool deployed across the federal government — a scenario comparable to the SolarWinds attack of 2020, but originating from CISA's own build pipeline. The incident illustrates a persistent institutional failure: privileged credentials routinely end up in version control despite years of public awareness and tooling investment, because developers face minimal accountability for the practice and automated secrets scanning remains inconsistently deployed even in high-security environments. CISA's own Secure by Design initiative and Known Exploited Vulnerabilities catalog both address credential hygiene — the fact that the agency's own contractor violated these principles on a public repository creates a serious internal-consistency problem for CISA's credibility as a cybersecurity standard-setter. Congressional oversight committees will likely demand answers about Nightwing's contractor vetting, CISA's code repository auditing practices, and whether any foreign intelligence services accessed the repository before it was taken down.</p>
+      <p><a href="https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:caa1fddbb872040b49c4c440aaa28e24fbdcc825</id>
+    <title>[cybersecurity] INTERPOL Operation Ramz: 201 arrested across 13 MENA countries, phishing-as-a-service platform dismantled, 3,867 victims identified</title>
+    <link href="https://therecord.media/more-than-200-arrested-interpol-middle-east-scams"/>
+    <updated>2026-05-19T10:32:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>INTERPOL's Operation Ramz, coordinated across 13 North African and Middle Eastern countries from October to February, resulted in 201 arrests, identification of 3,867 victims, seizure of 53 servers, and the dismantling of an Algerian phishing-as-a-service platform.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/more-than-200-arrested-interpol-middle-east-scams"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>INTERPOL's Operation Ramz, coordinated across 13 North African and Middle Eastern countries from October to February, resulted in 201 arrests, identification of 3,867 victims, seizure of 53 servers, and the dismantling of an Algerian phishing-as-a-service platform.</strong></p>
+      <p>Operation Ramz was backed by Qatar and the European Union, with cybersecurity firm Team Cymru providing technical support, and coordinated participating agencies in Algeria, Bahrain, Egypt, Iraq, Jordan, Lebanon, Libya, Morocco, Oman, Palestine, Qatar, Tunisia, and the UAE. Raids uncovered financial fraud operations in which victims were directed to deposit money into fake investment and trading platforms that were subsequently shut down — a pattern known as 'pig butchering' in its longer-term variants. Law enforcement seized 53 servers, recovered hard drives containing banking data and phishing software, and dismantled a phishing-as-a-service platform traced to Algeria, which had provided turnkey fraud infrastructure to downstream criminal actors who lacked the technical capacity to build their own tools. A particularly significant finding: in Jordan, investigators discovered that 15 individuals running the scam operations were themselves victims of human trafficking — recruited under false promises of legitimate employment and then coerced into operating fraud networks. In total, 201 people were arrested and an additional 382 suspects were identified but not immediately apprehended, with 3,867 victims formally identified across the 13 participating countries.</p>
+      <p><strong>Why it matters:</strong> The dismantling of the Algerian phishing-as-a-service platform is the most operationally significant element: unlike individual fraud operations, phishing-as-a-service infrastructure enables dozens or hundreds of separate criminal groups to run sophisticated campaigns without technical skill, and removing the underlying platform disrupts downstream fraud activity far beyond the specific operation targeted. The human-trafficking-to-cybercrime pipeline revealed in Jordan is increasingly a defining structural feature of large-scale financial fraud networks — particularly those operating from Southeast Asia, the Middle East, and North Africa — and substantially complicates prosecution by blurring the line between perpetrator and victim in ways that existing legal frameworks handle poorly. EU financial backing for Operation Ramz reflects a strategy of projecting the EU Digital Services Act's platform enforcement framework into the MENA region through cooperative law enforcement, though the practical effect of DSA obligations on non-EU platforms facilitating fraud in these markets remains legally contested. For banks and payment processors operating in the MENA region, the 3,867 victim identifications create both legal notification obligations and an opportunity for coordinated account recovery — though cross-border victim notification across 13 jurisdictions with varying data protection regimes is operationally complex. The 382 additional identified suspects who were not arrested represent an intelligence dividend: INTERPOL will share those identities with member agencies for separate prosecution, potentially extending the operational impact of the raid well beyond the 201 direct arrests.</p>
+      <p><a href="https://therecord.media/more-than-200-arrested-interpol-middle-east-scams">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:86c9221fabc2eae99172d17ba0d1b6bdb49c5685</id>
+    <title>[global politics] Trump cancels scheduled U.S. military strike on Iran — set for Tuesday — after Qatar, Saudi Arabia, and UAE request pause for nuclear negotiations</title>
+    <link href="https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike"/>
+    <updated>2026-05-19T10:31:00Z</updated>
+    <author><name>npr.org</name></author>
+    <summary>President Trump announced on May 18 that he had cancelled a U.S. military strike on Iran scheduled for the following day after the leaders of Qatar, Saudi Arabia, and the UAE personally requested a two-to-three-day pause to allow 'serious' nuclear negotiations to continue.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>President Trump announced on May 18 that he had cancelled a U.S. military strike on Iran scheduled for the following day after the leaders of Qatar, Saudi Arabia, and the UAE personally requested a two-to-three-day pause to allow 'serious' nuclear negotiations to continue.</strong></p>
+      <p>Trump made the announcement on Truth Social Monday afternoon, stating he had instructed Defense Secretary Pete Hegseth, Joint Chiefs Chairman General Daniel Caine, and U.S. military forces that the scheduled attack would not proceed Tuesday, while simultaneously ordering them to remain prepared to 'go forward with a full, large scale assault of Iran, on a moment's notice' if negotiations fail. The three Gulf states — Qatar, Saudi Arabia, and the UAE — asked for two to three days, arguing they were close to a deal that would include 'NO NUCLEAR WEAPONS FOR IRAN' in Trump's formulation. The public disclosure is historically unusual: a U.S. president has not previously confirmed a scheduled attack on a specific nation-state, including its planned execution date, while simultaneously announcing its cancellation — a disclosure that effectively serves as a public ultimatum to Iran's negotiating team. Background: U.S.-Iran nuclear talks had been underway for weeks, with Iran signaling willingness to limit uranium enrichment to below weapons-grade levels in exchange for phased sanctions relief, while Israel has maintained pressure on the U.S. to pursue a military option rather than a negotiated cap. The Trump administration had already imposed additional sanctions on Iran and conducted naval exercises in the Persian Gulf in the weeks prior to this announcement.</p>
+      <p><strong>Why it matters:</strong> The episode reveals that Gulf state leaders exercise direct veto-adjacent influence over U.S. military decisions in the region — a reflection of their leverage as energy-market anchors and, more immediately, as sovereign wealth fund investors that Trump has actively courted for U.S. economic partnerships. If nuclear talks succeed and produce an agreement capping Iranian enrichment, the deal would reshape Middle East security arrangements and trigger a domestic political fight over whether the executive can bind the U.S. to a nuclear arrangement without Senate ratification as a treaty. If talks collapse and a military strike follows, it would be the first direct U.S. military attack on Iran, with escalation risks running through Hezbollah in Lebanon, Shia militias in Iraq, Houthi forces in Yemen, and Iranian ballistic and cruise missile capabilities that can reach U.S. bases across the region. The public announcement of the cancelled strike — naming the specific scheduled day — also affects the negotiating dynamics: Iran's leadership now knows the military option was real and imminent, which may accelerate concessions but may also trigger domestic political pressure in Tehran that constrains what negotiators can offer. Israel's position remains a wildcard: Israeli officials have previously stated they reserve the right to act independently against Iranian nuclear facilities regardless of U.S. decisions, and a diplomatic resolution acceptable to Washington may not satisfy Jerusalem's threshold for military action.</p>
+      <p><a href="https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:99c33270a0f0d3fcd48564d1b0ffad7d768bddfd</id>
+    <title>[antitrust] Murdoch reportedly convinced Trump to launch an NFL antitrust inquiry to protect Fox's broadcast rights from streaming competition — without an articulated legal theory</title>
+    <link href="https://www.techdirt.com/2026/05/18/rupert-murdoch-convinced-trump-to-launch-dubious-antitrust-inquiry-into-nfl/"/>
+    <updated>2026-05-19T10:30:00Z</updated>
+    <author><name>techdirt.com</name></author>
+    <summary>The Trump DOJ launched an antitrust inquiry into NFL media distribution practices after Rupert Murdoch reportedly told Trump at a February dinner that growing NFL streaming on Amazon and Netflix would 'kill broadcast networks' — a complaint that directly benefits Murdoch's Fox Corporation, which holds broadcast rights to NFL games.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.techdirt.com/2026/05/18/rupert-murdoch-convinced-trump-to-launch-dubious-antitrust-inquiry-into-nfl/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>The Trump DOJ launched an antitrust inquiry into NFL media distribution practices after Rupert Murdoch reportedly told Trump at a February dinner that growing NFL streaming on Amazon and Netflix would 'kill broadcast networks' — a complaint that directly benefits Murdoch's Fox Corporation, which holds broadcast rights to NFL games.</strong></p>
+      <p>According to Wall Street Journal reporting, Murdoch's February dinner conversation with Trump triggered a period of intensified federal scrutiny of the NFL from 'multiple prongs of the federal government.' The NFL's current media arrangement distributes games across Amazon (Thursday Night Football), Netflix (Christmas Day games and an expanded deal), and NFL+, while the league maintains that 87 percent of all games remain on broadcast television, including Fox, NBC, and CBS. The DOJ inquiry has not specified which NFL practices are under investigation or identified a statutory basis or preliminary theory of antitrust harm — an unusual posture for a formal inquiry, which typically requires at minimum an articulable concern about market definition and competitive effect. Fox Corporation, as a major NFL broadcast rights holder, directly benefits from any policy or legal pressure that slows or reverses the migration of games to streaming platforms, which attract younger audiences that advertisers increasingly target and reduce the premium value of broadcast rights. The Techdirt analysis cites a near-identical pattern from Trump's first term: Murdoch allegedly influenced Trump to block the AT&T/Time Warner merger in 2017 because Murdoch wanted CNN, which AT&T was acquiring as part of the deal.</p>
+      <p><strong>Why it matters:</strong> If the inquiry is being directed by a media proprietor's commercial interest communicated over a private dinner rather than by evidence of competitive harm, it represents precisely the kind of political capture of antitrust enforcement that DOJ independence guidelines and Sherman Act jurisprudence are designed to prevent — and it creates a personal-benefit conflict that could expose DOJ leadership to oversight liability. From a substantive antitrust standpoint, the NFL already operates under the Sports Broadcasting Act, a narrow statutory exemption from Sherman Act liability that specifically authorizes league-wide pooling of broadcast rights; any antitrust theory aimed at the NFL's streaming distribution would need to navigate this exemption carefully. The more likely practical effect of the inquiry is regulatory pressure on the NFL's ongoing rights negotiations — if streaming platforms know the federal government is scrutinizing NFL deals, they may pull back from premium bidding, indirectly protecting the broadcast rights value that Murdoch is concerned about. Congress has oversight authority over both the DOJ's antitrust enforcement priorities and the Sports Broadcasting Act exemption, and the reported Murdoch-dinner origin story will likely generate formal oversight requests from Senate Judiciary Committee members on both sides of the aisle. For the broader tech and media sector, the episode reinforces a concern that antitrust enforcement under the current administration is selectively deployed as a political and commercial lever rather than as a neutral competition-law instrument — a pattern that, if judicially tested, could produce rulings that constrain prosecutorial discretion in future administrations.</p>
+      <p><a href="https://www.techdirt.com/2026/05/18/rupert-murdoch-convinced-trump-to-launch-dubious-antitrust-inquiry-into-nfl/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:b9988de5c95ef807bd6a7c9c903ba5c8b5b87e28</id>
+    <title>[ai] Six months in LLMs: the frontier crown changed hands five times, coding agents reached daily-driver reliability, and laptop-capable open-weight models now beat last year's frontier</title>
+    <link href="https://simonwillison.net/2026/May/19/5-minute-llms/"/>
+    <updated>2026-05-19T10:29:00Z</updated>
+    <author><name>simonwillison.net</name></author>
+    <summary>Developer Simon Willison's six-month LLM retrospective (November 2025–May 2026) finds that the best available frontier model changed hands five times across Anthropic, OpenAI, and Google, coding agents matured to 'mostly-work' reliability, and open-weight models on laptops now outperform the closed frontier of 18 months ago.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://simonwillison.net/2026/May/19/5-minute-llms/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>Developer Simon Willison's six-month LLM retrospective (November 2025–May 2026) finds that the best available frontier model changed hands five times across Anthropic, OpenAI, and Google, coding agents matured to 'mostly-work' reliability, and open-weight models on laptops now outperform the closed frontier of 18 months ago.</strong></p>
+      <p>The six-month period from November 2025 to May 2026 saw rapid successive frontier releases: Anthropic's Claude Sonnet 4.5 (September 2025) and Opus 4.5 (November 2025), OpenAI's GPT-5.1 and GPT-5.1 Codex Max (November 2025), Google's Gemini 3 (November 2025) and Gemini 3.1 Pro (February 2026), and a wave of open-weight Chinese models including GLM-5.1 (a 1.5TB model, April 2026) and Qwen3.6-35B-A3B. Willison identifies five distinct moments where the 'best model' designation changed hands — unprecedented in this compressed a timeframe — indicating that no single lab has achieved a stable capability advantage. The most practically significant structural shift: coding agents crossed from 'often-work' to 'mostly-work' reliability, driven by reinforcement-learning-based training specifically optimized for autonomous software tasks, making them viable daily-driver tools for professional development rather than experimental assistants requiring constant correction. A new category of personal AI assistants (dubbed 'Claws' in Willison's analysis) gained significant traction as developers purchased Mac Minis to run agents locally, with hardware shortages resulting from unexpected demand. Open-weight models in the 20-26GB range — runnable on consumer laptops — began consistently outperforming the closed frontier models of 18 months ago, democratizing access to frontier-tier capability while enabling privacy-sensitive use cases that cloud API deployment cannot support.</p>
+      <p><strong>Why it matters:</strong> Five frontier leadership changes in six months means no enterprise AI procurement decision made today can assume the chosen vendor will hold a capability advantage for more than a few months — organizations building deep integrations with a single provider's API are accepting vendor-lock risk at a moment of unusually high competitive flux. The coding agent maturation from 'often-work' to 'mostly-work' is the development with the most immediate labor market implications: if autonomous coding agents can reliably complete full-sprint software tasks, demand dynamics for junior software engineering roles will shift materially within current corporate planning horizons, and companies that have not begun adapting their engineering org structures are already late. Laptop-capable open-weight models exceeding last year's closed frontier is particularly consequential for privacy-sensitive sectors — legal, healthcare, defense, and financial services — that cannot send client data to cloud APIs; those sectors now have access to genuinely capable AI without the regulatory and confidentiality exposure that cloud deployment entails. For AI safety researchers and policymakers, the rapid capability progression across all major labs — with minimal public safety evaluation documentation — suggests that internal capability-safety evaluation cycles are not keeping pace with model release tempo, a gap that multiple regulatory proposals (EU AI Act, U.S. executive order frameworks) are designed to close but have not yet operationalized. The success of Chinese open-weight models (GLM-5.1, Qwen3.6) at frontier-competitive performance levels also has geopolitical implications for export control policy, since capable open-weight weights cannot be unshipped once released.</p>
+      <p><a href="https://simonwillison.net/2026/May/19/5-minute-llms/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:ea5a96fec4c6114372a196abd94b0314a2ad0aac</id>
+    <title>[law] SCOTUS analysis: Black and Harlan — progressive textualist and conservative rights-expansionist — inverted their labels in Griswold and shaped every unenumerated-rights case since</title>
+    <link href="https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/"/>
+    <updated>2026-05-19T10:28:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>A new SCOTUSblog essay traces how Hugo Black and John Marshall Harlan II — ideological opposites and close personal friends — inverted conventional political labels in Griswold v. Connecticut (1965), with 'progressive' Black dissenting against contraception rights on textualist grounds while 'conservative' Harlan voted to protect them through substantive due process.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/"><strong>&#128240; Read full article &rarr;</strong></a></p>
+      <p><strong>A new SCOTUSblog essay traces how Hugo Black and John Marshall Harlan II — ideological opposites and close personal friends — inverted conventional political labels in Griswold v. Connecticut (1965), with 'progressive' Black dissenting against contraception rights on textualist grounds while 'conservative' Harlan voted to protect them through substantive due process.</strong></p>
+      <p>The essay focuses on Griswold v. Connecticut (1965), which struck down the state's ban on contraceptive use by married couples. Hugo Black, historically categorized as a progressive justice and Franklin Roosevelt appointee, dissented on grounds that the Constitution contains no explicit right to privacy — a position he derived from his strict commitment to constitutional text, arguing courts should not invent rights not written in the document, a stance we would today call originalism. John Marshall Harlan II, labeled a conservative Eisenhower appointee, voted to strike the Connecticut law by arguing that the due process clause protects rights 'implicit in the concept of ordered liberty' even when unwritten — the methodology that later produced Roe v. Wade. The two were paradoxically close personal friends: Harlan kept a portrait of Black's namesake in his office, and Black described Harlan as one of the few people who had convinced him 'there is such a thing as a good Republican.' The essay draws a direct line from this 1965 philosophical split to Dobbs v. Jackson Women's Health Organization (2022), in which the Court's majority used Black-style textualism to overrule Roe, vindicating Black's Griswold dissent nearly 60 years later.</p>
+      <p><strong>Why it matters:</strong> The essay arrives as the current Supreme Court continues to produce unexpected cross-ideological coalitions — Barrett and Sotomayor aligning on administrative law questions, Thomas joining liberal justices on Fourth Amendment cases — a pattern that becomes more legible when understood through the lens of methodological commitment rather than partisan affiliation. The practical implication for legal practitioners is tactical: framing arguments in textualist terms has strategic value with the current Court's majority regardless of one's normative position, because the methodology tends to control outcomes even when the substantive result is uncertain. For constitutional scholars, the Black-Harlan inversion illustrates the persistent instability of the 'conservative/progressive' taxonomy as applied to constitutional adjudication: a justice's methodological commitments — textualism, living constitutionalism, structuralism, moral pragmatism — predict outcomes far better than their appointing president's party. The Dobbs connection gives the analysis immediate contemporary weight: the majority opinion's reasoning tracked Black's Griswold dissent closely, suggesting that Black's jurisprudence, dismissed as extreme in 1965, ultimately set the doctrinal template for the largest constitutional rollback in the Court's modern era. The essay also serves as a useful corrective for commentary that treats the current Court's unenumerated-rights skepticism as unprecedented — it has a lineage running through Black's strict textualism, with the Harlan tradition of substantive due process now in retreat but not eliminated, as Justice Kavanaugh's cautious concurrences in post-Dobbs cases suggest.</p>
+      <p><a href="https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/">Read original &rarr;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
   <entry>
     <id>tag:mhsezgin.github.io,2026:summary:2026-05-18-1200</id>
     <title>[summary] 2026-05-18 12:00</title>
@@ -30,7 +214,6 @@
     ]]></content>
     <category term="summary"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ea687664fb55443ae170199651d4c22eb8fdb7cb</id>
     <title>[ai] Jury dismisses all of Elon Musk's claims against OpenAI and Sam Altman in under two hours, finding the lawsuit filed too late</title>
@@ -47,7 +230,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:50738bf0cb2bec0c663eaff566ae6eff6d4e6ed9</id>
     <title>[ai] Anthropic in talks to raise $40–50 billion at a $950 billion valuation, potentially eclipsing OpenAI as world's most valuable private company</title>
@@ -64,7 +246,6 @@
     ]]></content>
     <category term="tech"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:595068dbfd940e634f8660a5f1426ed01068ab22</id>
     <title>[law] Supreme Court grants cert in Crowther v. Board of Regents to resolve whether Title IX lets employees sue schools for sex discrimination</title>
@@ -81,7 +262,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:8ee78456f16b411762e2c097ba7c2a14ac2a9ccb</id>
     <title>[law] Supreme Court refuses to reinstate Virginia's Democratic redistricting map, locking the state into an existing map for the 2026 midterms</title>
@@ -98,7 +278,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ee76e6c150676ced3ac2171bda3c8278285969bb</id>
     <title>[law] Judge rules 3D-printed ghost gun and manifesto admissible in Luigi Mangione's New York murder trial, set for September 8</title>
@@ -115,7 +294,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:7a5228f8c77a439e414a62dc8f9e9ba5411e581b</id>
     <title>[cybersecurity] Grafana Labs refuses to pay ransom after CoinbaseCartel steals entire codebase via stolen GitHub access token</title>
@@ -132,7 +310,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:e920713a6585654a5801c601890cd0a011481765</id>
     <title>[privacy] OpenAI rolls out ChatGPT financial account integration via Plaid and Intuit; cybersecurity experts warn of account takeover risk</title>
@@ -149,7 +326,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:e09348e462d88b1b3b4e9435d2deb1cdbad922fc</id>
     <title>[tech law] AI chatbots and suicide prevention: why blunt liability rules may eliminate the mental health resource marginalized users rely on most</title>
@@ -166,7 +342,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:0793910f59d74a82fb3979fb242bbe60f55b3c87</id>
     <title>[global politics] Israeli naval commandos board Gaza-bound flotilla off Cyprus, detaining roughly 100 activists from 45 countries</title>
@@ -183,7 +358,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:77d24c3b8f1e9a2c4d5e6f7890abcdef12345678</id>
     <title>[global politics] Six Americans exposed to Ebola in DR Congo — one symptomatic — as WHO declares Bundibugyo outbreak a global health emergency</title>
@@ -200,7 +374,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:summary:2026-05-18-1040</id>
     <title>[summary] 2026-05-18 10:40</title>
@@ -225,7 +398,6 @@
     ]]></content>
     <category term="summary"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:a92e99a87639b9ddc0d459aa709294ce88a3e894</id>
     <title>[global politics] Drone strike sparks fire at UAE's Barakah nuclear plant — the first attack on the Arab world's only nuclear reactor since the Iran war began</title>
@@ -242,7 +414,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:428ddd93b5bea3ff8ad189978bd04d8f55a1058c</id>
     <title>[global politics] Trump warns Iran 'clock is ticking' as nuclear deal stalls over uranium transfer demand</title>
@@ -259,7 +430,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:e4db1bcd0977b1e4a1ccc3a4297d56d023ee9dde</id>
     <title>[global politics] Iran executes at least 22 political prisoners in six weeks since start of war; UN calls for immediate halt</title>
@@ -276,7 +446,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:b734f4ac1f7a5b47b58e2d1772e94e717edce8ca</id>
     <title>[global politics] Second Gaza aid flotilla departs Turkey after Israel intercepted the first convoy 600 nautical miles from Gaza</title>
@@ -293,7 +462,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:957297b124b77c7644b18f0336edb60550631717</id>
     <title>[global politics] Ukraine launches one of its largest drone strikes on Russia, targeting Moscow-area military-industrial plants with 1,054 drones</title>
@@ -310,7 +478,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:440970fb36b038c70d5194dbf86cc8545a5ed7e4</id>
     <title>[cybersecurity] April 2026 Patch Tuesday: Microsoft patches 167 CVEs in second-largest update ever, with three actively exploited zero-days</title>
@@ -327,7 +494,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:ae85da8819edc5700a1cbfccbea8a06b36215cfd</id>
     <title>[law] SCOTUS petition filings have fallen by more than half since 2007, driven by prison-litigation restrictions and the Martin doctrine</title>
@@ -345,189 +511,4 @@
     <category term="law"/>
   </entry>
 
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:f45ce9d320f32588b7459eb5d679dfe84fc083ce</id>
-    <title>[tech] Tesla Solar Roof is effectively dead — 97.7% short of production targets, exiting direct installation, pivoting to conventional panels</title>
-    <link href="https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"/>
-    <updated>2026-05-18T10:31:00Z</updated>
-    <author><name>electrek.co</name></author>
-    <summary>Tesla's Solar Roof is effectively dead: the company has quietly exited direct installation, stopped reporting solar deployment figures, and ceased meaningful marketing, having reached only approximately 23 roofs per week at peak production — 97.7% short of Elon Musk's original 2019 target of 1,000 per week — while pivoting to promote its conventional TSP-420 solar panel instead.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"><strong>📰 Read full article →</strong></a></p>
-      <p><strong>Tesla's Solar Roof is effectively dead: the company has quietly exited direct installation, stopped reporting solar deployment figures, and ceased meaningful marketing, having reached only approximately 23 roofs per week at peak production — 97.7% short of Elon Musk's original 2019 target of 1,000 per week — while pivoting to promote its conventional TSP-420 solar panel instead.</strong></p>
-      <p>Tesla began mass production of the Solar Roof in approximately 2020, years behind Musk's original schedule, and never overcame the fundamental economics of a product priced at $106,000 versus roughly $60,000 for conventional solar alternatives with equivalent output. The company stopped reporting solar deployment figures in Q1 2024, ceased meaningful marketing in June 2023, and has now exited direct installation — a de facto product discontinuation without a formal announcement. At peak, Tesla reached approximately 23 roofs per week across the US, against Musk's 2019 promise of 1,000 per week by end of that year — a miss of 97.7%. The product's decline has left existing customers in a difficult position: the 2024 layoffs gutted the Buffalo factory support team, customer service ratings collapsed to 2.6 out of 5, and Tesla has reportedly declined some repair and warranty requests. Tesla is now promoting the TSP-420 conventional panel with a stated target of 100 GW annual manufacturing capacity by 2028.</p>
-      <p><strong>Why it matters:</strong> The Solar Roof's failure is a case study in the gap between speculative manufacturing timelines — a recurring feature of Tesla's product announcements — and actual production economics: integrating aesthetics, roofing installation, and solar energy generation into a single product created complexity that neither Tesla's supply chain nor its installation workforce could absorb at scale. The pivot to conventional panels is strategically sensible but arrives in a market where SunPower, Sunrun, and Chinese manufacturers have entrenched positions and significantly lower cost structures. For existing Solar Roof customers — who bought the product partly on the expectation of long-term Tesla service support — the service desert is a real problem: a rooftop solar installation that cannot be repaired is a stranded asset with both financial and property-value implications. The broader lesson for energy transition policy is that hardware-software integration ambitions in clean energy, while compelling in theory, carry manufacturing and service execution risks that are structurally different from software-only products, and Musk's credibility on future energy product timelines — including the Powerwall 3 and grid-scale storage commitments — should be evaluated with the Solar Roof's execution record in view.</p>
-      <p><a href="https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/">Read original →</a></p>
-    ]]></content>
-    <category term="tech"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:summary:2026-05-17-1840</id>
-    <title>[summary] 2026-05-17 18:40</title>
-    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
-    <updated>2026-05-17T18:40:00Z</updated>
-    <author><name>news-feed-agent</name></author>
-    <summary>Digest for 2026-05-17 18:40 UTC: Anthropic releases Claude Mythos — AI system that finds zero-day vulnerabilities at superhuman scale; Google I/O opens Tuesday with major Gemini model expected; OpenAI expands globally with first national ChatGPT Plus partnership in Malta; WHO declares Ebola PHEIC in DRC and Uganda; disgruntled ex-Microsoft researcher publishes BitLocker bypass; FTC bans Kochava from selling sensitive location data; Americans smashing Flock license plate cameras; Hungary's Tisza party wins constitutional supermajority; India proposes massive Lok Sabha expansion.</summary>
-    <content type="html"><![CDATA[
-
-      <h2>law</h2>
-      <p>Hungary's opposition Tisza party, led by Péter Magyar, won a historic supermajority in parliamentary elections, crossing the two-thirds threshold needed to amend the constitution — a result that opens the door to dismantling the constitutional and electoral architecture Viktor Orbán built over 15 years. The win follows a sustained anti-corruption campaign and voter mobilization effort that overcame years of gerrymandering and media-environment advantages built into the Hungarian system; legal experts say the first order of business will be restoring judicial independence, reversing changes to the Constitutional Court's composition rules, and re-establishing checks on executive power. India's Modi government proposed expanding the Lok Sabha from 543 to 850 seats, a reapportionment that critics argue would entrench the BJP's current geographic strongholds by dramatically increasing representation from northern states where the party dominates while diluting southern states that have largely blocked BJP expansion; the proposal requires a constitutional amendment and faces significant opposition from coalition partners.</p>
-
-      <h2>tech_law</h2>
-      <p>The FTC finalized a settlement banning data broker Kochava from selling sensitive location data — including data revealing visits to reproductive health clinics, domestic violence shelters, places of worship, and addiction treatment facilities — after the agency sued Kochava in 2022 for selling such data in violation of Section 5 of the FTC Act. The settlement requires Kochava to delete historical sensitive location data and implement a geofencing suppression system going forward, marking the agency's most significant data-broker enforcement action focused specifically on the harms of precise location data for vulnerable populations. In a separate privacy story with grassroots momentum, more than 30 cities and counties have now passed restrictions on Flock Safety's automated license plate reader cameras, and some Americans are physically smashing the cameras — generating a growing legal and civil liberties debate about private infrastructure companies operating mass vehicle surveillance networks on public roads with data retention policies that in some cases exceed five years.</p>
-
-      <h2>global_politics</h2>
-      <p>The WHO declared a Public Health Emergency of International Concern for the Bundibugyo Ebola outbreak in the Democratic Republic of Congo and Uganda — the highest-level alert the WHO can issue — as the death toll from the outbreak approached 80 and cases were confirmed in Uganda for the first time. The outbreak involves the Bundibugyo strain, which has a lower historical case fatality rate than the Zaire strain of the 2014–2016 West Africa outbreak but is spreading in Ituri Province, where armed conflict limits the ability of health workers to conduct contact tracing and vaccination campaigns.</p>
-
-      <h2>tech</h2>
-      <p>Anthropic released Claude Mythos, its AI security research system, which the company says has identified thousands of zero-day vulnerabilities across major software infrastructure at a rate and scale that exceeds human security research capabilities — making it arguably the first public demonstration of an AI system that can perform superhuman-level offensive security research on production systems. The release comes as Google I/O opens Tuesday with a major new Gemini model expected to compete directly with OpenAI's GPT-5.5 at the frontier; and as OpenAI announced a partnership with Malta to deploy the first national government ChatGPT Plus program, offering the model to all Maltese citizens as part of a national AI integration strategy — a potential template for other small-state AI partnerships.</p>
-
-    ]]></content>
-    <category term="summary"/>
-  </entry>
-
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:a6c13b6074e46272d217f3e963f3da142f7716df</id>
-    <title>[ai] Anthropic's Claude Mythos finds thousands of zero-day vulnerabilities in production software — a potential inflection point for AI-assisted offense and defense</title>
-    <link href="https://www.anthropic.com/news/claude-mythos"/>
-    <updated>2026-05-17T18:38:00Z</updated>
-    <author><name>anthropic.com</name></author>
-    <summary>Anthropic released Claude Mythos, an AI system purpose-built for security research that has identified thousands of zero-day vulnerabilities across major software infrastructure at a scale and rate the company says exceeds human security research capabilities, marking a potential turning point in the balance between AI-assisted offense and defense in cybersecurity.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.anthropic.com/news/claude-mythos"><strong>📰 Read full article →</strong></a></p>
-      <p><strong>Anthropic released Claude Mythos, an AI system purpose-built for security research that has identified thousands of zero-day vulnerabilities across major software infrastructure at a scale and rate the company says exceeds human security research capabilities, marking a potential turning point in the balance between AI-assisted offense and defense in cybersecurity.</strong></p>
-      <p>Claude Mythos is Anthropic's first specialized AI system explicitly designed for offensive security research — the process of finding previously unknown vulnerabilities in software before attackers do. Anthropic says Mythos identified vulnerabilities across widely deployed infrastructure including web servers, databases, and operating system components, and disclosed them to the affected vendors through a responsible disclosure process. The system represents a qualitative capability shift from earlier AI security tools: rather than pattern-matching against known vulnerability signatures, Mythos performs autonomous code analysis that can identify novel classes of bugs that human researchers have not previously documented. The release follows Brian Krebs's documentation of a record April 2026 Patch Tuesday, which security analysts attributed in part to AI-accelerated vulnerability discovery — Mythos makes that acceleration explicit and associated with a specific Anthropic system.</p>
-      <p><strong>Why it matters:</strong> AI systems that can find zero-day vulnerabilities at scale represent a fundamental change in the threat landscape: historically, the limiting factor in both offensive and defensive security has been the number of skilled human researchers who can manually audit code. Mythos removes that constraint, which means the same capability in adversarial hands — whether state actors, criminal groups, or anyone who develops equivalent systems — could generate an effectively unlimited supply of exploitable vulnerabilities faster than patching cycles can absorb. Anthropic's decision to release Mythos and to operate it with responsible disclosure processes is one model for managing this capability; but the company has also demonstrated publicly that this capability exists, providing a proof-of-concept that other organizations will attempt to replicate. The regulatory implications are significant: U.S. export controls on AI systems are poorly adapted to distinguish between AI coding tools and AI security research systems, and the EU's AI Act's high-risk classification framework does not clearly address AI systems designed for offensive security research. The April 2026 Patch Tuesday record CVE count may be the first visible sign of what a world with routine AI-assisted vulnerability discovery looks like in practice.</p>
-      <p><a href="https://www.anthropic.com/news/claude-mythos">Read original →</a></p>
-    ]]></content>
-    <category term="tech"/>
-  </entry>
-
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:12a59ad806e6df84eb06a4508c87e7a5a6dafce2</id>
-      <title>[ai] Google I/O 2026 opens Tuesday: new Gemini model expected to rival GPT-5.5 but land third behind Anthropic Mythos</title>
-      <link href="https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm" />
-      <updated>2026-05-17T18:37:00Z</updated>
-      <author><name>techtimes.com</name></author>
-      <summary>Google's annual developer conference opens May 19 with a new Gemini model — reportedly a 3.2 or 3.5 update rather than a full Gemini 4.0 — that sources describe as matching OpenAI's GPT-5.5 on most benchmarks but trailing Anthropic's Mythos, which leads 17 of 18 measured frontier evaluations.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Google's annual developer conference opens May 19 with a new Gemini model — reportedly a 3.2 or 3.5 update rather than a full Gemini 4.0 — that sources describe as matching OpenAI's GPT-5.5 on most benchmarks but trailing Anthropic's Mythos, which leads 17 of 18 measured frontier evaluations.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;Google I/O 2026 opens with the keynote at Shoreline Amphitheatre in Mountain View at 10 a.m. PT on Tuesday May 19, followed by a developer keynote at 1 p.m. PT. The centerpiece announcement is a new Gemini model that Google has not officially named or confirmed; sources describe it as a Gemini 3.2 or 3.5 — representing a meaningful improvement in reasoning and multimodal capability over the current generation, but not a full 4.0 release. The model is expected to compete at the level of OpenAI's GPT-5.5 but falls short of Anthropic's Claude Mythos, which leads 17 of 18 measured benchmarks across frontier models and excels at autonomous coding. Beyond the model, Google is expected to announce "Gemini Intelligence" — a proactive, background AI framework for Android that handles multi-step tasks across apps without explicit user prompts — and Android XR Glasses, with Samsung's "Jinju" device at approximately 50 grams available for hands-on demos. The company is also introducing "Googlebook," a premium laptop category merging Android with ChromeOS (internally called "Aluminium OS"), launching fall 2026 from OEM partners Acer, ASUS, and Lenovo among others. Android 17 will require developers to provide native large-screen layout support, signaling Google's continued commitment to the tablet and foldable form factors.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Google's challenge at I/O 2026 is narrative as much as technical: after two years of playing catch-up to OpenAI on general model capability and now facing Anthropic's Mythos release, landing in third place at the frontier risks reinforcing a perception that Google cannot convert its foundational AI research advantages and unique data infrastructure into sustained model leadership. The Gemini Intelligence agentic system, if it works reliably, could matter more commercially than benchmark rankings — tight Android integration gives Google a distribution channel no competitor can match, and autonomous multi-step task execution on mobile is a use case with direct consumer value at scale. The Googlebook strategy is a significant hardware bet: if Aluminium OS succeeds in displacing Windows and macOS in the premium segment, Google gains a new platform for AI deployment at a moment when AI capabilities are reshaping what a PC needs to do. Whether the new Gemini model's intelligence is genuinely competitive at the frontier — or merely a "respectable third" — will determine how much oxygen Google gets from this keynote going into the second half of a year in which Anthropic and OpenAI are setting the capability pace.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="tech" />
-    </entry>
-
-  
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:225866fd550e03e955d725877d913f02134b9047</id>
-      <title>[ai] OpenAI and Malta launch first national ChatGPT Plus partnership — all residents get free access after an AI literacy course</title>
-      <link href="https://openai.com/index/malta-chatgpt-plus-partnership/" />
-      <updated>2026-05-17T18:36:00Z</updated>
-      <author><name>openai.com</name></author>
-      <summary>OpenAI announced its first national-government partnership under a new "OpenAI for Countries" initiative, offering all Maltese citizens and residents one year of free ChatGPT Plus access after completing a free AI literacy course developed by the University of Malta — a template the company plans to export to other governments.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://openai.com/index/malta-chatgpt-plus-partnership/"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;OpenAI announced its first national-government partnership under a new "OpenAI for Countries" initiative, offering all Maltese citizens and residents one year of free ChatGPT Plus access after completing a free AI literacy course developed by the University of Malta — a template the company plans to export to other governments.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;The OpenAI-Malta agreement, announced May 16, 2026, provides citizens and residents registered with Malta's national digital identity system one year of free ChatGPT Plus — normally priced at $20 per month — after completing a free online course called "AI for All," developed by the University of Malta in partnership with the Malta Digital Innovation Authority (MDIA), which manages distribution. The program is also open to Maltese citizens living abroad, extending reach beyond the island's approximately 550,000 residents. Phase 1 launches in May 2026. OpenAI describes the partnership as the first national-scale deployment under its "OpenAI for Countries" initiative, a framework it created to help governments integrate AI tools into public life and workforce development. The AI literacy prerequisite is structurally significant: the course-first model creates a measurable skills baseline, generates data on AI adoption patterns across a full national population, and gives OpenAI a direct channel to citizen users who have already been introduced to responsible AI use before receiving access to the commercial product. Malta's small population, high digital maturity, EU membership, and role as a fintech and blockchain regulatory hub make it an attractive and replicable pilot jurisdiction.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; The "OpenAI for Countries" framework, if it scales to larger nations, represents a new category of AI deployment that blurs the line between commercial subscription services and public digital infrastructure — with significant implications for data sovereignty, market competition, and who shapes national AI literacy curricula. As the first EU member state to participate, Malta sets a precedent for how European governments might engage with OpenAI at the national level, at the same moment the EU AI Act's transparency requirements are entering into force and Brussels is investing in its own AI sovereignty agenda through the AI Office. Critics will focus on the competitive dimension: a government-sponsored literacy course that culminates in free access to a single commercial platform may lock citizens into OpenAI's ecosystem during the formative period of AI adoption, creating switching costs that disadvantage EU-developed or open-source alternatives. What happens at the end of the free year — whether citizens continue paying, whether the government subsidizes renewal, and what data OpenAI retains from the pilot — will determine whether this is primarily a public-good investment or a sophisticated customer acquisition strategy in a high-value regulatory jurisdiction.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://openai.com/index/malta-chatgpt-plus-partnership/"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="tech" />
-    </entry>
-
-  
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:8bb981d7eac5335c7958f28daebad3c1d9a56ee2</id>
-      <title>[global politics] WHO declares Bundibugyo Ebola outbreak in DRC and Uganda a global health emergency — third-ever outbreak of a strain with no approved vaccines</title>
-      <link href="https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern" />
-      <updated>2026-05-17T18:35:00Z</updated>
-      <author><name>who.int</name></author>
-      <summary>The World Health Organization declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency of international concern on May 17, 2026, after cross-border cases appeared in Kampala — the first known incursion of the rare Bundibugyo ebolavirus, for which no approved vaccines or treatments exist, into a major African capital.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;The World Health Organization declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency of international concern on May 17, 2026, after cross-border cases appeared in Kampala — the first known incursion of the rare Bundibugyo ebolavirus, for which no approved vaccines or treatments exist, into a major African capital.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;The PHEIC declaration was triggered by three factors: cross-border spread from DRC's Ituri Province into Uganda's capital Kampala, unexplained clusters of deaths within the DRC, and major uncertainty about the true scale of the epidemic. As of May 16, the DRC had confirmed 8 laboratory cases and recorded 246 suspected cases and 80 suspected deaths across at least three health zones — Bunia, Rwampara, and Mongbwalu — in the eastern Ituri Province, a gold-mining region near the Ugandan border characterized by weak health infrastructure and high population mobility. Uganda reported two lab-confirmed Kampala cases within 24 hours of each other, with no apparent epidemiological link between them, suggesting at least two independent importation events. The pathogen — Bundibugyo ebolavirus (BVD) — is rare even by Ebola standards: this is only its third documented outbreak ever, first identified in Uganda's Bundibugyo District in 2007 and last seen in DRC in 2012. Unlike the far more common Zaire ebolavirus strain, for which the rVSV-ZEBOV-GP vaccine and the monoclonal antibody cocktail Inmazeb provide proven medical countermeasures, BVD has no approved vaccines or therapeutics — leaving containment entirely dependent on isolation, contact tracing, safe burials, and behavioral change communication. The WHO determined the outbreak does not yet meet the threshold for "pandemic emergency," the organization's highest alert level.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; The PHEIC declaration activates international coordination mechanisms: it instructs WHO member states to activate emergency operations, permits WHO to issue temporary travel and trade recommendations, and typically unlocks emergency funding from CEPI and bilateral donors. The absence of any approved medical countermeasure against BVD is the central risk factor distinguishing this outbreak from recent Ebola responses — during the 2018–2020 North Kivu outbreak that killed more than 2,000 people, the rVSV-ZEBOV-GP vaccine enabled effective ring vaccination. With no equivalent tool for BVD, responders must rely entirely on classical containment in a region — eastern DRC — characterized by active armed conflict, mass displacement, and historically high distrust of health authorities. The two unlinked Kampala cases are the sharpest immediate concern: if community transmission establishes itself in a city of nearly 4 million people with international airport connections, the containment calculus changes from outbreak management to potential pandemic risk. WHO's decision to stop short of "pandemic emergency" implies confidence that containment remains feasible — but that judgment was made before the full Kampala transmission picture was available, and the classification will be reviewed rapidly as contact tracing data comes in.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="global_politics" />
-    </entry>
-
-  
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:de488768a3df8aca1fabdf7dfb62c8aaccce18bf</id>
-      <title>[cybersecurity] Disgruntled ex-Microsoft researcher releases BitLocker bypass "YellowKey" — encrypted Windows 11 drives readable with a USB stick and a keystroke</title>
-      <link href="https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758" />
-      <updated>2026-05-17T18:34:00Z</updated>
-      <author><name>theregister.com</name></author>
-      <summary>A researcher known as "Nightmare-Eclipse," believed to be a former Microsoft employee acting in retaliation for a contract dispute, released proof-of-concept exploit code on May 13 showing that Windows 11's BitLocker encryption can be bypassed with physical access, a USB drive, and a CTRL-key sequence in the Windows Recovery Environment — with no patch available from Microsoft.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;A researcher known as "Nightmare-Eclipse," believed to be a former Microsoft employee acting in retaliation for a contract dispute, released proof-of-concept exploit code on May 13 showing that Windows 11's BitLocker encryption can be bypassed with physical access, a USB drive, and a CTRL-key sequence in the Windows Recovery Environment — with no patch available from Microsoft.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;The researcher, posting under the aliases "Nightmare-Eclipse" and "Chaotic Eclipse," has disclosed five Microsoft zero-days in 2026: BlueHammer (CVE-2026-32201, now patched after April Patch Tuesday), RedSun (Windows Defender privilege escalation, unpatched), UnDefend (Windows Defender denial-of-service, unpatched), and now YellowKey and GreenPlasma, both released May 13. The disclosures began after the researcher posted that "someone violated our agreement and left me homeless with nothing," and security reporters describe the campaign as insider retaliation. YellowKey targets Windows 11, Windows Server 2022, and Windows Server 2025 — not Windows 10: an attacker copies specially crafted "FsTx" files to a USB drive, boots the target machine into the Windows Recovery Environment (WinRE), and triggers an unrestricted shell by holding CTRL, bypassing BitLocker and granting full read/write access to the drive's contents. Security expert Rik Ferguson summarized the practical impact: "a stolen laptop stops being a hardware problem and becomes a breach notification." The concurrent GreenPlasma exploit escalates any Windows 11 or Server 2022/2025 process to SYSTEM-level privileges via the CTFMON framework, enabling credential harvesting, lateral movement, and ransomware deployment from a standard user account. The researcher has announced a "dead man's switch" — additional vulnerabilities held ready for release — suggesting further disclosures may follow before Microsoft can patch the outstanding flaws.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; BitLocker is the primary disk-encryption layer protecting hundreds of millions of Windows-deployed endpoints — enterprise laptops, government workstations, regulated-sector devices — and the breach-notification threshold assumption it underpins ("if the device is encrypted, a theft is a hardware loss, not a reportable data breach") applies to a large fraction of current incident response and insurance determinations. YellowKey's physical-access requirement is a real constraint, but it is not a high bar: lost or stolen devices, insider access scenarios, service depot chains, and law enforcement seizures all represent situations where WinRE access is feasible. Available mitigations — enabling BitLocker PINs at boot and setting BIOS password locks — are not default configurations in most enterprise deployments, leaving a large effective attack surface until administrators remediate. The "dead man's switch" threat raises the possibility of further disclosures timed to maximize pressure on Microsoft, which has not yet publicly acknowledged the outstanding YellowKey or GreenPlasma flaws. The exploitation of what appears to be intimate insider knowledge of internal Windows components raises questions about how Microsoft manages privileged-access agreements and NDAs for departing employees with security-sensitive system knowledge.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="tech_law" />
-    </entry>
-
-  
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:1e0c3f5b4837613a415e530074da04d2320df412</id>
-      <title>[tech law] FTC bans data broker Kochava from selling sensitive location data, requiring explicit consent and new compliance programs</title>
-      <link href="https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-ban-kochava-subsidiary-selling-sensitive-location-data-settle-charges-they-sold-location-data" />
-      <updated>2026-05-17T18:33:00Z</updated>
-      <author><name>ftc.gov</name></author>
-      <summary>The Federal Trade Commission announced on May 4, 2026, that it will ban Idaho-based data broker Kochava and its subsidiary Collective Data Solutions from selling precise location data from hundreds of millions of mobile devices without affirmative express consumer consent, settling a 2022 lawsuit over sales that exposed visits to health clinics, places of worship, and other sensitive locations.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-ban-kochava-subsidiary-selling-sensitive-location-data-settle-charges-they-sold-location-data"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;The Federal Trade Commission announced on May 4, 2026, that it will ban Idaho-based data broker Kochava and its subsidiary Collective Data Solutions from selling precise location data from hundreds of millions of mobile devices without affirmative express consumer consent, settling a 2022 lawsuit over sales that exposed visits to health clinics, places of worship, and other sensitive locations.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;The FTC's enforcement action against Kochava was originally filed in August 2022, alleging that the company's data products allowed purchasers to trace individuals' movements to sensitive locations — reproductive health facilities, addiction treatment centers, houses of worship, military installations, and domestic violence shelters — without those individuals' knowledge or consent. Kochava and its subsidiary Collective Data Solutions (CDS) collected precise geolocation data from hundreds of millions of mobile device identifiers through relationships with app publishers and upstream data supply chains, packaging it into audience segments and raw data products sold to advertisers, insurers, financial institutions, and other buyers. Under the proposed settlement order, Kochava and CDS must obtain affirmative express consumer consent before any location data transaction; establish a "sensitive location data program" maintaining a comprehensive list of sensitive venue categories; implement supplier assessment protocols to verify that consent was obtained upstream in the data supply chain; allow consumers to request the identities of businesses to which their location data was sold; and submit incident reports to the FTC when third-party data suppliers violate contractual consent requirements. The order does not include a monetary penalty, which privacy advocates have flagged as a significant gap given the revenue Kochava generated from the contested products.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; The Kochava settlement is the FTC's most detailed behavioral order yet in the data broker sector and establishes an operational compliance template — consent verification, sensitive-location screening, supplier auditing, consumer data-request rights — that will function as de facto industry standards until Congress passes comprehensive federal privacy legislation. The absence of a financial penalty is a material limitation: industry observers can note that non-compliance generated only structural obligations rather than fines that would alter the economic calculus of data brokerage, reducing deterrence for players with smaller profiles and less public exposure than Kochava. For the mobile advertising and data supply chain ecosystem, the order's supplier assessment requirement is novel: it pushes consent accountability upstream to original data collectors, not just the final seller, which could meaningfully increase compliance costs and renegotiate leverage for downstream data buyers. The FTC under Chairman Andrew Ferguson has publicly prioritized COPPA enforcement and sensitive-data protection, and the Kochava settlement's consent-first framework maps directly onto that enforcement direction. State attorneys general in California, Washington, and Illinois are treating this federal settlement as a template for their own enforcement under CCPA and analogous state privacy laws.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-ban-kochava-subsidiary-selling-sensitive-location-data-settle-charges-they-sold-location-data"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="tech_law" />
-    </entry>
-
-  
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:3e018ab625a7ada617d18f86f4ae13bf9d0c0328</id>
-      <title>[privacy] Americans are smashing Flock license plate cameras as 30+ cities cancel contracts over fears data feeds ICE deportation operations</title>
-      <link href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/" />
-      <updated>2026-05-17T18:32:00Z</updated>
-      <author><name>techcrunch.com</name></author>
-      <summary>Physical destruction of Flock Safety's license plate reader cameras has spread across California, Connecticut, Illinois, Virginia, and Oregon, while more than 30 localities — including Cambridge, Massachusetts, Flagstaff, Arizona, Eugene, Oregon, and Santa Cruz, California — have canceled Flock contracts over documented evidence that local police are sharing ALPR database access with federal immigration authorities to support deportation operations.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Physical destruction of Flock Safety's license plate reader cameras has spread across California, Connecticut, Illinois, Virginia, and Oregon, while more than 30 localities — including Cambridge, Massachusetts, Flagstaff, Arizona, Eugene, Oregon, and Santa Cruz, California — have canceled Flock contracts over documented evidence that local police are sharing ALPR database access with federal immigration authorities to support deportation operations.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;Flock Safety is the largest provider of automated license plate reader (ALPR) cameras to local police departments in the United States, with cameras deployed across thousands of jurisdictions. The cameras capture license plates and associated metadata — time, location, direction of travel — stored in Flock's cloud database, which contracted police agencies can query. Flock's standard contracts prohibit direct data sharing with Immigration and Customs Enforcement, and the company has publicly maintained that it does not provide ICE access to its databases. However, investigative reporting has documented that local police departments have independently granted federal authorities access to their own Flock agency accounts, routing ICE into the ALPR network without Flock's direct involvement. The Trump administration's intensified immigration enforcement campaign has heightened awareness of this data pathway: cities with large immigrant populations and sanctuary policies have increasingly viewed Flock cameras as incompatible with local non-cooperation commitments. Physical destruction has been documented in at least five states — spray-painted housings, smashed cameras, and cut mounting poles — alongside formal contract cancellations: Santa Cruz voted in January 2026 to end its contract, with Cambridge, Flagstaff, Eugene, and more than 25 additional localities following. A separate documented concern: at least 16 cases nationwide in which police officers used ALPR database access to surveil current or former romantic partners, providing a non-immigration justification for contract cancellations.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; The Flock camera controversy exposes a structural gap in American surveillance law: no comprehensive federal statute prevents local police from sharing ALPR database access with federal agencies regardless of local sanctuary policies, meaning cities canceling contracts make a political statement but may not eliminate federal ALPR access through other regional providers. Physical destruction of cameras — almost certainly criminal property damage — signals a level of community resistance unusual for infrastructure technology and reflects a politicization of surveillance hardware not seen since early anti-CCTV campaigns in the UK. The stalking-by-officers data point — 16 documented cases — provides a distinct, non-immigration ground for cancellation that police departments cannot rebut on public safety terms, and it has independently driven some localities that are otherwise supportive of immigration enforcement to reconsider their Flock relationships. The FTC's concurrent enforcement action against Kochava for sensitive location data sales, and parallel state legislative efforts to restrict ALPR data retention and sharing, suggest that the legal environment for mass automated location surveillance is entering a period of rapid change driven by immigration politics, privacy enforcement, and documented police misuse — a combination that will be difficult for the surveillance industry to manage through lobbying alone.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="tech_law" />
-    </entry>
-
-  
-  <entry>
-      <id>tag:mhsezgin.github.io,2026:item:277ef470d2b44223696428bdf93587154cd97542</id>
-      <title>[law] Hungary's Tisza party wins historic supermajority — constitutional scholar argues the Fidesz-era cardinal law system should now be abolished</title>
-      <link href="https://verfassungsblog.de/the-big-lie-of-two-thirds-majority/" />
-      <updated>2026-05-17T18:31:00Z</updated>
-      <author><name>verfassungsblog.de</name></author>
-      <summary>Following Péter Magyar's Tisza party's unprecedented win of a two-thirds parliamentary majority in Hungary's 2026 election — the first non-Fidesz supermajority in 16 years — a constitutional law scholar argues the very system of cardinal laws that Fidesz weaponized to entrench its rule should be dismantled as a condition of genuine democratic transition.</summary>
-      <content type="html">
-          &lt;p&gt;&lt;a href="https://verfassungsblog.de/the-big-lie-of-two-thirds-majority/"&gt;&lt;strong&gt;📰 Read full article →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Following Péter Magyar's Tisza party's unprecedented win of a two-thirds parliamentary majority in Hungary's 2026 election — the first non-Fidesz supermajority in 16 years — a constitutional law scholar argues the very system of cardinal laws that Fidesz weaponized to entrench its rule should be dismantled as a condition of genuine democratic transition.&lt;/strong&gt;&lt;/p&gt;
-          &lt;p&gt;When Viktor Orbán's Fidesz party won its first two-thirds majority in 2010, it used the supermajority to restructure Hungary's constitutional order — including dramatically expanding the number of "cardinal laws," a legislative category that can only be passed or amended with a two-thirds parliamentary vote. Fidesz added more than 30 policy areas to the cardinal law category, including migration policy, asylum, family policy, the electoral system, and tax rates. The intended effect was constitutional lock-in: even if Fidesz later lost its supermajority, a successor government with only a bare parliamentary majority could not amend taxation or asylum policy without Fidesz consent. Beáta Bakó, a postdoctoral researcher at Charles University in Prague writing in Verfassungsblog on May 13, 2026, argues that the assumption underlying cardinal laws — that requiring a supermajority guarantees compromise between political actors — has been empirically falsified. Fidesz used its unilateral supermajority to pass cardinal laws without any cross-party compromise whatsoever, demonstrating that the mechanism's protective function depends entirely on the existence of divided supermajority politics. Now that Tisza has won its own two-thirds majority — the first time any non-Fidesz party has achieved this threshold since 2010 — the article argues Tisza should use that power to abolish or substantially narrow the cardinal law category precisely to prevent future authoritarian actors from weaponizing it again.&lt;/p&gt;
-          &lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Hungary's political transition from Fidesz to Tisza is one of the most significant rule-of-law developments in the European Union in a decade, and the debate over cardinal laws goes to the core of what post-authoritarian constitutional repair looks like in practice. If Tisza abolishes or narrows the cardinal law category, it removes one of the most potent constitutional entrenchment tools Fidesz constructed — but also sets a precedent that supermajority governments can undo their predecessors' constitutional work with minimal procedural friction, which has its own risks for constitutional stability. Bakó's argument is essentially a claim that constitutional design must be evaluated against the realistic worst case, not the assumption of good-faith actors: a provision that functions as a constraint only when power is divided should not survive a transition government with the procedural power to remove it. The European Commission's Rule of Law Report has cited Hungary's cardinal law structure as a barrier to judicial independence reform, and its abolition could advance Hungary's compliance with outstanding EU Article 7 proceedings and unlock conditional EU fund releases. The Polish democratic transition — which has moved faster on judicial reform — is providing a comparative reference point that both the EU institutions and Hungarian constitutional lawyers are watching carefully.&lt;/p&gt;
-          &lt;p&gt;&lt;a href="https://verfassungsblog.de/the-big-lie-of-two-thirds-majority/"&gt;Read original →&lt;/a&gt;&lt;/p&gt;
-      </content>
-      <category term="law" />
-    </entry>
-
-  
 </feed>
