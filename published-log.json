@@ -1631,6 +1631,60 @@
       "url": "https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/",
       "title_hash": "cda80e54bc56ff6b626b96fa4fd604afbf8a0a3a",
       "ts": "2026-05-19T10:28:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d0d8024c973ba8fb67b8b04be4b1bc982b0fa1a2",
+      "url": "https://www.scotusblog.com/2026/05/rethinking-a-supreme-court-principle-used-to-undermine-the-voting-rights-act/",
+      "title_hash": "eda264f0956d9d0ff5b556c79fc3fba64178c352",
+      "ts": "2026-05-19T12:39:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2b6413b96554c62b78330254b15007bf78c8c383",
+      "url": "https://www.techdirt.com/2026/05/19/senator-wyden-again-tells-trump-administration-it-owes-the-public-access-to-a-section-702-ruling/",
+      "title_hash": "07832f40fb8d00d03c92821448a2288dd41cb049",
+      "ts": "2026-05-19T12:38:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:5316b39f7df1422bf0e95a561c72a08eeec3815a",
+      "url": "https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service",
+      "title_hash": "d92d2f1c1627627f160c99b5dedcdf19c6c42dd7",
+      "ts": "2026-05-19T12:37:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:add645861c45f24ac0456219cf93cd79c9214712",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "title_hash": "bbe62ba174f31c5d8769633c810cec042e2daf2d",
+      "ts": "2026-05-19T12:36:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:5c56f9984e2fa889933193708eba2465a4d3bbb9",
+      "url": "https://therecord.media/uk-regulator-to-require-tech-firms-to-tackle-deepfakes-nudification-ai",
+      "title_hash": "baee93a143eeb3de8f4d273dec197b4214128ddf",
+      "ts": "2026-05-19T12:35:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c4f3a2b1e0d9876543210abcdef987654321fedc",
+      "url": "https://www.techdirt.com/2026/05/19/hey-platforms-add-take-it-down-to-your-transparency-reports/",
+      "title_hash": "f3857b8400d589f01ca39a97fc54f4f716c0a2b3",
+      "ts": "2026-05-19T12:34:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:98cee5c66a30fa0c0bdc7d007d16c242c2eda784",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "title_hash": "cb6256514ce65edee6c4f3da8c1b8a7caa59a7b6",
+      "ts": "2026-05-19T12:33:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:007c16a00cd184134614a6d51335f265848f6a96",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo",
+      "title_hash": "ffef3ef3a6f2a2789ec008c1a1d7773089780669",
+      "ts": "2026-05-19T12:31:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f1e2d3c4b5a6978869504132badc09871fedcba9",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "title_hash": "7efb6dc0f2fec654b6721713b8d0fc7990fe8241",
+      "ts": "2026-05-19T12:30:00Z"
     }
   ]
 }
