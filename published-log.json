@@ -1685,6 +1685,66 @@
       "url": "https://cursor.com/blog/composer-2-5",
       "title_hash": "7efb6dc0f2fec654b6721713b8d0fc7990fe8241",
       "ts": "2026-05-19T12:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-20-1100",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "2bff343e329cb6f2452c67238af13c6b90a21d23",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e4e059ae9ebc65abc0eb9ec5c29d02878ce5c616",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "title_hash": "56de7382472b563e748f2185d7294fb5ff728702",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c507821067d487798275110b5f9a97b859ef749e",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "title_hash": "2439d128143b9d1d8fbe61ecc30b68ec066ac9b6",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c85f61bd038f5ee110bf6a38d988fd26d144c2a5",
+      "url": "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/",
+      "title_hash": "0b28dad6b79166b8914006f4fa18739a427998ba",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:beb9887a568311512b9af3bde03c26fdb226b95c",
+      "url": "https://www.scotusblog.com/2026/05/court-to-hear-sex-discrimination-case-case-next-term/",
+      "title_hash": "f1e0ac8cbba76e12483852ec9bf95c47ae7e06d4",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:274f61b9340dcb63333c7899375d042d36281cde",
+      "url": "https://www.scotusblog.com/2026/05/a-docket-in-the-shadow-of-bigger-problems/",
+      "title_hash": "a607c1bff8fe21f6cd2e918322af1176121cdace",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f58ef9c57bcb92998e2d660ed56ae059c133f004",
+      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
+      "title_hash": "75667a723181a98a8f1de975154f47a0a0d628cd",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:092d9d48cf3ad54e21731c909c573e30dd2c7089",
+      "url": "https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html",
+      "title_hash": "b208b1180291378e9202d07b9c14d6d306f74c1d",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1542f5daec817df89f73b4d3abdaa5296e64fdc4",
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o",
+      "title_hash": "350851efeae1ab37c4aa9969f23750736aa615f2",
+      "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:eda1fc6ae419dd73adef3805650ac76e4e96d54a",
+      "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
+      "title_hash": "844644c7cd42ea70ef8920cbf6d899cde14b0d06",
+      "ts": "2026-05-20T11:00:00Z"
     }
   ]
 }

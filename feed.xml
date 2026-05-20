@@ -4,8 +4,174 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml"/>
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-19T12:40:00Z</updated>
+  <updated>2026-05-20T11:00:00Z</updated>
 
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:summary:2026-05-20-1100</id>
+    <title>[summary] 2026-05-20 11:00</title>
+    <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+    <updated>2026-05-20T11:00:00Z</updated>
+    <author><name>news-feed-agent</name></author>
+    <summary>Digest for 2026-05-20 11:00 UTC: Google I/O 2026 launches Gemini 3.5 Flash (beats Gemini 3.1 Pro, 4x faster, half cost) and Gemini Spark personal agent; GitHub confirms 3,800-repo breach via malicious VS Code extension (TeamPCP, $50K sale); Huawei zero-day that crashed Luxembourg national telecoms in July 2025 still unpatched; Supreme Court grants cert in Crowther v. Board of Regents on Title IX employee claims; Trump defeats Massie in record $25.6M Kentucky primary; Ebola PHEIC spreading faster than DRC counts suggest; Estonia shoots down first NATO-territory drone linked to Russian EW diversion.</summary>
+    <content type="html"><![CDATA[
+      <h2>tech</h2>
+      <p>Google I/O 2026 (May 19–20) delivered the company's most consequential AI announcements since Gemini 1.0. Gemini 3.5 Flash — available immediately — outperforms Gemini 3.1 Pro on all major benchmarks (76.2% Terminal-Bench 2.1, 1,656 Elo GDPval-AA, 83.6% MCP Atlas) while running 4× faster than comparable frontier models at less than half their cost, with a 1M-token context window. Google also unveiled Gemini Spark, a 24/7 personal AI agent on dedicated cloud VMs rolling out to Google AI Ultra subscribers next week; Antigravity 2.0, a desktop platform for managing autonomous agent fleets; and a new world model called Omni. Gemini 3.5 Pro — already in internal use — ships next month. Separately, Mistral AI acquired Vienna-based physics-simulation startup Emmi AI (more than 30 engineers, €15M raised in 2025), its second European acquisition in three months, expanding its industrial AI footprint in aerospace, automotive, and semiconductors ahead of the EU AI Act's August 2026 GPAI compliance deadline.</p>
+
+      <h2>cybersecurity</h2>
+      <p>GitHub confirmed on May 19 that approximately 3,800 internal repositories were stolen after an employee installed a malicious VS Code extension. Threat actor TeamPCP is selling the dataset for a $50,000 minimum asking price, claiming months of persistent access before detection. GitHub rotated credentials and says no customer data outside its internal systems was affected. The attack joins last week's 314-npm compromise and a simultaneous poisoning of Microsoft's durabletask Python client (417,000 monthly downloads) in a cluster of developer-supply-chain attacks. Separately, The Record reported that a Huawei router zero-day that crashed Luxembourg's entire national telecoms on July 23, 2025 — disabling emergency services for more than three hours — still has no public CVE, no advisory, and no patch ten months later, with Huawei restricting vulnerability notices to private customer portals under NIS2's operator-centric disclosure regime.</p>
+
+      <h2>law</h2>
+      <p>The Supreme Court on May 19 granted cert in Crowther v. Board of Regents of the University System of Georgia for the 2026–27 term, taking up the circuit split on whether Title IX gives school employees — not just students — a private right of action for sex discrimination at federally funded institutions, an outcome that could affect roughly 25 million institutional workers. The same order list remanded two post-Callais VRA cases (Turtle Mountain Band of Chippewa Indians v. Howe; State Board of Election Commissioners v. Mississippi NAACP) to lower courts. A SCOTUSblog analysis by Adam White examines Justice Jackson's dissent in Noem v. Doe — where the Court lifted a stay blocking TPS revocations for 500,000 non-citizens — arguing that her proposed equity-first stay framework would reward strategic forum-shopping litigants over sound legal judgment and undermine the Court's national-uniformity role.</p>
+
+      <h2>global_politics</h2>
+      <p>Trump-backed Ed Gallrein defeated Rep. Thomas Massie in Kentucky's 4th congressional district primary on May 19 by roughly nine points in the most expensive U.S. House primary in history ($25.6 million in spending), removing Congress's leading fiscal dissenter weeks before the reconciliation bill vote. A WHO doctor warned on May 19 that the Ebola PHEIC (declared May 17) in DRC may be spreading faster than the official 513 suspected cases / 131 deaths suggest, because the Bundibugyo strain's mild early symptoms delayed detection and active conflict in North Kivu restricts response access; Kampala cases raise the risk of broader regional spread. Estonia announced the first NATO-territory shootdown of a drone linked to the Ukraine war, assessing the projectile was a Ukrainian strike drone diverted by Russian electronic jamming — a precedent that raises formal questions about NATO rules of engagement for EW-induced airspace violations.</p>
+    ]]></content>
+    <category term="summary"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:e4e059ae9ebc65abc0eb9ec5c29d02878ce5c616</id>
+    <title>[ai] Google I/O 2026: Gemini 3.5 Flash beats frontier benchmarks at half the cost, while Gemini Spark launches as a 24/7 personal AI agent</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"/>
+    <updated>2026-05-19T18:00:00Z</updated>
+    <author><name>blog.google</name></author>
+    <summary>Google launched Gemini 3.5 Flash at I/O 2026 on May 19, claiming the model surpasses its own Gemini 3.1 Pro on every major benchmark while running four times faster at less than half the cost, and simultaneously unveiled Gemini Spark — a persistent 24/7 personal AI agent — and Antigravity 2.0, a platform for deploying fleets of autonomous AI agents.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Google launched Gemini 3.5 Flash at I/O 2026 on May 19, claiming the model surpasses its own Gemini 3.1 Pro on every major benchmark while running four times faster at less than half the cost, and simultaneously unveiled Gemini Spark — a persistent 24/7 personal AI agent — and Antigravity 2.0, a platform for deploying fleets of autonomous AI agents.</strong></p>
+      <p>At Google I/O on May 19, 2026, Google unveiled its Gemini 3.5 model family. Gemini 3.5 Flash is available immediately across the Gemini app, Google Search AI Mode, the Gemini API, and enterprise platforms; Gemini 3.5 Pro — already in internal use — is scheduled for release next month. On benchmarks, 3.5 Flash scores 76.2% on Terminal-Bench 2.1 (coding), 1,656 Elo on GDPval-AA (agentic task performance), 83.6% on MCP Atlas (multi-tool reliability), and 84.2% on CharXiv multimodal reasoning, outperforming Gemini 3.1 Pro across the board. The context window is 1,048,576 tokens, supporting text, image, audio, and video inputs. Google claims output speed four times faster than comparable frontier models at less than half their cost, placing it in the top-right quadrant of the Artificial Analysis speed-vs-intelligence index. Enterprise partners at launch include Shopify (parallel-subagent forecasting), Macquarie Bank (document analysis), Salesforce (Agentforce integration), and Ramp (multimodal invoice processing). Gemini Spark, a new personal AI agent running 24/7 on dedicated Google Cloud virtual machines and reasoning across connected apps, rolls out to Google AI Ultra subscribers in the U.S. next week. Antigravity 2.0 — a redesigned standalone desktop application for developing and managing cohorts of autonomous agents — and Omni, a new world model, were also announced.</p>
+      <p><strong>Why it matters:</strong> Gemini 3.5 Flash is the first credible frontier-model claim to simultaneously undercut rivals on price and latency while matching or exceeding them on capability benchmarks — a combination that, if it holds in independent evaluation, could pull significant developer adoption away from Claude and GPT-4o-tier products. Google's announcement that 3.5 Pro is already in internal use and will launch in June sets up a major competitive moment, since 3.5 Pro is expected to contest the top reasoning slots held by Claude Opus 4.7 and GPT-5.5. Gemini Spark's architecture — persistent, proactive, running on cloud VMs with cross-app permissions — directly challenges OpenAI's Operator product and Microsoft Copilot's agent mode. Antigravity 2.0 positions Google as the infrastructure layer for autonomous multi-agent systems, competing with Anthropic's MCP ecosystem and OpenAI's agent runtime APIs. For regulators, a 24/7 personal agent with 1M-token context and broad cross-app access raises fresh questions under the EU AI Act's high-risk system criteria and the FTC's emerging guidance on agentic AI and consumer data use.</p>
+      <p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:c507821067d487798275110b5f9a97b859ef749e</id>
+    <title>[cybersecurity] GitHub confirms 3,800 internal repos stolen via malicious VS Code extension in TeamPCP supply-chain attack</title>
+    <link href="https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"/>
+    <updated>2026-05-19T21:00:00Z</updated>
+    <author><name>thehackernews.com</name></author>
+    <summary>GitHub confirmed that a threat actor called TeamPCP breached approximately 3,800 internal repositories via a malicious Visual Studio Code extension installed by an employee, claiming months of persistent access, and is now selling the stolen source code for a minimum of $50,000.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>GitHub confirmed that a threat actor called TeamPCP breached approximately 3,800 internal repositories via a malicious Visual Studio Code extension installed by an employee, claiming months of persistent access, and is now selling the stolen source code for a minimum of $50,000.</strong></p>
+      <p>GitHub confirmed the breach on May 19, 2026, following claims by TeamPCP — also known by the X account xploitrsturtle2 — that the actor had maintained persistent access for months via a poisoned VS Code extension installed by a GitHub employee. The specific extension name has not been publicly disclosed, though researchers noted parallels to a recent Nx Console compromise. Approximately 3,800 GitHub-internal repositories containing source code and organizational data were exfiltrated. TeamPCP is offering the full dataset to a single buyer for a minimum of $50,000, explicitly framing the operation as a sale rather than extortion: "We do not care about extorting GitHub, 1 buyer and we shred the data." GitHub found TeamPCP's claims "directionally consistent" with its internal investigation, confirmed the breach was limited to internal repositories, and stated there is no evidence that customer data outside those systems was affected. GitHub has rotated critical credentials, isolated the compromised device, and activated incident response procedures. A simultaneous but separate attack on durabletask — Microsoft's Python orchestration client used by roughly 417,000 monthly developers — deployed credential-stealing malware on import, suggesting a broader campaign targeting developer supply chains.</p>
+      <p><strong>Why it matters:</strong> The GitHub breach matters primarily because of its vector: malicious IDE extensions are among the highest-privilege, least-sandboxed attack surfaces in modern software development, with access to local filesystems, environment variables, SSH agent sockets, and network connections. VS Code's marketplace has historically applied lighter review standards than mobile app stores, and with over 50 million active VS Code users globally, this attack could prompt Microsoft to mandate code signing, behavioral sandboxing, or permission-scoped extension manifests — changes that would fundamentally alter the developer tool ecosystem. For GitHub specifically, internal source code leaks create a dual risk: intellectual property exposure and the potential revelation of unpatched security flaws in GitHub's own platform that attackers could exploit in follow-on campaigns. The incident joins the 314-npm supply-chain compromise and the durabletask poisoning in a cluster of developer-tool attacks over the past week, consistent with a coordinated campaign targeting developer credentials and CI/CD infrastructure. Under the EU's forthcoming Cyber Resilience Act, software component supply-chain security will be a mandatory obligation for developers placing software on the EU market — incidents like this are exactly what the regulation's default-secure requirement is designed to address.</p>
+      <p><a href="https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:c85f61bd038f5ee110bf6a38d988fd26d144c2a5</id>
+    <title>[ai] Mistral AI acquires Vienna physics-simulation startup Emmi AI in its second European acquisition in three months</title>
+    <link href="https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/"/>
+    <updated>2026-05-19T17:00:00Z</updated>
+    <author><name>the-decoder.com</name></author>
+    <summary>Mistral AI acquired Vienna-based Emmi AI — a startup building AI models that simulate airflow, heat transfer, and material stress for aerospace, automotive, and semiconductor applications — marking the French company&apos;s second acquisition in three months as it pursues vertical integration across European industrial sectors.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Mistral AI acquired Vienna-based Emmi AI — a startup building AI models that simulate airflow, heat transfer, and material stress for aerospace, automotive, and semiconductor applications — marking the French company's second acquisition in three months as it pursues vertical integration across European industrial sectors.</strong></p>
+      <p>Announced May 19, 2026, the Emmi AI acquisition brings more than 30 researchers and engineers into Mistral's Science and Applied AI teams across Austria, Germany, and Lithuania. Emmi, founded in 2024, raised €15 million in 2025 — Austria's largest startup funding round that year — and specializes in AI-driven physics simulation that replaces traditional finite-element analysis tools at substantially lower computational cost. CEO Arthur Mensch described the deal as "strengthening Mistral's position in aerospace, automotive, and semiconductors," building on existing industrial relationships with ASML (chip lithography), Stellantis (automotive), and Veolia (environmental services). Financial terms were undisclosed. Mistral's first recent acquisition was Argonaut AI in February 2026, a Paris-based AI safety tooling firm. The deal makes Emmi Mistral's second M&A transaction in three months, an acceleration from its prior organic growth strategy. Mistral also maintains a strategic partnership with Microsoft Azure for cloud infrastructure access.</p>
+      <p><strong>Why it matters:</strong> Mistral's acquisition pattern reveals a vertical integration strategy distinct from pure general-purpose model competition: by acquiring domain-specific AI companies with deep industrial client relationships and high regulatory barriers, Mistral creates defensible European market positions that U.S. competitors cannot easily replicate with frontier model APIs alone. Physics-simulation AI is particularly attractive because it requires domain expertise that general-purpose LLMs cannot easily substitute, is deployed in regulated industries with long client lock-in cycles, and benefits from high switching costs. For EU AI policy, consolidating European industrial AI talent under a Paris-based parent aligns with the Commission's stated goal of building European AI champions; Mistral's structure also positions it favorably under the AI Act, since embedded industrial simulation models do not trigger the same GPAI compliance obligations as large general-purpose models facing the August 2026 deadline. The Emmi deal also continues a broader European AI consolidation trend — Aleph Alpha acquired a German data-analytics firm in February 2026 — suggesting European AI companies are accelerating M&A to build defensible positions ahead of the EU regulatory deadline and intensifying competition from both U.S. and Chinese frontier labs.</p>
+      <p><a href="https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:beb9887a568311512b9af3bde03c26fdb226b95c</id>
+    <title>[law] Supreme Court grants cert in Crowther v. Board of Regents to decide whether Title IX covers employee sex discrimination at federally funded schools</title>
+    <link href="https://www.scotusblog.com/2026/05/court-to-hear-sex-discrimination-case-case-next-term/"/>
+    <updated>2026-05-19T13:30:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>The Supreme Court agreed on May 19 to hear Crowther v. Board of Regents of the University System of Georgia in the 2026-27 term, taking up a direct circuit split over whether Title IX gives school employees — not just students — a private right of action for sex discrimination at federally funded institutions.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/05/court-to-hear-sex-discrimination-case-case-next-term/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>The Supreme Court agreed on May 19 to hear Crowther v. Board of Regents of the University System of Georgia in the 2026-27 term, taking up a direct circuit split over whether Title IX gives school employees — not just students — a private right of action for sex discrimination at federally funded institutions.</strong></p>
+      <p>In granting certiorari in Crowther, the Court accepted a case squarely addressing whether Title IX of the Education Amendments of 1972 — which prohibits sex-based discrimination in federally funded education programs — gives institutional employees, and not only students, a private right of action. The Fifth Circuit ruled that Title IX's implied right of action is confined to direct program beneficiaries, meaning students, and that employees alleging sex discrimination must rely on Title VII of the Civil Rights Act. Multiple other circuits have allowed employee Title IX claims, creating the circuit split the Court must now resolve. Because federal funding conditions attach to virtually every U.S. university, college, and K-12 public school system, the ruling will affect an enormous employment universe. The same order list sent two Voting Rights Act cases — Turtle Mountain Band of Chippewa Indians v. Howe and State Board of Election Commissioners v. Mississippi State Conference of the NAACP — back to lower courts for reconsideration under the Louisiana v. Callais framework, and declined to review claims involving social media platforms' liability for child exploitation content and a teacher's dismissal over social media posts.</p>
+      <p><strong>Why it matters:</strong> A ruling in favor of employees would give roughly 25 million workers at federally funded educational institutions a distinct federal cause of action with Title IX-specific remedies — including the threat of federal funding termination — that go beyond what Title VII provides. A ruling against employees would not eliminate sex discrimination claims but would collapse them entirely into Title VII, removing the Education Department's enforcement role and weakening the accountability mechanism for sex discrimination in academic workplaces. The practical stakes for compliance programs are large: universities and school districts would need to revise Title IX coordinator roles, grievance procedures, and training protocols. The case will also test whether the current Court's textualist majority treats Title IX's silence on employee claims as exclusion or simply as a gap to be filled by the statute's structure and purpose — a methodological question that will echo across other civil rights statutes. The VRA remands further signal that the Court is working through the downstream procedural consequences of Louisiana v. Callais for ongoing redistricting litigation, a process that will likely produce additional remands and supplemental briefs through the 2026 primary cycle.</p>
+      <p><a href="https://www.scotusblog.com/2026/05/court-to-hear-sex-discrimination-case-case-next-term/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:274f61b9340dcb63333c7899375d042d36281cde</id>
+    <title>[law] Emergency-docket analysis: Justice Jackson&apos;s equity-first stay framework would reward strategic litigants, SCOTUSblog&apos;s White argues</title>
+    <link href="https://www.scotusblog.com/2026/05/a-docket-in-the-shadow-of-bigger-problems/"/>
+    <updated>2026-05-19T13:30:00Z</updated>
+    <author><name>scotusblog.com</name></author>
+    <summary>Adam White&apos;s SCOTUSblog analysis of Noem v. Doe — where the Court lifted a stay blocking TPS revocations for 500,000 non-citizens — argues that Justice Jackson&apos;s proposed equity-first framework for emergency stay applications would systematically benefit strategic forum-shopping plaintiffs over sound legal judgment.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.scotusblog.com/2026/05/a-docket-in-the-shadow-of-bigger-problems/"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Adam White's SCOTUSblog analysis of Noem v. Doe — where the Court lifted a stay blocking TPS revocations for 500,000 non-citizens — argues that Justice Jackson's proposed equity-first framework for emergency stay applications would systematically benefit strategic forum-shopping plaintiffs over sound legal judgment.</strong></p>
+      <p>In Noem v. Doe, the Supreme Court lifted a lower-court stay that had blocked the Trump administration's revocation of categorical Temporary Protected Status parole for over 500,000 non-citizens from Cuba, Haiti, Nicaragua, and Venezuela. Justice Jackson's dissent proposed that courts evaluating emergency stay applications should assess the balance of equities first and treat legal-merits analysis as merely a "plausibility check" performed afterward. She illustrated the approach with an analogy to a shed dispute between private neighbors, arguing that trial judges who have heard factual testimony are better positioned than appellate courts to weigh harms. Adam White's analysis in SCOTUSblog's Docket series argues the analogy breaks down in policy litigation, where strategic plaintiffs deliberately select favorable federal districts to obtain nationwide injunctions, and where the harms at issue — individual hardships weighed against diffuse societal benefits — are incommensurable in ways that trial courts are no better suited to assess than appellate judges. The traditional Kavanaugh-articulated standard — requiring applicants to show likelihood of certiorari-and-reversal, irreparable harm, and a favorable balance of equities — keeps merits assessment central and preserves the Supreme Court's institutional role in ensuring national legal uniformity.</p>
+      <p><strong>Why it matters:</strong> The debate over which stay standard governs the emergency docket directly controls how quickly presidential administration policies take real-world effect when challenged in federal court. An equity-first standard would make district-court injunctions against executive action more durable and expensive to lift, effectively extending the shadow docket's reach as the mechanism through which controversial policies are initially implemented or blocked for months or years. The Noem outcome — TPS revocations for 500,000 people taking effect while litigation continues — reflects the current conservative majority's preference for the stricter merits-first standard, consistent with the Court's major-questions doctrine limiting expansive agency authority. This structural debate will recur across every major executive action challenge in the current and future administrations, and White's analysis identifies that a plaintiff-friendly equity standard would be equally weaponizable against a Democratic administration facing a conservative district court. Separately, the piece illustrates that the Supreme Court's emergency docket has become the de facto policy-shaping layer of American administrative law: by the time cases reach full merits review, the real-world outcome has often already been determined by shadow-docket rulings issued with minimal briefing, making reform of stay standards one of the most consequential administrative law questions before the Court.</p>
+      <p><a href="https://www.scotusblog.com/2026/05/a-docket-in-the-shadow-of-bigger-problems/">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:f58ef9c57bcb92998e2d660ed56ae059c133f004</id>
+    <title>[cybersecurity] Huawei zero-day that crashed Luxembourg&apos;s national telecoms for three hours in 2025 remains unpatched and without a public CVE ten months later</title>
+    <link href="https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage"/>
+    <updated>2026-05-19T19:18:00Z</updated>
+    <author><name>therecord.media</name></author>
+    <summary>A Huawei router zero-day exploited in a July 2025 cyberattack took down Luxembourg&apos;s entire national telecommunications network for over three hours — disabling emergency services — and the flaw still has no CVE identifier, no public Huawei advisory, and no patch ten months later, with Huawei confining vulnerability notices to private customer portals.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>A Huawei router zero-day exploited in a July 2025 cyberattack took down Luxembourg's entire national telecommunications network for over three hours — disabling emergency services — and the flaw still has no CVE identifier, no public Huawei advisory, and no patch ten months later, with Huawei confining vulnerability notices to private customer portals.</strong></p>
+      <p>On July 23, 2025, POST Luxembourg's telecoms network crashed for more than three hours after attackers sent specially crafted network traffic that forced Huawei enterprise routers running the VRP operating system into a continuous reboot loop, taking down landline, 4G, and 5G services across the entire country. Residents were unable to reach emergency services during the outage. Luxembourg's government classified the incident as an "exceptionally advanced and sophisticated cyberattack." Investigators determined the malicious traffic was likely relayed through POST Luxembourg's network in its role as an internet service provider rather than the company being deliberately targeted. Huawei told Luxembourg authorities it had never encountered this vulnerability in any other customer deployment and had no pre-existing solution. As of The Record's May 19, 2026 reporting — ten months after the attack — no CVE has been assigned, no public Huawei security advisory has been issued, and Huawei continues to restrict enterprise security bulletins to customer-facing portals. There is no evidence the vulnerability has been exploited elsewhere, but the full scope of its exposure across global Huawei router deployments is unknown.</p>
+      <p><strong>Why it matters:</strong> The prolonged non-disclosure of a zero-day that disabled an entire nation's telecommunications infrastructure highlights a structural gap in both Huawei's corporate disclosure practices and the EU's critical infrastructure protection framework. The EU's NIS2 Directive, in force for telecoms since January 2025, requires operators to notify national authorities within 24 hours of significant incidents — but places no equivalent disclosure obligation on hardware and software vendors, meaning other EU carriers running Huawei VRP routers may remain unaware of their exposure. ENISA coordinates cross-border vulnerability management but lacks enforcement authority to compel vendor disclosure. The incident is politically sensitive because Germany reversed its move toward Huawei 5G exclusion in late 2025, and several EU member states continue to operate Huawei core network infrastructure; a critical unpatched vulnerability with no CVE is precisely the scenario that informed earlier EU-level 5G security risk assessments. The EU Cyber Resilience Act, expected to enter force by 2027, would impose coordinated vulnerability disclosure obligations on manufacturers of network products — but the Luxembourg incident demonstrates that the EU's current legal framework left an entire nation's emergency services exposed without any mechanism to compel public remediation.</p>
+      <p><a href="https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="tech_law"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:092d9d48cf3ad54e21731c909c573e30dd2c7089</id>
+    <title>[global politics] Trump defeats Massie in record $25.6M Kentucky primary, removing Congress&apos;s leading fiscal dissenter ahead of reconciliation vote</title>
+    <link href="https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"/>
+    <updated>2026-05-20T05:00:00Z</updated>
+    <author><name>cnbc.com</name></author>
+    <summary>Trump-backed former Navy SEAL Ed Gallrein defeated Rep. Thomas Massie in Kentucky&apos;s 4th congressional district Republican primary by nearly nine points in the most expensive U.S. House primary in history at $25.6 million in ad spending, removing Congress&apos;s most prominent libertarian-Republican voice weeks before the House votes on the reconciliation bill.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Trump-backed former Navy SEAL Ed Gallrein defeated Rep. Thomas Massie in Kentucky's 4th congressional district Republican primary by nearly nine points in the most expensive U.S. House primary in history at $25.6 million in ad spending, removing Congress's most prominent libertarian-Republican voice weeks before the House votes on the reconciliation bill.</strong></p>
+      <p>AP and NBC called the Kentucky 4th race on the night of May 19, 2026, within two hours of polls closing, with Massie trailing by roughly nine percentage points. Massie, a 13-year incumbent first elected in 2012 and one of Congress's most consistently libertarian-conservative members, drew Trump's ire after opposing a short-term government funding bill in March 2025 — a single procedural vote that triggered Trump's endorsement of his challenger. Gallrein, a former Navy SEAL officer, received support from Trump, MAGA-aligned PACs, and the Republican Congressional establishment. The $25.6 million in ad spending broke the previous U.S. House primary spending record of $25.2 million. Massie's defeat fits a pattern in the 2026 cycle in which Trump has driven out or sidelined other House Republicans who voted against administration priorities on debt ceiling deals, FISA reauthorization legislation, and foreign military assistance packages.</p>
+      <p><strong>Why it matters:</strong> Massie's removal carries concrete policy consequences beyond demonstrating Trump's primary power. On fiscal policy, Massie was one of the few reliable Republican votes against deficit spending regardless of political cost; his absence weakens the small bloc of fiscal conservatives who have provided procedural leverage against the reconciliation bill now moving through Congress. On surveillance and civil liberties legislation, he was frequently the only Republican co-sponsoring reform bills with civil-liberties Democrats — his exit narrows the cross-party coalition for FISA Section 702 oversight and algorithmic accountability. On foreign policy, he was a consistent challenger of War Powers Act interpretations and executive military commitments. The broader signal to remaining Republican members is that no degree of ideological alignment insulates them from a primary challenge if they vote against Trump personally on a single procedural matter — a dynamic that will constrain Republican votes on the reconciliation bill, the debt ceiling, and Iran policy through the November midterms.</p>
+      <p><a href="https://www.cnbc.com/2026/05/20/kentucky-primary-trump-massie-gallrein.html">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:1542f5daec817df89f73b4d3abdaa5296e64fdc4</id>
+    <title>[global politics] WHO doctor warns Ebola PHEIC may be spreading faster than DRC official counts; Bundibugyo strain&apos;s mild symptoms caused detection lag</title>
+    <link href="https://www.bbc.com/news/articles/ceqp11gn1l8o"/>
+    <updated>2026-05-19T19:32:00Z</updated>
+    <author><name>bbc.com</name></author>
+    <summary>A WHO doctor warned on May 19 that the Ebola outbreak in the Democratic Republic of Congo — declared a Public Health Emergency of International Concern on May 17 — may be spreading significantly faster than official counts reflect, because the Bundibugyo strain&apos;s mild early symptoms caused health workers to miss initial cases, and the DRC health minister has acknowledged responders were playing catch-up.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.bbc.com/news/articles/ceqp11gn1l8o"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>A WHO doctor warned on May 19 that the Ebola outbreak in the Democratic Republic of Congo — declared a Public Health Emergency of International Concern on May 17 — may be spreading significantly faster than official counts reflect, because the Bundibugyo strain's mild early symptoms caused health workers to miss initial cases, and the DRC health minister has acknowledged responders were playing catch-up.</strong></p>
+      <p>The WHO declared the DRC Ebola outbreak a PHEIC on May 17, 2026, after confirmed spread to Uganda — two cases in Kampala, a major East African aviation hub — and evidence of transmission in Kinshasa and North Kivu. Official figures as of May 19 stand at 513 suspected cases and 131 deaths across at least three health zones. A WHO doctor warned publicly on May 19 that actual infection numbers are likely higher because the Bundibugyo strain, which has a 25–35% historical case fatality rate (significantly lower than Zaire's 40–65%), produces milder initial symptoms easily confused with malaria, delaying recognition and notification. Congo's health minister acknowledged that responders had been slow to detect the outbreak and were "playing catch-up." There is no WHO-approved vaccine specific to the Bundibugyo strain, though emergency-use authorization has been granted for a two-dose VSV-Bundibugyo candidate following partial clinical trial data. Active armed conflict in North Kivu between M23 rebels and Congolese government forces continues to restrict contact-tracing access in the primary affected health zones.</p>
+      <p><strong>Why it matters:</strong> The Kampala cases are the clearest early-warning indicator: Uganda's capital is a major East African aviation hub, and confirmed urban transmission with international flight connections significantly raises the probability of spread beyond the DRC-Uganda corridor. PHEIC status triggers WHO Emergency Committee coordination, unlocks rapid funding from CEPI, Gavi, and the World Bank pandemic emergency financing facility, and creates an obligation for WHO member states to assess travel and trade advisories. If the WHO doctor's undercounting warning is accurate, the outbreak may already be in the exponential growth stage before response infrastructure reaches full capacity — echoing the 2014 West Africa outbreak, which was detected late and spread to multiple countries before containment. The combination of a mild-presenting strain, conflict-impaired access, prior outbreak fatigue among affected communities, and the absence of a licensed strain-specific vaccine creates a risk scenario that warrants significant international attention. Health authorities in neighboring Uganda, Rwanda, Burundi, and South Sudan should activate heightened surveillance protocols immediately.</p>
+      <p><a href="https://www.bbc.com/news/articles/ceqp11gn1l8o">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
+  <entry>
+    <id>tag:mhsezgin.github.io,2026:item:eda1fc6ae419dd73adef3805650ac76e4e96d54a</id>
+    <title>[global politics] Estonia becomes first NATO member to shoot down a drone over alliance territory, likely a Ukrainian drone diverted by Russian jamming</title>
+    <link href="https://www.bbc.com/news/articles/c302jy8z4vro"/>
+    <updated>2026-05-19T19:01:00Z</updated>
+    <author><name>bbc.com</name></author>
+    <summary>Estonia announced on May 19 that a NATO Quick Reaction Alert fighter jet shot down a drone over Estonian territory — the first confirmed engagement of an aerial object over NATO alliance territory linked to the Russia-Ukraine war — with Tallinn assessing that the drone was a Ukrainian strike projectile diverted from its trajectory over Russia by Russian electronic jamming.</summary>
+    <content type="html"><![CDATA[
+      <p><a href="https://www.bbc.com/news/articles/c302jy8z4vro"><strong>&#128240; Read full article &#8594;</strong></a></p>
+      <p><strong>Estonia announced on May 19 that a NATO Quick Reaction Alert fighter jet shot down a drone over Estonian territory — the first confirmed engagement of an aerial object over NATO alliance territory linked to the Russia-Ukraine war — with Tallinn assessing that the drone was a Ukrainian strike projectile diverted from its trajectory over Russia by Russian electronic jamming.</strong></p>
+      <p>Estonian Defense Minister Hanno Pevkur announced on May 19, 2026 that a NATO QRA aircraft intercepted and shot down an unmanned aerial vehicle over Estonian territory. Estonia's assessment is that the drone was a Ukrainian-manufactured strike drone whose GPS guidance was disrupted by Russian electronic warfare systems operating along the eastern front, causing it to deviate into Estonian airspace rather than continue toward its intended target in Russia. Estonia did not attribute deliberate intent to either Russia or Ukraine. The drone came down in a lightly populated area with no reported casualties or significant property damage. Estonia immediately convened its national security committee and notified NATO partners through established channels. Russia has substantially intensified electronic warfare operations across the Baltic states, Finland, and Poland since mid-2024, causing GPS spoofing and signal disruption that has affected civilian aviation at Helsinki, Tallinn, and Warsaw airports with increasing regularity.</p>
+      <p><strong>Why it matters:</strong> The incident is procedurally significant as the first confirmed kinetic engagement by a NATO member state against an aerial object over alliance territory in the context of the Ukraine war, setting a precedent that the alliance has not explicitly codified in its rules of engagement. Drones diverted by electronic warfare into NATO territory are not clearly covered by Article 5's collective defense clause, which traditionally requires a deliberate armed attack by a state actor. Estonia's decision to engage — rather than track and permit the drone to complete its trajectory — establishes a de facto standard for how NATO members respond to electronically-diverted weapons, a precedent that could become binding through subsequent incidents and state practice. NATO's Military Committee will need to develop formal guidance addressing whether Russian jamming that causes third-party weapons to violate alliance airspace constitutes an act of aggression by Russia for Article 5 purposes, and how the alliance should balance civilian protection against the escalation risk of kinetic responses to EW-caused incursions. The policy gap is urgent: Russian EW jamming is continuous and expanding, Ukrainian drone operations against Russian territory are conducted daily, and the probability of further incidents of this type is structurally high.</p>
+      <p><a href="https://www.bbc.com/news/articles/c302jy8z4vro">Read original &#8594;</a></p>
+    ]]></content>
+    <category term="global_politics"/>
+  </entry>
   <entry>
     <id>tag:mhsezgin.github.io,2026:summary:2026-05-19-1240</id>
     <title>[summary] 2026-05-19 12:40</title>
@@ -30,7 +196,6 @@
     ]]></content>
     <category term="summary"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:d0d8024c973ba8fb67b8b04be4b1bc982b0fa1a2</id>
     <title>[law] The Supreme Court's selective abandonment of Purcell has effectively nullified VRA Section 2, Chemerinsky argues</title>
@@ -47,7 +212,6 @@
     ]]></content>
     <category term="law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:2b6413b96554c62b78330254b15007bf78c8c383</id>
     <title>[surveillance law] Trump administration misses May 15 deadline to declassify secret FISA court ruling documenting Section 702 constitutional violations</title>
@@ -64,7 +228,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:5316b39f7df1422bf0e95a561c72a08eeec3815a</id>
     <title>[cybersecurity] Microsoft dismantles Fox Tempest, a malware-signing-as-a-service platform that provided Rhysida, Akira, and Qilin ransomware gangs with fraudulent code-signing certificates</title>
@@ -81,7 +244,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:add645861c45f24ac0456219cf93cd79c9214712</id>
     <title>[cybersecurity] One compromised npm maintainer account weaponized 314 packages — including tools with millions of monthly downloads — and planted malware targeting AWS credentials, Claude Code hooks, and developer password vaults</title>
@@ -98,7 +260,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:5c56f9984e2fa889933193708eba2465a4d3bbb9</id>
     <title>[tech law] Ofcom mandates hash-matching against deepfakes and non-consensual intimate images, with autumn 2026 codes covering all major UK-regulated platforms</title>
@@ -115,7 +276,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:c4f3a2b1e0d9876543210abcdef987654321fedc</id>
     <title>[tech law] TAKE IT DOWN Act turns one year old — researcher calls for platform transparency reporting on a law with no mandatory appeals process and significant abuse potential</title>
@@ -132,7 +292,6 @@
     ]]></content>
     <category term="tech_law"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:98cee5c66a30fa0c0bdc7d007d16c242c2eda784</id>
     <title>[ai] Andrej Karpathy joins Anthropic's pre-training team to work on the large-scale training runs that give Claude its core capabilities</title>
@@ -149,7 +308,6 @@
     ]]></content>
     <category term="tech"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:8bb981d7eac5335c7958f28daebad3c1d9a56ee2</id>
     <title>[global politics] WHO declares Ebola outbreak in DR Congo and Uganda a Public Health Emergency of International Concern — Bundibugyo strain has no approved vaccine or treatment</title>
@@ -166,7 +324,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:007c16a00cd184134614a6d51335f265848f6a96</id>
     <title>[global politics] Israel-Lebanon death toll surpasses 3,000 since fighting resumed in March — including 211 children and 116 medics — as Israeli strikes continue through a nominal ceasefire</title>
@@ -183,7 +340,6 @@
     ]]></content>
     <category term="global_politics"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:f1e2d3c4b5a6978869504132badc09871fedcba9</id>
     <title>[tech] Cursor releases Composer 2.5, a substantially improved agentic coding model trained with 25× more synthetic tasks and targeted RL credit assignment, with a Colossus 2 collaboration for a next-generation model on the horizon</title>
@@ -200,7 +356,6 @@
     ]]></content>
     <category term="tech"/>
   </entry>
-
   <entry>
     <id>tag:mhsezgin.github.io,2026:item:9c0ddb2d59a6955e6d0b9d71ceb662580c97c120</id>
     <title>[ai] Anthropic acquires Stainless, the company that has built every official Anthropic SDK since the API launched</title>
@@ -345,117 +500,4 @@
     ]]></content>
     <category term="tech"/>
   </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:ea5a96fec4c6114372a196abd94b0314a2ad0aac</id>
-    <title>[law] SCOTUS analysis: Black and Harlan — progressive textualist and conservative constitutionalist — as a study in judicial philosophy from 'strange bedfellows'</title>
-    <link href="https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/"/>
-    <updated>2026-05-19T10:28:00Z</updated>
-    <author><name>scotusblog.com</name></author>
-    <summary>A new SCOTUSblog analysis examines the unlikely jurisprudential partnership between Justice Hugo Black and Justice John Marshall Harlan II — ideological opposites who repeatedly joined forces across Warren Court cases — as a lens on how judicial philosophy shapes coalition-building in ways that defy simple liberal-conservative categorization.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>A new SCOTUSblog analysis examines the unlikely jurisprudential partnership between Justice Hugo Black and Justice John Marshall Harlan II — ideological opposites who repeatedly joined forces across Warren Court cases — as a lens on how judicial philosophy shapes coalition-building in ways that defy simple liberal-conservative categorization.</strong></p>
-      <p>Hugo Black, appointed by FDR in 1937, was a committed textualist and absolutist on First Amendment speech — believing the First Amendment's 'no law' language meant literally no law — as well as a proponent of total incorporation of the Bill of Rights against the states through the Fourteenth Amendment. John Marshall Harlan II, appointed by Eisenhower in 1955, was a measured conservative who emphasized judicial restraint, federalism, and case-by-case balancing over categorical rules. Despite their sharply different methodologies and political orientations, the two justices converged on several significant decisions during the Warren Court era. The analysis uses their partnership as a case study in how jurisprudential method — rather than political preference — drives some of the most consequential judicial alliances, and argues that the contemporary Court's cleaner ideological sorting (six Republican-appointed conservatives, three Democratic-appointed liberals) has erased the kind of cross-ideological methodological coalitions that Black-Harlan represented.</p>
-      <p><strong>Why it matters:</strong> The Black-Harlan analysis is timely because the current Supreme Court is in the midst of its own philosophical sorting process — several justices appointed by the same president have diverged significantly on questions of methodology (originalism versus textualism, strong versus weak judicial review), and analysts are watching whether methodological disagreements will produce cross-ideological coalitions on the current bench as they did in the Warren era. The article is also relevant to practitioners because understanding a justice's judicial philosophy — not just their political affiliation — is the single most useful predictor of how they will rule on cases that don't map cleanly onto the partisan left-right axis, including many administrative law, procedural, and statutory interpretation questions. For constitutional historians, the Black-Harlan pairing raises the broader question of whether the Warren Court's legacy was driven by political liberalism or by a specific combination of methodological commitments that happened to produce liberal outcomes — a distinction with implications for how future courts might revisit those precedents.</p>
-      <p><a href="https://www.scotusblog.com/2026/05/strange-judicial-bedfellows-/">Read original →</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:ea687664fb55443ae170199651d4c22eb8fdb7cb</id>
-    <title>[ai] Jury dismisses all of Elon Musk's claims against OpenAI and Sam Altman, finding his lawsuit was not filed on time</title>
-    <link href="https://www.pbs.org/newshour/nation/jury-sides-with-openai-saying-elon-musks-lawsuit-was-not-filed-on-time"/>
-    <updated>2026-05-18T11:58:00Z</updated>
-    <author><name>pbs.org</name></author>
-    <summary>A San Francisco federal jury dismissed all of Elon Musk's claims against OpenAI and CEO Sam Altman on statute-of-limitations grounds, ending a high-profile dispute over OpenAI's conversion from nonprofit to for-profit and Musk's alleged exclusion from the company's governance and assets.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.pbs.org/newshour/nation/jury-sides-with-openai-saying-elon-musks-lawsuit-was-not-filed-on-time"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>A San Francisco federal jury dismissed all of Elon Musk's claims against OpenAI and CEO Sam Altman on statute-of-limitations grounds, ending a high-profile dispute over OpenAI's conversion from nonprofit to for-profit and Musk's alleged exclusion from the company's governance and assets.</strong></p>
-      <p>Musk filed suit alleging that OpenAI and Altman had broken their foundational commitment to develop AGI for the benefit of humanity rather than for profit, and that he had been deceived into contributing funding and early resources to an organization that later pivoted to commercial priorities. The jury found that the statute of limitations had run — meaning Musk waited too long to file his claims regardless of their underlying merit — rather than reaching a verdict on whether OpenAI actually breached its obligations or defrauded Musk. The procedural dismissal leaves the substantive legal questions about nonprofit-to-for-profit conversion obligations unresolved. The case drew wide attention because it raised fundamental questions about whether the founding charters of AI safety nonprofits create enforceable obligations to their mission, and whether major donors and early contributors have legal standing to challenge structural changes that redirect an organization away from its original purpose.</p>
-      <p><strong>Why it matters:</strong> The statute-of-limitations dismissal means the core legal question — can a nonprofit AI organization convert to for-profit and distribute assets to investors without violating its founding commitments — was not resolved on the merits and will remain open for future litigation. That question has direct relevance to several other AI safety organizations with hybrid nonprofit/for-profit structures, including Anthropic's Public Benefit Corporation structure, which will face similar scrutiny if it ever seeks to restructure or distribute assets. California Attorney General Rob Bonta separately opened an investigation into OpenAI's conversion, and that proceeding — which operates under the AG's parens patriae authority over nonprofits — will be the next major legal forum for the underlying structural questions Musk's suit raised but did not resolve. For investors in the emerging class of 'safety-capped' AI companies, the verdict removes the most immediate legal cloud over OpenAI's for-profit transition, though the AG investigation and potential congressional scrutiny of AI nonprofit conversions remain live risks. The episode also reinforces that high-profile litigation by prominent individuals does not guarantee substantive judicial resolution — the procedural vehicle matters as much as the underlying claim.</p>
-      <p><a href="https://www.pbs.org/newshour/nation/jury-sides-with-openai-saying-elon-musks-lawsuit-was-not-filed-on-time">Read original →</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:50738bf0cb2bec0c663eaff566ae6eff6d4e6ed9</id>
-    <title>[ai] Anthropic in talks to raise $40–50 billion at a $950 billion valuation, sources say — nearly doubling its March 2026 $61.5B valuation in two months</title>
-    <link href="https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"/>
-    <updated>2026-05-18T11:57:00Z</updated>
-    <author><name>techcrunch.com</name></author>
-    <summary>Sources tell TechCrunch that Anthropic is in early discussions to raise $40–50 billion at a valuation approaching $950 billion — a near-doubling of its $61.5 billion valuation from a March 2026 round — as AI company valuations continue to inflate at historically unprecedented rates.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>Sources tell TechCrunch that Anthropic is in early discussions to raise $40–50 billion at a valuation approaching $950 billion — a near-doubling of its $61.5 billion valuation from a March 2026 round — as AI company valuations continue to inflate at historically unprecedented rates.</strong></p>
-      <p>The reported fundraise, if completed at the indicated valuation, would make Anthropic one of the most valuable private companies in U.S. history and place it within striking distance of trillion-dollar territory — a threshold previously crossed only by public tech giants. The valuation increase from $61.5 billion in March to roughly $950 billion in late April represents approximately a 15× jump in under two months, a pace that reflects both AI market enthusiasm and Anthropic's revenue growth from Claude API subscriptions and enterprise contracts. Anthropic has been one of the fastest-growing AI API providers, with enterprise customers across finance, healthcare, and software development sectors. The round would follow prior investments from Google, Amazon (which committed up to $4 billion), and Spark Capital, among others. Details on lead investors, closing timeline, and terms were not disclosed in the initial reporting.</p>
-      <p><strong>Why it matters:</strong> A $950 billion valuation for a company that was valued at $61.5 billion two months earlier reflects the degree to which AI company valuations are being set by expectation of future dominance rather than current revenue metrics, creating a valuation environment with limited historical precedent even by tech-bubble standards. For Anthropic, the capital would fund compute infrastructure — training large frontier models requires billions in GPU cluster investment — and talent acquisition in an environment where senior AI researchers command compensation packages that only well-capitalized organizations can match. The valuation also has implications for Anthropic's Public Benefit Corporation structure and its 'long-term benefit trust' governance model: at near-trillion-dollar scale, the tension between investor return expectations and the safety-mission commitments embedded in Anthropic's charter will intensify significantly. For the competitive landscape, the fundraise signals that the market believes a small number of frontier AI labs will capture a disproportionate share of the value generated by AI over the next decade — a winner-take-most prediction that shapes hiring, partnership, and policy decisions across the entire AI ecosystem.</p>
-      <p><a href="https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/">Read original →</a></p>
-    ]]></content>
-    <category term="tech"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:595068dbfd940e634f8660a5f1426ed01068ab22</id>
-    <title>[law] Supreme Court grants cert in Crowther v. Board of Regents to resolve whether employees can sue for sex discrimination under Title IX</title>
-    <link href="https://www.scotusblog.com/2026/05/court-agrees-to-hear-case-on-ability-of-employees-to-bring-certain-suits-for-sex-discrimination-/"/>
-    <updated>2026-05-18T11:56:00Z</updated>
-    <author><name>scotusblog.com</name></author>
-    <summary>The Supreme Court agreed to hear Crowther v. Board of Regents of the University System of Georgia to decide whether employees — not just students — can bring sex discrimination suits under Title IX, a question that has divided the lower courts and could significantly expand or contract workplace discrimination protections in educational institutions.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.scotusblog.com/2026/05/court-agrees-to-hear-case-on-ability-of-employees-to-bring-certain-suits-for-sex-discrimination-/"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>The Supreme Court agreed to hear Crowther v. Board of Regents of the University System of Georgia to decide whether employees — not just students — can bring sex discrimination suits under Title IX, a question that has divided the lower courts and could significantly expand or contract workplace discrimination protections in educational institutions.</strong></p>
-      <p>Title IX, enacted in 1972, prohibits sex discrimination in education programs or activities receiving federal financial assistance. While the statute's primary application has historically been to student discrimination — including sexual harassment, athletic program equity, and admissions — lower courts have split on whether employees of covered institutions can also invoke Title IX as a basis for discrimination suits, in addition to or instead of relying on Title VII, the general employment discrimination statute. The case comes to the Court from Georgia, where Crowther, a university employee, brought suit under Title IX rather than Title VII. The specific procedural and substantive differences between the two statutes — including statute of limitations, administrative exhaustion requirements, and available remedies — make the choice of statutory vehicle legally significant rather than merely tactical. The Court added the case to its 2026–27 oral argument calendar on May 19, 2026.</p>
-      <p><strong>Why it matters:</strong> If the Court holds that Title IX covers employees, it would substantially expand the pool of potential plaintiffs in sex discrimination suits against educational institutions, since schools and universities employ large numbers of faculty, staff, and administrators who would gain an additional statutory avenue for discrimination claims. Title IX and Title VII differ in meaningful procedural ways: Title VII requires exhaustion of EEOC administrative remedies before suit, while Title IX does not; this makes Title IX potentially a faster and less bureaucratically burdened path to federal court for employment discrimination claims. Conversely, a ruling that Title IX does not cover employees would concentrate all workplace discrimination claims in educational settings under Title VII — potentially a result that some institutions and their insurers would prefer for its procedural predictability. The Roberts Court has shown a willingness to constrain implied rights of action and narrow statutory scope in recent years, and Crowther will test whether that narrowing tendency extends to a statute — Title IX — that has been a broadly understood anti-discrimination cornerstone since the 1970s. For plaintiff attorneys in employment discrimination, the case may determine whether Title IX remains a viable alternative theory in cases involving school and university employees or becomes limited to student-facing discrimination exclusively.</p>
-      <p><a href="https://www.scotusblog.com/2026/05/court-agrees-to-hear-case-on-ability-of-employees-to-bring-certain-suits-for-sex-discrimination-/">Read original →</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:8ee78456f16b411762e2c097ba7c2a14ac2a9ccb</id>
-    <title>[law] Supreme Court refuses to reinstate Virginia's Democratic-drawn redistricting map, letting Republican-drawn districts stand for upcoming elections</title>
-    <link href="https://www.scotusblog.com/2026/05/justices-decline-to-reinstate-virginia-map/"/>
-    <updated>2026-05-18T11:55:00Z</updated>
-    <author><name>scotusblog.com</name></author>
-    <summary>The Supreme Court declined an emergency request to reinstate Virginia's Democratic-drawn congressional map, leaving Republican-drawn districts in place for upcoming elections after a state court found the Democratic map improperly favored one party.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.scotusblog.com/2026/05/justices-decline-to-reinstate-virginia-map/"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>The Supreme Court declined an emergency request to reinstate Virginia's Democratic-drawn congressional map, leaving Republican-drawn districts in place for upcoming elections after a state court found the Democratic map improperly favored one party.</strong></p>
-      <p>Virginia's redistricting saga involves competing maps drawn by Democratic and Republican commissioners following the 2020 census, adjudicated by the Virginia Supreme Court. The Democratic-drawn map was struck down by a Virginia court on grounds that it constituted partisan gerrymandering under Virginia's own state constitutional standards — a distinct basis from federal law. The Republican-drawn map was reinstated as the default. Applicants sought an emergency stay from the U.S. Supreme Court to reinstate the Democratic map, arguing the process that produced the Republican map was also procedurally flawed. The Court declined without noted dissent, allowing the Republican-drawn map to govern upcoming elections. The Virginia case is notable because it involves state constitutional anti-gerrymandering standards rather than federal law — a ground the U.S. Supreme Court has said it cannot police (Rucho v. Common Cause, 2019) — making the Virginia court's application of its own state constitution the primary legal lever in play.</p>
-      <p><strong>Why it matters:</strong> The Virginia decision is a reminder that post-Rucho redistricting litigation has shifted largely to state courts applying state constitutional standards, with the U.S. Supreme Court playing a more limited emergency-stay role rather than a substantive review function. The refusal to reinstate the Democratic map means the congressional delegation from Virginia — a competitive state — will be elected from Republican-drawn districts for at least the next election cycle, with potentially significant effects on the partisan composition of the U.S. House. For redistricting practitioners, the case illustrates the double-edged nature of state anti-gerrymandering provisions: they can cut against either party's preferred maps, and courts applying them may invalidate maps drawn by either side without a clear constitutional resolution about what a neutral map requires. The U.S. Supreme Court's consistent reluctance to intervene in partisan gerrymandering disputes — even via emergency stays — leaves redistricting as an area where federal constitutional law provides minimal protection and the outcomes depend almost entirely on which party controls the state legislature, redistricting commission, or state judiciary at the relevant moment.</p>
-      <p><a href="https://www.scotusblog.com/2026/05/justices-decline-to-reinstate-virginia-map/">Read original →</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:ee76e6c150676ced3ac2171bda3c8278285969bb</id>
-    <title>[law] Judge rules 3D-printed ghost gun and manifesto admissible in Luigi Mangione murder trial, rejecting defense's prejudice arguments</title>
-    <link href="https://www.bbc.com/news/articles/cx21g6qz45xo"/>
-    <updated>2026-05-18T11:54:00Z</updated>
-    <author><name>bbc.com</name></author>
-    <summary>A New York judge ruled that a 3D-printed untraceable ghost gun recovered near Luigi Mangione's arrest site and a manifesto found on his person are admissible evidence in his murder trial for the killing of UnitedHealthcare CEO Brian Thompson, rejecting defense arguments that the items are more prejudicial than probative.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://www.bbc.com/news/articles/cx21g6qz45xo"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>A New York judge ruled that a 3D-printed untraceable ghost gun recovered near Luigi Mangione's arrest site and a manifesto found on his person are admissible evidence in his murder trial for the killing of UnitedHealthcare CEO Brian Thompson, rejecting defense arguments that the items are more prejudicial than probative.</strong></p>
-      <p>Luigi Mangione faces murder charges in New York for the December 2024 shooting death of UnitedHealthcare CEO Brian Thompson in Midtown Manhattan. At the time of his arrest in Pennsylvania, law enforcement recovered a 3D-printed ghost gun — an untraceable firearm manufactured without a serial number, which cannot be linked through traditional ATF tracing — and a handwritten manifesto expressing grievances against the health insurance industry. The defense moved to exclude both items, arguing that the ghost gun's association with criminal connotations and the manifesto's inflammatory rhetoric would unfairly prejudice the jury against Mangione before the prosecution established the elements of the crime. The judge rejected both arguments, finding the ghost gun is probative of planning and intent — a weapon specifically designed to avoid tracing evidence connects to deliberate premeditation — and the manifesto provides direct evidence of motive, which is independently admissible as state of mind evidence under New York evidentiary rules.</p>
-      <p><strong>Why it matters:</strong> The admissibility ruling is significant for trial strategy: the ghost gun and manifesto together form the prosecution's most direct evidence of premeditation and motive, the two elements that distinguish first-degree murder from lesser charges. If convicted of first-degree murder in New York, Mangione faces life imprisonment without parole; the manifesto's admission means the jury will hear Mangione's own words connecting his act to a political grievance, which the prosecution will use to establish that the shooting was calculated rather than impulsive. For the defense, the ruling narrows the viable trial strategies substantially — arguing against the weight of both physical evidence and the defendant's own written expression of intent is difficult. The case has drawn extraordinary public attention, with significant polarization in public discourse about the health insurance industry, creating a jury-selection challenge that the court will need to manage carefully. The ghost gun angle also has policy implications: the case has become a prominent example cited in legislative debates over ghost gun regulation, and the trial's outcome may influence state-level legislative momentum on untraceable firearm restrictions in New York and other states.</p>
-      <p><a href="https://www.bbc.com/news/articles/cx21g6qz45xo">Read original →</a></p>
-    ]]></content>
-    <category term="law"/>
-  </entry>
-  <entry>
-    <id>tag:mhsezgin.github.io,2026:item:7a5228f8c77a439e414a62dc8f9e9ba5411e581b</id>
-    <title>[cybersecurity] Grafana Labs refuses to pay ransom after CoinbaseCarter gang steals source code, betting that transparency outweighs negotiation</title>
-    <link href="https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft"/>
-    <updated>2026-05-18T11:53:00Z</updated>
-    <author><name>therecord.media</name></author>
-    <summary>Grafana Labs publicly disclosed a ransomware incident in which the CoinbaseCarter threat actor stole source code and demanded payment, then chose to refuse payment and publish a detailed incident report — a transparency-first response that contrasts with the industry norm of quiet settlement.</summary>
-    <content type="html"><![CDATA[
-      <p><a href="https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft"><strong>&#128240; Read full article &rarr;</strong></a></p>
-      <p><strong>Grafana Labs publicly disclosed a ransomware incident in which the CoinbaseCarter threat actor stole source code and demanded payment, then chose to refuse payment and publish a detailed incident report — a transparency-first response that contrasts with the industry norm of quiet settlement.</strong></p>
-      <p>The CoinbaseCarter threat actor — named for its social engineering tactics that impersonate Coinbase support personnel — gained access to Grafana Labs' internal systems and exfiltrated source code before issuing a ransom demand. Grafana Labs made the decision to refuse payment and instead published a comprehensive incident report detailing the attack vector, the extent of the data taken, the company's response, and the technical controls that failed. The decision to go public rather than negotiate quietly is unusual in enterprise software: most companies that experience source code theft opt for confidential settlements or quiet remediation to avoid customer alarm, regulatory scrutiny, and competitive disadvantage from exposing code architecture. Grafana Labs argued that its transparency approach better serves customers — who can make informed security decisions about their deployments — and that paying ransoms funds the criminal ecosystem that creates future attacks. The source code stolen relates to Grafana's observability platform, which is widely deployed in enterprise infrastructure monitoring environments.</p>
-      <p><strong>Why it matters:</strong> Grafana Labs' public refusal is a significant data point in the ongoing debate about ransom payment norms in enterprise cybersecurity. Every paid ransom funds additional criminal operations and signals to threat actors that a given sector is a viable target; every refused ransom marginally increases the operational cost-to-return ratio for ransomware groups. The CoinbaseCarter group's focus on social engineering rather than technical exploitation reflects an industry-wide shift: as technical defenses have improved, the most effective attack vector for credential theft has become human manipulation rather than software vulnerability. For Grafana customers, the stolen source code creates a specific risk calculus: sophisticated adversaries with access to proprietary source code can identify undisclosed vulnerabilities more efficiently than external researchers, creating a window during which Grafana needs to audit and patch any issues before they are exploited. The transparency report approach also has regulatory implications — as mandatory breach disclosure requirements expand under SEC rules and state consumer protection laws, companies that proactively disclose may receive more favorable regulatory treatment than those who disclose only when required.</p>
-      <p><a href="https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft">Read original →</a></p>
-    ]]></content>
-    <category term="tech_law"/>
-  </entry>
-
 </feed>
