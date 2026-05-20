@@ -1745,6 +1745,66 @@
       "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
       "title_hash": "844644c7cd42ea70ef8920cbf6d899cde14b0d06",
       "ts": "2026-05-20T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-20-1830",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "75e3493a7a4f132aa22524d48f7ce576f49d5e14",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e28f032d12e7c77b3d88167cd2fadd366f2ebb53",
+      "url": "https://therecord.media/ftc-warns-12-firms-of-violating-take-it-down-act",
+      "title_hash": "32c3300d8a47d75e5334499a6443a224da7d0a3c",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:689a696eee51dc5720c5fe150927a13ade8be376",
+      "url": "https://therecord.media/7-eleven-reports-data-breach-shinyhunters",
+      "title_hash": "53b466848022ef8a67cd49ef26241bcd52d14930",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:f50c06c6a63bce5fa8a23391f2b3893eb71db0b3",
+      "url": "https://therecord.media/discord-migrates-users-to-end-to-end-encryption",
+      "title_hash": "c7d0e97ecb67656e815e17a930d08cc7571b0c90",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:af95f983cce49622dbd38baf65810d59369393c1",
+      "url": "https://www.scotusblog.com/2026/05/justice-jackson-criticizes-the-court/",
+      "title_hash": "a8f5ad565bfd4ac9f04acb4cc7cdb77d605bd257",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:0ef0526c38d952350d2565da306fdcf90cbc5fc6",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "title_hash": "7261d6c1212cba82029074be5ff9090ed9b0215b",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3852fc802bf3031f9c57d7425faf1c930af05192",
+      "url": "https://www.bbc.com/news/articles/c9d3vpqqqpeo",
+      "title_hash": "adda22877c8000546714aa17d3720dd2d31b1afa",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8f3776fcc56efe2bf9e97b4d1ba8ccff095256be",
+      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo",
+      "title_hash": "0b5bc328dbc1c65811c68d7c7b8890b4a62bbb33",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c851ba5681774a7fd83ce926d402c71308ff33d1",
+      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko",
+      "title_hash": "34d594141c67b222de10da4d5e77ce7afe04c1c4",
+      "ts": "2026-05-20T18:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:665d8410f3f9a118bd2660f72ceb17b977dc1128",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "title_hash": "5211a44df931f6e0fe6b13b43326dd1ce3aa3862",
+      "ts": "2026-05-20T18:30:00Z"
     }
   ]
 }
