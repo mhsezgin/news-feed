@@ -1913,6 +1913,60 @@
       "url": "https://therecord.media/two-americans-plead-guilty-india-call-center-scams",
       "title_hash": "752906f368db2f1877ff59602af0800e2e7a2a02",
       "ts": "2026-05-22T12:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-22-1900",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "0cf02388930f641f11374fa70d7bc459c2cd6bab",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8433b651c3795b88e3ab148866b0a7cdfe5981a0",
+      "url": "https://www.scotusblog.com/2026/05/justices-agree-that-actuaries-can-use-up-to-date-assumptions-in-assessing-costs-of-leaving-a-mul/",
+      "title_hash": "899dcc0db4129a1afc5af24a23b08ac26e612294",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:102f0cc7702f93d201265b27863c98e9a885fdbe",
+      "url": "https://www.scotusblog.com/2026/05/shadow-docket-reform/",
+      "title_hash": "607c01a6590f31be39ed2e82afa6109451719481",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3a3864b8f93c992b25cade077afc58dfde59a3a2",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "title_hash": "1f0f93bb3ec67dc0477a143ccf86ddd18d994064",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b425a4fd46f61bb0e19305860584ee78ed023b2d",
+      "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "title_hash": "5a2c3a657ecaf29e1e42b68261b689dc5571066a",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:4c59ad4e9830d83292d4f0a49a8c3f8cdfed0afa",
+      "url": "https://www.insideprivacy.com/artificial-intelligence/eu-ai-act-update-timeline-relief-targeted-simplification-and-new-prohibitions/",
+      "title_hash": "b0f4f092f53ed847cff838a52fe113771842663d",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ba23295b37f73b0ba5b5251b8b288a618628b57e",
+      "url": "https://therecord.media/why-supreme-court-chatrie-case-could-reshape-privacy",
+      "title_hash": "ad85680a544a562f8359bb16ef1f023fd5f39771",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:af87b522380c118c57c11dda53d7844becf25df9",
+      "url": "https://www.aljazeera.com/news/2026/5/22/turkish-court-ousts-leader-of-main-opposition-party",
+      "title_hash": "a3e75c13414027cf8c51fd7486abb764bd78eb9c",
+      "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d01cd98dd558656c42ad9ac6bac98f712cc7c9f9",
+      "url": "https://www.aljazeera.com/news/2026/5/22/who-raises-ebola-public-health-risk-to-very-high-in-dr-congo",
+      "title_hash": "1edeb147b36a337b6cd30d276a943622702181eb",
+      "ts": "2026-05-22T19:00:00Z"
     }
   ]
 }
