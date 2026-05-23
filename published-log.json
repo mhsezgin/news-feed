@@ -2033,6 +2033,66 @@
       "url": "https://www.bbc.com/news/articles/c62d65y16nno",
       "title_hash": "57dd435ade2999df583c81deb771c525108fa717",
       "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-23-1843",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "ae015b48cb263477cb0f49c5e5d9ea315b06164c",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:9cf396ef920c345b215af94b1b6f863b4527fafc",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
+      "title_hash": "a00b415e41edb66bc3600cc508d2af57201be83e",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:ff55f0952881f0aaa2044b43322a6af650c7abe4",
+      "url": "https://www.scotusblog.com/2026/05/daubert-dust-up-and-aedpa-angst/",
+      "title_hash": "7510e9e356dd9c00217cd0f6ee5077e237cc83bc",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:995e9a4e5295853092d013800cdd678f5734e08b",
+      "url": "https://verfassungsblog.de/hungarys-european-rebirth/",
+      "title_hash": "78b673b9159400ab1661867a2a282e128e5b4dca",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:bb627d4899561d36f51da8b193ec669e2483036e",
+      "url": "https://www.techdirt.com/2026/05/22/frances-terrible-copyright-law-hadopi-is-not-quite-dead/",
+      "title_hash": "07441e31069015257f742406a4f69ab36c2701ae",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:08318819a8ab051070ca5bc4b6be7e31a1527911",
+      "url": "https://www.techdirt.com/2026/05/21/the-science-is-not-settled-how-weak-evidence-is-fueling-a-national-push-to-ban-social-media/",
+      "title_hash": "c62a719450c8098614880dcda56449c5a56823bc",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:40aebbb062dddd486fb1950d3466a989f6f9d4fb",
+      "url": "https://www.techdirt.com/2026/05/22/spacexs-ipo-filing-shows-elons-twitter-business-genius-was-a-fantasy/",
+      "title_hash": "dd87b77efe6a6ae4cc926750ddcba9c557801eb4",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:334297165245526d6bc37b365c8371ec7ffd8ee6",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "title_hash": "cf34f76bbbd109edafabcaa79a0ed04a40f0ad83",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:75b9c75c358b1424f6c0cd72bd32fadbebdb5995",
+      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90",
+      "title_hash": "22a6a49a10fd13b6f64f832e6907445878c2aa31",
+      "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:526188eb03590f50b5f95c433378e45ce332f498",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo",
+      "title_hash": "f06846e8498229cc20fcac70e92b4b054715e8b9",
+      "ts": "2026-05-23T18:43:26Z"
     }
   ]
 }
