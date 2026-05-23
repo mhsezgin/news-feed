@@ -1967,6 +1967,72 @@
       "url": "https://www.aljazeera.com/news/2026/5/22/who-raises-ebola-public-health-risk-to-very-high-in-dr-congo",
       "title_hash": "1edeb147b36a337b6cd30d276a943622702181eb",
       "ts": "2026-05-22T19:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-23-1100",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "4cc26d516ff875e7cdefd0ee6161b8b8b710636a",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:64acf8e56b388ce19fab1f0e70bdfdcd89183079",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "title_hash": "66edfec78d20d48461d520fb02f84e0544d87084",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:41d60661584f162039c273cee0e94b7a910bae9f",
+      "url": "https://therecord.media/meta-settles-school-district-lawsuit-mental-health",
+      "title_hash": "8a6b9182fa90909a7cbb44a3d494d4a2d1e388f8",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:135f60569c5b23084d00ffd5d7a976ef14591766",
+      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
+      "title_hash": "f94f44a53b0698445a479b941cd85fad19fc8f6d",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:909338c1558ee2aa919c2a3947f71296b6a46e6b",
+      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o",
+      "title_hash": "14ed625f8e2d53d45a0c5764158027ba69594205",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:120c889fdd492053e1d87b4b8eba8f0b9989c95f",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
+      "title_hash": "6e6a9af4a711d93fb53c8f8e7897ffb75411bb27",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:0f59586c346b27bd062e45609fd05390d5c6a99f",
+      "url": "https://www.bbc.com/news/articles/c202jwpd24go",
+      "title_hash": "75e088484f25aa3e7c95de02d7d623f7b2aa7dd4",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:bc40eb5419ee52898d61dde8bc5832da41b1b06c",
+      "url": "https://www.bbc.com/news/articles/c4g0410gnv5o",
+      "title_hash": "61445c14f16e1dbed64c95fc095bf4efbe80b45f",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:5cc2fea946baeb22bb911b5fc05007f2daeb522f",
+      "url": "https://www.scotusblog.com/2026/05/a-history-of-supreme-court-leaks/",
+      "title_hash": "40ec3a6726d0c111400147d0c3f2251a488c4c55",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:65e84051c1f096f4f08e38e57b71032f4330aa5f",
+      "url": "https://verfassungsblog.de/a-perfect-constitutional-storm/",
+      "title_hash": "ad23aa33b1466815c67f7c530ce8972269dddffc",
+      "ts": "2026-05-23T11:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:cfc900a77a1e1cef250300760cb27a183c783810",
+      "url": "https://www.bbc.com/news/articles/c62d65y16nno",
+      "title_hash": "57dd435ade2999df583c81deb771c525108fa717",
+      "ts": "2026-05-23T11:00:00Z"
     }
   ]
 }
