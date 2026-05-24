@@ -2141,6 +2141,48 @@
       "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people",
       "title_hash": "543b10ffb1d2392fe9d03a92d15243c4fa3e2686",
       "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-24-1845",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "8c1d15896983f31efc134e2caae122898c0ec670",
+      "ts": "2026-05-24T18:46:23Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:c26c9bcf83a7b5af7ccbd3683f2a703d7bc40b34",
+      "url": "https://www.scotusblog.com/2026/05/more-opinions-on-the-way/",
+      "title_hash": "d9af55d3dfa86d6ae5a2b0539d98efce22260ebb",
+      "ts": "2026-05-24T18:46:23Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:36e13622ee0a7b238c9667baba0e40adefa107e1",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
+      "title_hash": "b594406ea22362243dc551d1e1eadbf9eaefbcb9",
+      "ts": "2026-05-24T18:46:23Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:dfc57db9718a0ffdf763f76fab7b6c2ac457f4b1",
+      "url": "https://www.nbcnews.com/world/asia/turkish-police-storm-offices-main-opposition-chp-party-firing-tear-gas-rcna346689",
+      "title_hash": "1a47ad3b7d8628bf7419511a8cefb9cff54a0a4c",
+      "ts": "2026-05-24T18:46:23Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:4ab3961ebe44ed2c5884218d7c72f9dcc4d75344",
+      "url": "https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated",
+      "title_hash": "7de81825aef2f6ac783f5d35a25f0096f9441a2a",
+      "ts": "2026-05-24T18:46:23Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3ec5a3670070288e263cfd3b839fb1b55ea43a52",
+      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war",
+      "title_hash": "9fc6d54ec71196ce9859103e133049b66590e7a5",
+      "ts": "2026-05-24T18:46:23Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:6a5702ed4c76b22e3596932181ae56c4962904f7",
+      "url": "https://www.scotusblog.com/2026/05/what-oral-argument-behavior-reveals-about-supreme-court-unanimity-and-division/",
+      "title_hash": "73318ae1e35512d2c0dce9dfe78e6ab6a81d0348",
+      "ts": "2026-05-24T18:46:23Z"
     }
   ]
 }

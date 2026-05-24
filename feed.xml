@@ -4,9 +4,121 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml" />
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-24T10:38:08Z</updated>
+  <updated>2026-05-24T18:46:23Z</updated>
 
 <entry>
+  <id>tag:mhsezgin.github.io,2026:summary:2026-05-24-1845</id>
+  <title>[summary] 2026-05-24 18:45</title>
+  <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>news-feed-agent</name></author>
+  <summary>Digest for 2026-05-24 18:45 UTC: SCOTUS conferences Dershowitz v. CNN cert petition threatening NYT v. Sullivan; Russia fires 600 drones and Oreshnik hypersonic missile at Kyiv killing four; Turkish riot police evict elected CHP opposition leader from party HQ after court reinstates Erdogan rival; Trump says Iran Hormuz deal largely negotiated, Tehran disputes; Google bets $180B annual capex on AI distribution scale over benchmark supremacy.</summary>
+  <content type="html"><![CDATA[
+    <h2>law</h2>
+<p>The Supreme Court placed Dershowitz v. CNN on conference for its first cert vote on May 24, 2026 — the first formal opportunity for the justices to vote on whether to take up the case explicitly asking the Court to abolish or restrict the 62-year-old actual-malice standard from New York Times v. Sullivan (1964). Lower courts acknowledged CNN lied about what Dershowitz said but dismissed the suit because he could not prove actual malice; the Court ordered CNN to respond months ago, an unusual step signaling serious interest. Justices Thomas and Gorsuch have previously written separately questioning Sullivan's constitutional basis. A separate new empirical analysis of six October 2025 Term cases finds contested decisions generate 28% more transcript pages and nearly 50% more skeptical questioning than unanimous cases, providing advocates with a real-time outcome signal heading into the blockbuster final weeks of term.</p>
+
+    <h2>tech_law</h2>
+<p>No major new enforcement actions or platform rulings dropped since the morning digest. The Dershowitz v. CNN petition carries significant tech-platform implications: the actual-malice standard currently shields not just legacy press but editorial decisions by social media platforms in certain defamation contexts, meaning any narrowing of Sullivan would ripple into platform liability debates alongside Section 230. The competitive dynamics among Google ($180B capex), Anthropic (Mythos/Glasswing), and OpenAI (DeployCo consulting) are drawing regulatory attention from Brussels, Washington, and London as the capex race takes on antitrust dimensions.</p>
+
+    <h2>global_politics</h2>
+<p>Russia launched its largest overnight aerial assault on Kyiv in over a year on May 23-24, firing 600 drones and 90 missiles including a hypersonic Oreshnik ballistic missile capable of carrying nuclear warheads; Ukrainian air defenses intercepted 604 assets but at least four people died across the capital and surrounding region. Putin framed the attack as retaliation for a Ukrainian drone strike on a Starobilsk student dormitory. In Turkey, riot police fired tear gas and rubber bullets to evict CHP opposition leader Ozgur Ozel from the party headquarters on May 24, three days after an Ankara court annulled his 2023 election and reinstated Kemal Kilicdaroglu — who lost to Erdogan in the 2023 presidential runoff — as party chair; Borsa Istanbul fell 6%, triggering circuit breakers. President Trump separately announced that a deal with Iran including reopening the Strait of Hormuz is "largely negotiated," describing an MOU still being finalized with eight Arab states, Israel, and Pakistan as mediator; Iran's semi-official Fars news agency dismissed the announcement as incomplete and inconsistent with reality.</p>
+
+    <h2>tech</h2>
+<p>Google is executing a $180 billion annual capex strategy — six times its 2022 levels, funded entirely from advertising revenues — betting on AI distribution at scale rather than benchmark supremacy, centered on Gemini 3.5 Flash and AI-native Search and YouTube redesigns. OpenAI launched DeployCo, a $4 billion enterprise consulting subsidiary, acknowledging that API sales alone are insufficient and that a professional services arm is needed to compete with KPMG-Anthropic and Deloitte-Microsoft for enterprise implementation contracts. Anthropic's Mythos targets the high-margin cybersecurity market through Project Glasswing. Executives at all three firms describe the frontier race as effectively neck-and-neck.</p>
+
+  ]]></content>
+  <category term="summary"/>
+</entry><entry>
+  <id>tag:mhsezgin.github.io,2026:item:c26c9bcf83a7b5af7ccbd3683f2a703d7bc40b34</id>
+  <title>[law] SCOTUS conferences Dershowitz v. CNN defamation petition, opening first formal vote on whether to revisit or abolish New York Times v. Sullivan after 62 years</title>
+  <link href="https://www.scotusblog.com/2026/05/more-opinions-on-the-way/"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>scotusblog.com</name></author>
+  <summary>The Supreme Court placed Dershowitz v. CNN on its conference list for a first cert vote on May 24, 2026, giving the justices a formal opportunity to decide whether to hear a case that explicitly asks the Court to abolish or substantially restrict the 62-year-old actual-malice defamation standard established in New York Times v. Sullivan.</summary>
+  <content type="html"><![CDATA[
+        <p><a href="https://www.scotusblog.com/2026/05/more-opinions-on-the-way/"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
+        <p><strong>The Supreme Court placed Dershowitz v. CNN on its conference list for a first cert vote on May 24, 2026, giving the justices a formal opportunity to decide whether to hear a case that explicitly asks the Court to abolish or substantially restrict the 62-year-old actual-malice defamation standard established in New York Times v. Sullivan.</strong></p>
+        <p>During Donald Trump's first Senate impeachment trial in January 2020, Harvard Law professor emeritus Alan Dershowitz argued on the Senate floor that a president cannot be impeached for conduct he genuinely believed was in the national interest. CNN on-air commentators subsequently characterized Dershowitz as arguing that a president could commit bribery or extortion without impeachment consequences -- a claim Dershowitz immediately and vigorously denied. Even the district court reviewing the defamation case found Dershowitz had 'said nothing of the kind' and one judge found CNN 'simply lied about what Dershowitz had said.' Nevertheless, both the district court and the First Circuit dismissed the defamation suit because Dershowitz failed to satisfy the actual-malice standard -- knowledge of falsity or reckless disregard for the truth -- established in New York Times Co. v. Sullivan (1964). Dershowitz's cert petition presents two questions: whether systematic omission of qualifying language from a recorded statement can constitute proof of actual malice, and whether the Sullivan standard 'should be discarded altogether or at least as to private citizens who are public figures.' The Supreme Court unusually ordered CNN to respond to the petition months ago -- a step taken in only a fraction of filed petitions -- and the case was scheduled for conference after CNN filed its brief in opposition and Dershowitz's team filed a reply brief. CNN argued that Florida law independently adopts the same actual-malice standard, meaning Dershowitz would lose on state grounds regardless of what happens to Sullivan.</p>
+        <p><strong>Why it matters:</strong> New York Times v. Sullivan is the constitutional foundation of American defamation law for public figures and officials; overruling or materially restricting it would expose news organizations to defamation suits they currently win at the motion-to-dismiss stage based on plaintiffs' inability to prove subjective awareness of falsity. Justices Thomas and Gorsuch have each written separately in recent years questioning whether Sullivan was correctly decided as an original constitutional matter, providing a ready intellectual framework for reconsidering the precedent. If the Court grants cert -- even before reaching the merits -- media organizations, insurers, and editorial lawyers will immediately reassess risk across pending and future publications, creating predictable chilling effects on coverage of public figures. CNN's state-law fallback argument means Dershowitz may lose even if Sullivan is narrowed federally, but that does not protect the broader media industry from the signal a cert grant would send to future litigants and lower courts. The case arrives during a sustained White House campaign against press credibility and congressional proposals to reform defamation law, making the political stakes unusually charged: a ruling restricting Sullivan would be the most consequential shift in press-protection law since the decision itself was handed down.</p>
+        <p><a href="https://www.scotusblog.com/2026/05/more-opinions-on-the-way/">Read original &#x2192;</a></p>
+      ]]></content>
+  <category term="law"/>
+</entry><entry>
+  <id>tag:mhsezgin.github.io,2026:item:36e13622ee0a7b238c9667baba0e40adefa107e1</id>
+  <title>[global politics] Russia fires Oreshnik hypersonic missile and 600 drones at Kyiv in largest overnight assault in over a year, killing at least four</title>
+  <link href="https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>npr.org</name></author>
+  <summary>Russia launched its largest combined aerial assault on Kyiv in more than a year on the night of May 23-24, 2026, deploying 600 drones and 90 missiles -- including a hypersonic Oreshnik ballistic missile capable of carrying nuclear warheads -- killing at least four people and injuring 77 across the Ukrainian capital and surrounding region.</summary>
+  <content type="html"><![CDATA[
+        <p><a href="https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
+        <p><strong>Russia launched its largest combined aerial assault on Kyiv in more than a year on the night of May 23-24, 2026, deploying 600 drones and 90 missiles -- including a hypersonic Oreshnik ballistic missile capable of carrying nuclear warheads -- killing at least four people and injuring 77 across the Ukrainian capital and surrounding region.</strong></p>
+        <p>The overnight attack began late Saturday and extended into Sunday morning Ukrainian time, striking every district of Kyiv according to Mayor Vitaliy Klitschko. Ukrainian air defense forces, using Patriot and other Western-supplied systems, intercepted 604 of the aerial assets -- a remarkable defensive performance against a saturation-strike strategy designed to overwhelm multiple intercept layers simultaneously. The unintercepted ordnance caused fires and structural damage to residential buildings, government offices, and schools across the capital. President Zelenskyy said an Oreshnik medium-range ballistic missile struck Bila Tserkva, approximately 80 kilometers south of central Kyiv -- the third confirmed Oreshnik use since Russia introduced the weapon in late 2024. At least two people died in Kyiv proper and two more in the surrounding oblast, with 77 total injuries reported. The 600-drone count, if accurate, represents the largest single-night drone deployment against the Ukrainian capital since the start of the full-scale invasion in February 2022. Putin publicly framed the attack as retaliation for a Ukrainian drone strike that he claimed targeted a student dormitory in Starobilsk, a Russian-occupied eastern Ukrainian city, though Ukraine did not confirm responsibility for that strike.</p>
+        <p><strong>Why it matters:</strong> The third Oreshnik deployment against a Ukrainian target carries strategic significance beyond the immediate casualties: the weapon is specifically designed to defeat advanced missile defense systems like Patriot through high velocity and maneuvering capability, and its use against Kyiv signals Russia's willingness to employ its most sophisticated non-nuclear strategic weapons as proportionate responses to tactical Ukrainian actions -- a doctrine that lowers the practical barrier to further escalation. The scale of the attack was launched on the same day Trump announced the Iran deal was largely negotiated, which may reflect Russian timing to test whether US diplomatic attention shifting toward the Middle East creates space to escalate without triggering a proportionate Western response. NATO members supplying air defense batteries to Ukraine will face immediate pressure to assess whether current commitments are sufficient, and whether to provide more capable interceptors or long-range strike systems that could threaten Russian launch sites. The drone saturation tactic combined with hypersonic missiles also reflects an evolving Russian doctrine: force defenders to expend expensive interceptors on cheap drones, degrading the defense layer over time until a hypersonic missile can penetrate unrestricted.</p>
+        <p><a href="https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv">Read original &#x2192;</a></p>
+      ]]></content>
+  <category term="global_politics"/>
+</entry><entry>
+  <id>tag:mhsezgin.github.io,2026:item:dfc57db9718a0ffdf763f76fab7b6c2ac457f4b1</id>
+  <title>[global politics] Turkish riot police storm CHP opposition HQ with tear gas, evicting elected leader Ozel after court reinstated Erdogan&apos;s 2023 rival Kilicdaroglu as party chair</title>
+  <link href="https://www.nbcnews.com/world/asia/turkish-police-storm-offices-main-opposition-chp-party-firing-tear-gas-rcna346689"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>nbcnews.com</name></author>
+  <summary>Turkish riot police fired tear gas and rubber bullets into the main opposition Republican People&apos;s Party headquarters in Ankara on May 24, 2026, forcibly evicting CHP leader Ozgur Ozel and hundreds of supporters who had barricaded inside for three days to protest a court ruling reinstating Kemal Kilicdaroglu -- the man Erdogan defeated in Turkey&apos;s 2023 presidential runoff -- as party chair.</summary>
+  <content type="html"><![CDATA[
+        <p><a href="https://www.nbcnews.com/world/asia/turkish-police-storm-offices-main-opposition-chp-party-firing-tear-gas-rcna346689"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
+        <p><strong>Turkish riot police fired tear gas and rubber bullets into the main opposition Republican People's Party headquarters in Ankara on May 24, 2026, forcibly evicting CHP leader Ozgur Ozel and hundreds of supporters who had barricaded inside for three days to protest a court ruling reinstating Kemal Kilicdaroglu -- the man Erdogan defeated in Turkey's 2023 presidential runoff -- as party chair.</strong></p>
+        <p>On May 21, an Ankara court annulled the November 2023 CHP congress at which Ozel had defeated Kilicdaroglu for the party leadership, citing alleged voting irregularities. The ruling immediately reinstated Kilicdaroglu, who had led the CHP from 2010 to 2023 and lost multiple national elections to President Erdogan, in Ozel's place. CHP members and international observers condemned the ruling as judicial manipulation designed to install a less effective opposition figure ahead of future elections; Ozel denounced it as 'an attempted coup against the party founded by Ataturk.' After the ruling, Ozel and hundreds of CHP members occupied the Ankara headquarters for three days. On Sunday May 24, riot police broke through the barricade with tear gas inside the building and rubber bullets directed at the crowd outside. Borsa Istanbul fell 6% on fears of political instability, triggering automatic circuit breakers. Addressing supporters after being evicted, Ozel declared: 'From now on, the Republican People's Party is on the streets, in the squares, marching towards power.' The action escalates a broader pattern of legal pressure against the opposition that includes the March 2025 imprisonment of Istanbul Mayor Ekrem Imamoglu and ongoing investigations targeting opposition-run municipalities across Turkey.</p>
+        <p><strong>Why it matters:</strong> The forced eviction of a democratically elected opposition party leader by court order -- enforced by riot police -- represents the most direct use of judicial authority to restructure Turkish party politics since Erdogan's post-2016 coup emergency measures, and it is occurring in a NATO member state. While formal NATO proceedings against Turkey are not under consideration, the incident will intensify bipartisan US congressional pressure to condition military technology transfers and alliance commitments on democratic governance standards. The EU, which effectively suspended accession talks years ago, will view the crackdown as definitive confirmation that Turkey's democratic trajectory has permanently reversed. Borsa Istanbul's 6% drop signals that investors see political instability as a material risk to Turkey's economic stabilization program under Finance Minister Mehmet Simsek, which depends on market confidence to maintain. If Erdogan successfully neutralizes CHP -- which controls Istanbul, Ankara, and several major municipalities representing the majority of Turkey's GDP -- he will have structured Turkish opposition politics into permanent minority status without facing any formal accountability mechanism, completing a transition from competitive authoritarianism to single-party dominance in practice.</p>
+        <p><a href="https://www.nbcnews.com/world/asia/turkish-police-storm-offices-main-opposition-chp-party-firing-tear-gas-rcna346689">Read original &#x2192;</a></p>
+      ]]></content>
+  <category term="global_politics"/>
+</entry><entry>
+  <id>tag:mhsezgin.github.io,2026:item:4ab3961ebe44ed2c5884218d7c72f9dcc4d75344</id>
+  <title>[global politics] Trump says Iran deal including Strait of Hormuz reopening is &apos;largely negotiated&apos;; Tehran&apos;s Fars agency disputes the characterization</title>
+  <link href="https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>pbs.org</name></author>
+  <summary>President Trump announced on Saturday May 23 that a deal with Iran -- including the reopening of the Strait of Hormuz to international shipping -- is &apos;largely negotiated&apos; and will be announced shortly, describing a Memorandum of Understanding still being finalized with eight Arab states, Israel, and Pakistan as mediator; Iran&apos;s semi-official Fars news agency immediately dismissed the announcement as &apos;incomplete and inconsistent with reality.&apos;</summary>
+  <content type="html"><![CDATA[
+        <p><a href="https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
+        <p><strong>President Trump announced on Saturday May 23 that a deal with Iran -- including the reopening of the Strait of Hormuz to international shipping -- is 'largely negotiated' and will be announced shortly, describing a Memorandum of Understanding still being finalized with eight Arab states, Israel, and Pakistan as mediator; Iran's semi-official Fars news agency immediately dismissed the announcement as 'incomplete and inconsistent with reality.'</strong></p>
+        <p>Trump posted on social media that 'Final aspects and details of the Deal are currently being discussed, and will be announced shortly,' following phone calls with leaders of Saudi Arabia, the United Arab Emirates, Qatar, Pakistan, Turkey, Egypt, Jordan, and Bahrain, and separately with Israel. Pakistan's Field Marshal Asim Munir has been identified as the lead mediator in talks with Tehran. The announcement comes approximately 70 days into the US-Iran conflict that began in early 2026 following a series of Strait of Hormuz incidents including Iranian seizures of tankers and US strikes on Iranian naval assets -- a conflict that has disrupted roughly 20% of globally traded oil passing through the strait. Trump's characterization describes a 60-day MOU that would allow Iran to sell oil under temporary sanctions waivers in exchange for reopening the strait and halting naval interdictions. Nuclear negotiations -- covering Iran's near-weapons-grade uranium stockpile and centrifuge operations -- are explicitly excluded from the first-phase MOU and deferred to a separate follow-on track. Iran's Fars news agency reported that 'wide disagreements' remain on control of the strait and the nuclear program, and no official Iranian government confirmation was issued.</p>
+        <p><strong>Why it matters:</strong> The Strait of Hormuz carries roughly 20% of globally traded oil; its disruption since early 2026 has driven energy price volatility affecting inflation across the US, Europe, and Asia, and a verified reopening would release significant supply pressure with projected 15-25% spot price declines. However, the gap between Trump's announcement and Iran's denial is itself consequential: if Trump is overclaiming deal progress ahead of formal agreement -- a pattern from prior negotiations including with North Korea and in NAFTA renegotiation -- the announcement will harden Iranian domestic political resistance and empower hardliners who argue the US cannot be trusted as a counterpart. The nuclear carve-out is the most dangerous structural element: deferring Iran's enrichment stockpile and centrifuge questions to a follow-on track means an MOU, if signed, provides sanctions relief without dismantling the infrastructure that represents Iran's fastest path to a nuclear device. Israel has privately signaled opposition to any deal that does not address the nuclear program in its first phase, creating a potential alliance fracture point that could complicate implementation even if the MOU is formally signed.</p>
+        <p><a href="https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated">Read original &#x2192;</a></p>
+      ]]></content>
+  <category term="global_politics"/>
+</entry><entry>
+  <id>tag:mhsezgin.github.io,2026:item:3ec5a3670070288e263cfd3b839fb1b55ea43a52</id>
+  <title>[tech] Google bets $180 billion in annual capex on AI distribution over benchmark supremacy, as OpenAI launches DeployCo consulting arm and Anthropic targets high-margin security market</title>
+  <link href="https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>axios.com</name></author>
+  <summary>Google is executing an AI strategy built on a $180 billion annual capital expenditure commitment -- six times its 2022 capex, funded entirely from advertising revenues without external fundraising -- betting that deployment at scale across billions of existing users will ultimately outcompete Anthropic&apos;s and OpenAI&apos;s approaches in the frontier model race.</summary>
+  <content type="html"><![CDATA[
+        <p><a href="https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
+        <p><strong>Google is executing an AI strategy built on a $180 billion annual capital expenditure commitment -- six times its 2022 capex, funded entirely from advertising revenues without external fundraising -- betting that deployment at scale across billions of existing users will ultimately outcompete Anthropic's and OpenAI's approaches in the frontier model race.</strong></p>
+        <p>Rather than launching the largest possible frontier model to claim benchmark supremacy, Google's May 2026 AI showcase centered on Gemini 3.5 Flash -- a faster, cheaper model optimized for mass deployment -- and debuted AI-native features including 'Ask YouTube,' which lets users get text answers with video links without watching full videos, and a redesigned Search interface for extended conversational interactions. Executives at Google, Anthropic, and OpenAI have each acknowledged the frontier race is 'effectively neck-and-neck,' with no single company able to claim sustained model superiority across evaluations. Google's $180 billion annual capex dwarfs what competitors can sustain independently: Anthropic recently sought to raise $50 billion at a $900 billion valuation from external investors, while OpenAI depends on Microsoft's ongoing capital commitments and its own fundraising rounds. In parallel, OpenAI launched DeployCo, a $4 billion enterprise consulting subsidiary focused on enterprise AI deployment -- an acknowledgment that API sales alone are insufficient revenue and that a professional services arm is needed to capture the implementation market. Anthropic's Mythos, released only to a select security-cleared group under Project Glasswing, deliberately targets the high-margin cybersecurity market rather than mass deployment.</p>
+        <p><strong>Why it matters:</strong> The real competitive fault line in the AI industry is no longer model benchmarks but distribution and monetization architecture: the company that converts AI capability into recurring enterprise contracts at scale will dominate market structure for the next decade. Google's self-funded $180 billion capex gives it a sustained investment capacity without the fundraising dependencies that shape Anthropic's and OpenAI's product roadmaps and pricing decisions. OpenAI's DeployCo launch is structurally significant: it mirrors the Big Four professional services model, where KPMG (partnered with Anthropic for 276,000 employees) and Deloitte (partnered with Microsoft Copilot) are competing with OpenAI's own consulting arm for the same enterprise implementation market -- contracts worth tens of billions annually by 2028. The divergence in strategy -- Google on distribution scale, OpenAI on professional services, Anthropic on specialized high-value markets -- makes near-term competitive outcomes unpredictable while creating genuine antitrust risk: if Google's $180 billion infrastructure commitment entrenches its distribution advantage, it may become the basis for predatory pricing arguments before EU and US antitrust authorities already investigating Google's AI search practices.</p>
+        <p><a href="https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war">Read original &#x2192;</a></p>
+      ]]></content>
+  <category term="tech"/>
+</entry><entry>
+  <id>tag:mhsezgin.github.io,2026:item:6a5702ed4c76b22e3596932181ae56c4962904f7</id>
+  <title>[law] Empirical analysis of SCOTUS oral arguments finds contested cases generate 28% more transcript pages and 46% more skeptical questioning -- a reliable real-time outcome signal</title>
+  <link href="https://www.scotusblog.com/2026/05/what-oral-argument-behavior-reveals-about-supreme-court-unanimity-and-division/"/>
+  <updated>2026-05-24T18:45:49Z</updated>
+  <author><name>scotusblog.com</name></author>
+  <summary>A new empirical analysis of six October 2025 Term Supreme Court cases finds that contested decisions (5-4 or 6-3) average 93.7 transcript pages per argument versus 73 for unanimous cases, with 200 justice turns versus 137 and 46% more skeptical or probing exchanges -- a pattern consistent enough to serve as a meaningful predictive signal during argument.</summary>
+  <content type="html"><![CDATA[
+        <p><a href="https://www.scotusblog.com/2026/05/what-oral-argument-behavior-reveals-about-supreme-court-unanimity-and-division/"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
+        <p><strong>A new empirical analysis of six October 2025 Term Supreme Court cases finds that contested decisions (5-4 or 6-3) average 93.7 transcript pages per argument versus 73 for unanimous cases, with 200 justice turns versus 137 and 46% more skeptical or probing exchanges -- a pattern consistent enough to serve as a meaningful predictive signal during argument.</strong></p>
+        <p>Researcher Adam Feldman analyzed six October 2025 Term cases divided into contested (5-4 or 6-3) and unanimous outcome groups. Contested cases averaged 93.7 transcript pages per argument, 200.3 justice turns, 35.0 skeptical turns, and 26.3 foundational probing questions. Unanimous cases averaged 73 pages, 136.7 justice turns, 24.0 skeptical turns, and 18.7 foundational probes per argument. Feldman specifically found that future dissenters typically ask more questions than eventual majority opinion authors -- consistent with the behavior of justices who need to surface and probe unfavorable facts to build a minority position. Justice Clarence Thomas was a notable exception to all patterns: he asked the fewest questions overall while authoring two majority opinions during the period studied, using what Feldman describes as 'exploratory or doctrinal' questioning rather than adversarial challenges when he did engage. In unanimous cases, justices' questions often functioned as road-mapping exercises -- helping advocates structure arguments that the Court would later rely on in its opinion -- rather than genuine probing of contested legal issues. Feldman's analysis describes the behavioral differences as reflecting justices 'working through disagreement' in real time during contested cases rather than merely eliciting clarification.</p>
+        <p><strong>Why it matters:</strong> The research challenges the longstanding conventional wisdom that oral argument is unpredictable judicial theater and instead offers a behavioral framework for predicting case divisions in real time. For advocates preparing arguments in the October 2025 Term's remaining blockbusters -- birthright citizenship (Trump v. Barbara), presidential authority to fire independent-agency members without cause (Trump v. Slaughter, implicating the FTC and SEC), and consolidated transgender sports ban cases -- high volumes of skeptical questioning directed at particular justices would be a meaningful signal of where the divided Court is heading. If the empirical pattern is robust across additional terms, it has practical implications for how law firms and appellate strategists allocate preparation resources: contested cases demand advocates who can withstand sustained adversarial cross-examination, while unanimous cases reward advocates who can help the Court construct a workable doctrinal framework. The Thomas exception -- lowest questioning volume but highest majority-opinion authorship rate in the studied period -- raises a broader question about whether restrained questioning reflects a distinct leadership approach that will become more influential as Thomas approaches senior status on the Court.</p>
+        <p><a href="https://www.scotusblog.com/2026/05/what-oral-argument-behavior-reveals-about-supreme-court-unanimity-and-division/">Read original &#x2192;</a></p>
+      ]]></content>
+  <category term="law"/>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:summary:2026-05-24-1038</id>
   <title>[summary] 2026-05-24 10:38</title>
   <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
@@ -27,8 +139,7 @@
 <p>The US and Iran are close to signing a 60-day memorandum of understanding that would reopen the Strait of Hormuz — through which roughly 20% of global traded oil transits — in exchange for sanctions waivers allowing Iran to sell oil freely, with Pakistan's Field Marshal Asim Munir as lead mediator; an announcement was expected Sunday, May 24. The deal excludes nuclear negotiations from the first phase, deferring Iran's near-weapons-grade uranium stockpile and centrifuge questions to a separate follow-on track. On the night of May 23-24, Russia launched its largest combined attack on Kyiv in over a year — 90 missiles and approximately 600 drones including the Oreshnik medium-range ballistic missile, which was previously reserved for eastern-front military targets — killing four and injuring at least 70, with Ukraine successfully intercepting 604 of the aerial assets. And in Quetta, Pakistan, a BLA suicide bomber detonated an explosives-laden vehicle near a railway track as a passenger train passed, killing at least 24 people and wounding more than 70 — Pakistan's deadliest single attack of 2026, occurring on the same day Pakistan's military chief is midwifing the Iran-US ceasefire in Tehran.</p>
   ]]></content>
   <category term="summary"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:10d491e134380975a1a4fd106656c2ef2fec6d55</id>
   <title>[law] Supreme Court rules 8-1 in Havana Docks: cruise lines liable under Helms-Burton Act for using confiscated Cuban port</title>
   <link href="https://www.scotusblog.com/2026/05/court-rules-against-cruise-lines-in-cuban-confiscation-case/"/>
@@ -43,8 +154,7 @@
     <p><a href="https://www.scotusblog.com/2026/05/court-rules-against-cruise-lines-in-cuban-confiscation-case/">Read original →</a></p>
   ]]></content>
   <category term="law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:8f91bd152141e1832c96a2540a99a0ba15f38da5</id>
   <title>[law] SCOTUS approaching end of term: birthright citizenship, independent agency firings, and transgender sports bans all due by late June</title>
   <link href="https://www.cbsnews.com/news/supreme-court-major-cases-2026/"/>
@@ -59,8 +169,7 @@
     <p><a href="https://www.cbsnews.com/news/supreme-court-major-cases-2026/">Read original →</a></p>
   ]]></content>
   <category term="law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:e82a40e24874536007a4272e1c1dd643a5aebcfa</id>
   <title>[tech_law] Canadian operator of KimWolf DDoS-for-hire arrested: one million infected devices, 30 Tbps peak attack, DoD systems targeted</title>
   <link href="https://therecord.media/canadian-man-arrested-charged-running-kimwolf-botnet"/>
@@ -75,8 +184,7 @@
     <p><a href="https://therecord.media/canadian-man-arrested-charged-running-kimwolf-botnet">Read original →</a></p>
   ]]></content>
   <category term="tech_law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:d6a5d4f63a420bd93987e33207ff492a9a2238cc</id>
   <title>[tech] Anthropic and KPMG sign global alliance bringing Claude to all 276,000 employees across 138 countries</title>
   <link href="https://www.anthropic.com/news/anthropic-kpmg"/>
@@ -91,8 +199,7 @@
     <p><a href="https://www.anthropic.com/news/anthropic-kpmg">Read original →</a></p>
   ]]></content>
   <category term="tech"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:0a489d5b24fad40d7a60bd70262e9c347a9c6488</id>
   <title>[global politics] US and Iran close to signing 60-day Strait of Hormuz ceasefire deal with Pakistan mediating</title>
   <link href="https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear"/>
@@ -107,8 +214,7 @@
     <p><a href="https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear">Read original →</a></p>
   ]]></content>
   <category term="global_politics"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:1186f3259c1d5bcf3e2e2fd498827bc8db8d1743</id>
   <title>[global politics] Russia fires Oreshnik ballistic missile and 600 drones at Kyiv in massive overnight assault, killing four</title>
   <link href="https://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv"/>
@@ -123,8 +229,7 @@
     <p><a href="https://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv">Read original →</a></p>
   ]]></content>
   <category term="global_politics"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:801ce9cfa73f40d649a13b42755ffe4b1ef14f0a</id>
   <title>[global politics] BLA suicide bomber kills 24 at Quetta railway in Pakistan's deadliest attack of 2026</title>
   <link href="https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people"/>
@@ -139,8 +244,7 @@
     <p><a href="https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people">Read original →</a></p>
   ]]></content>
   <category term="global_politics"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:summary:2026-05-23-1843</id>
   <title>[summary] 2026-05-23 18:43</title>
   <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
@@ -161,8 +265,7 @@
     <p>A gas explosion at the Liushenyu coal mine in Shanxi province on May 23 killed 82 workers and left two missing from a workforce of 247 underground at the time — Chinese officials detained mine operators and President Xi ordered an all-out rescue and probe in what state media describe as the country's worst coal mine accident in over a decade. Secretary of State Rubio attended a NATO foreign ministers' meeting in Sweden, attempting to walk back confusion created by contradictory troop deployment signals — Trump announced 5,000 additional troops to Poland days after canceling a 4,000-troop deployment and announcing withdrawals from Germany, prompting Sweden's foreign minister to acknowledge the situation is "confusing indeed and not always easy to navigate."</p>
   ]]></content>
   <category term="summary"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:9cf396ef920c345b215af94b1b6f863b4527fafc</id>
   <title>[law] Federal judge dismisses Abrego Garcia smuggling charges, ruling DOJ prosecuted him vindictively for winning deportation case</title>
   <link href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia"/>
@@ -177,8 +280,7 @@
     <p><a href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia">Read original →</a></p>
   ]]></content>
   <category term="law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:ff55f0952881f0aaa2044b43322a6af650c7abe4</id>
   <title>[law] SCOTUS conference: Daubert expert-testimony gatekeeping and AEDPA habeas limits for a combat veteran in two consequential procedural cases</title>
   <link href="https://www.scotusblog.com/2026/05/daubert-dust-up-and-aedpa-angst/"/>
@@ -193,8 +295,7 @@
     <p><a href="https://www.scotusblog.com/2026/05/daubert-dust-up-and-aedpa-angst/">Read original →</a></p>
   ]]></content>
   <category term="law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:995e9a4e5295853092d013800cdd678f5734e08b</id>
   <title>[law] Hungary's constitutional reset: using EU law as an interim constitution while Magyar dismantles Orbán's legal fortress</title>
   <link href="https://verfassungsblog.de/hungarys-european-rebirth/"/>
@@ -209,8 +310,7 @@
     <p><a href="https://verfassungsblog.de/hungarys-european-rebirth/">Read original →</a></p>
   ]]></content>
   <category term="law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:bb627d4899561d36f51da8b193ec669e2483036e</id>
   <title>[tech law] France's Hadopi copyright enforcement system is functionally dead — gutted by EU privacy rulings — but rights-holder lobbying keeps the corpse warm</title>
   <link href="https://www.techdirt.com/2026/05/22/frances-terrible-copyright-law-hadopi-is-not-quite-dead/"/>
@@ -225,8 +325,7 @@
     <p><a href="https://www.techdirt.com/2026/05/22/frances-terrible-copyright-law-hadopi-is-not-quite-dead/">Read original →</a></p>
   ]]></content>
   <category term="tech_law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:08318819a8ab051070ca5bc4b6be7e31a1527911</id>
   <title>[tech law] Social media age bans rest on methodologically weak research, and courts are already pushing back on First Amendment grounds</title>
   <link href="https://www.techdirt.com/2026/05/21/the-science-is-not-settled-how-weak-evidence-is-fueling-a-national-push-to-ban-social-media/"/>
@@ -241,8 +340,7 @@
     <p><a href="https://www.techdirt.com/2026/05/21/the-science-is-not-settled-how-weak-evidence-is-fueling-a-national-push-to-ban-social-media/">Read original →</a></p>
   ]]></content>
   <category term="tech_law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:40aebbb062dddd486fb1950d3466a989f6f9d4fb</id>
   <title>[tech law] SpaceX IPO S-1 consolidates X and xAI finances, revealing Twitter subscriber base at 6% of Musk's 2022 projections and X/xAI revenue at 12% of target</title>
   <link href="https://www.techdirt.com/2026/05/22/spacexs-ipo-filing-shows-elons-twitter-business-genius-was-a-fantasy/"/>
@@ -257,8 +355,7 @@
     <p><a href="https://www.techdirt.com/2026/05/22/spacexs-ipo-filing-shows-elons-twitter-business-genius-was-a-fantasy/">Read original →</a></p>
   ]]></content>
   <category term="tech_law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:334297165245526d6bc37b365c8371ec7ffd8ee6</id>
   <title>[ai] Google Gemini 3.5 Flash debuts at I/O 2026 as default in Search and Gemini app — 4× faster than frontier rivals, pivoting to autonomous agent architecture</title>
   <link href="https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"/>
@@ -273,8 +370,7 @@
     <p><a href="https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/">Read original →</a></p>
   ]]></content>
   <category term="tech"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:75b9c75c358b1424f6c0cd72bd32fadbebdb5995</id>
   <title>[global politics] Gas explosion at Chinese coal mine in Shanxi kills 82 workers, officials detained as Xi orders all-out rescue</title>
   <link href="https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90"/>
@@ -289,8 +385,7 @@
     <p><a href="https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90">Read original →</a></p>
   ]]></content>
   <category term="global_politics"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:526188eb03590f50b5f95c433378e45ce332f498</id>
   <title>[global politics] Rubio at NATO foreign ministers' meeting: US troops in Europe are being 'constantly re-evaluated,' allies say signals remain contradictory</title>
   <link href="https://www.bbc.com/news/articles/cedpz9669deo"/>
@@ -305,8 +400,7 @@
     <p><a href="https://www.bbc.com/news/articles/cedpz9669deo">Read original →</a></p>
   ]]></content>
   <category term="global_politics"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:summary:2026-05-23-1100</id>
   <title>[summary] 2026-05-23 11:00</title>
   <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
@@ -327,8 +421,7 @@
     <p>Anthropic announced Project Glasswing, an initiative deploying Claude Mythos Preview to scan partner organizations and open-source projects for critical vulnerabilities before adversarial actors can exploit AI to discover them first. In the program's first month, Mythos found 10,000-plus high- or critical-severity flaws across 50 partner organizations — including 271 Firefox vulnerabilities (ten times the prior-model count) and 2,000 bugs across Cloudflare's systems — plus CVE-2026-5194, a wolfSSL cryptographic flaw enabling certificate forgery in financial and email services. SpaceX launched Starship Version 3 on its first test flight on May 23, achieving a soft Indian Ocean landing despite one Raptor engine shutdown and multiple booster relighting failures, validating the redesigned architecture's basic flight viability ahead of the company's pending IPO.</p>
   ]]></content>
   <category term="summary"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:64acf8e56b388ce19fab1f0e70bdfdcd89183079</id>
   <title>[ai] Project Glasswing: Anthropic deploys Claude Mythos to scan critical software, finds over 10,000 high-severity vulnerabilities in first month</title>
   <link href="https://www.anthropic.com/research/glasswing-initial-update"/>
@@ -343,8 +436,7 @@
     <p><a href="https://www.anthropic.com/research/glasswing-initial-update">Read original →</a></p>
   ]]></content>
   <category term="tech"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:41d60661584f162039c273cee0e94b7a910bae9f</id>
   <title>[tech law] Meta, Snap, TikTok, and YouTube all settle bellwether school-district mental health lawsuit days before June trial</title>
   <link href="https://therecord.media/meta-settles-school-district-lawsuit-mental-health"/>
@@ -359,8 +451,7 @@
     <p><a href="https://therecord.media/meta-settles-school-district-lawsuit-mental-health">Read original →</a></p>
   ]]></content>
   <category term="tech_law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:135f60569c5b23084d00ffd5d7a976ef14591766</id>
   <title>[cybersecurity] FBI warns of Kali365 phishing-as-a-service that defeats Microsoft 365 MFA via OAuth token hijacking</title>
   <link href="https://therecord.media/fbi-warns-of-kali365-phishing-attacks"/>
@@ -375,8 +466,7 @@
     <p><a href="https://therecord.media/fbi-warns-of-kali365-phishing-attacks">Read original →</a></p>
   ]]></content>
   <category term="tech_law"/>
-</entry>
-<entry>
+</entry><entry>
   <id>tag:mhsezgin.github.io,2026:item:909338c1558ee2aa919c2a3947f71296b6a46e6b</id>
   <title>[global politics] Tulsi Gabbard resigns as Director of National Intelligence, citing husband's bone cancer diagnosis</title>
   <link href="https://www.bbc.com/news/articles/cvgj2gkv1x1o"/>
@@ -391,120 +481,5 @@
     <p><a href="https://www.bbc.com/news/articles/cvgj2gkv1x1o">Read original →</a></p>
   ]]></content>
   <category term="global_politics"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:item:120c889fdd492053e1d87b4b8eba8f0b9989c95f</id>
-  <title>[global politics] Putin vows retaliation after 16-drone Ukraine strike kills six in Luhansk — Russia calls it a dormitory, Ukraine says it was Russia's elite Rubicon drone unit HQ</title>
-  <link href="https://www.bbc.com/news/articles/c5y74lwx395o"/>
-  <updated>2026-05-23T07:44:00Z</updated>
-  <author><name>bbc.com</name></author>
-  <summary>Russian President Vladimir Putin vowed retaliation and ordered military planners to prepare response options after Ukraine launched a 16-drone overnight strike killing six and wounding 39 at a building in Starobilsk, occupied Luhansk — Russia called it a student dormitory; Ukraine identified it as the command post of Russia's elite Rubicon drone warfare unit responsible for repeated civilian strikes inside Ukraine.</summary>
-  <content type="html"><![CDATA[
-    <p><a href="https://www.bbc.com/news/articles/c5y74lwx395o"><strong>📰 Read full article →</strong></a></p>
-    <p><strong>Russian President Vladimir Putin vowed retaliation and ordered military planners to prepare response options after Ukraine launched a 16-drone overnight strike killing six and wounding 39 at a building in Starobilsk, occupied Luhansk — Russia called it a student dormitory; Ukraine identified it as the command post of Russia's elite Rubicon drone warfare unit responsible for repeated civilian strikes inside Ukraine.</strong></p>
-    <p>The overnight May 22-23 attack deployed 16 drones against a building in Starobilsk, a city in Russian-occupied Luhansk region. Russia's Defense Ministry reported six killed and 39 wounded, with 15 people still missing, describing the target as a student dormitory. Ukraine's military gave a sharply different account: the building was the operational headquarters of Russia's Rubicon unit — an elite drone-warfare formation that Ukraine accused of regularly planning and executing drone attacks on Ukrainian civilian infrastructure, including power stations, hospitals, and residential areas. Ukraine did not confirm or deny that the building also housed students. Putin made a public statement vowing retaliation at a government meeting and ordered the Defense Ministry to prepare "proposals" for a response — a formulation typically preceding a large-scale Russian strike operation. The attack took place during a period of intensified Ukrainian long-range drone pressure against Russian-occupied territory and Russian rear areas, including strikes on logistics depots and military infrastructure.</p>
-    <p><strong>Why it matters:</strong> Putin's public vow of named retaliation in response to a specific strike is a departure from Russia's typical pattern of escalating without officially acknowledging the Ukrainian provocation, suggesting this strike was politically significant enough — likely because it destroyed a high-value command-and-control node with senior Rubicon personnel casualties — to demand an explicit response. For Ukrainian military planners, targeting Russia's drone command infrastructure is consistent with a doctrine of degrading the precision and coordination of attacks on Ukrainian civilians; the operational challenge is that a successful HQ strike will almost certainly invite a Russian mass-casualty retaliatory attack on Ukrainian cities, energy infrastructure, or hospitals. The legal dispute over the target's classification matters for international humanitarian law: if the building was a functioning military headquarters, Ukraine's strike was lawful under the laws of armed conflict; if it also housed civilian students without adequate warning, it raises proportionality questions under Additional Protocol I. NATO allies monitoring Putin's retaliatory follow-through will assess its scale and targeting as a signal of whether Russia is managing escalation boundaries or has entered a new phase of deliberate civilian harm; a disproportionate response will renew European pressure to authorize longer-range weapons for Ukraine. The pattern of mutual long-range drone escalation has steadily raised the tactical ceiling of the conflict since early 2025, with each successful strike on HQ infrastructure accelerating the cycle.</p>
-    <p><a href="https://www.bbc.com/news/articles/c5y74lwx395o">Read original →</a></p>
-  ]]></content>
-  <category term="global_politics"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:item:0f59586c346b27bd062e45609fd05390d5c6a99f</id>
-  <title>[global politics] Senegal President Faye sacks Prime Minister Ousmane Sonko and dissolves government after 14 months of policy conflict</title>
-  <link href="https://www.bbc.com/news/articles/c202jwpd24go"/>
-  <updated>2026-05-23T09:50:00Z</updated>
-  <author><name>bbc.com</name></author>
-  <summary>Senegalese President Bassirou Diomaye Faye dismissed Prime Minister Ousmane Sonko and dissolved the entire government on May 22, 2026, ending a structurally unstable diarchy in which Faye governed alongside the popular Pastef leader who had essentially created the presidency for him, after months of conflict over IMF debt restructuring, fuel prices, and Sonko's unilateral revocation of 71 mining licenses.</summary>
-  <content type="html"><![CDATA[
-    <p><a href="https://www.bbc.com/news/articles/c202jwpd24go"><strong>📰 Read full article →</strong></a></p>
-    <p><strong>Senegalese President Bassirou Diomaye Faye dismissed Prime Minister Ousmane Sonko and dissolved the entire government on May 22, 2026, ending a structurally unstable diarchy in which Faye governed alongside the popular Pastef leader who had essentially created the presidency for him, after months of conflict over IMF debt restructuring, fuel prices, and Sonko's unilateral revocation of 71 mining licenses.</strong></p>
-    <p>Bassirou Diomaye Faye and Ousmane Sonko rose together from the Pastef party after Sonko was barred from the March 2024 presidential election due to a defamation conviction; Faye, released from detention and running in Sonko's place, won with 54 percent of the vote and installed Sonko as prime minister. The arrangement created an unusual dual-authority structure: Faye held formal executive power while the more politically prominent Sonko remained the face of the movement for much of the public. Relations deteriorated sharply over specific policy disputes. Senegal carries an estimated $13 billion in external debt; Sonko publicly opposed the IMF-recommended restructuring approach while Faye signaled more openness to creditor terms. Sonko blocked Finance Minister Cheikh Diba's request to raise fuel prices. Most consequentially, in March 2026 Sonko unilaterally declared a BP gas contract for the Greater Tortue Ahmeyim offshore LNG project "unfair" and moved to revoke 71 mining licenses — major investor-relations actions that Faye had not sanctioned and that created serious legal uncertainty for foreign companies including Woodside Energy. The outgoing government was charged with day-to-day affairs pending a new prime minister appointment.</p>
-    <p><strong>Why it matters:</strong> The rupture resolves the immediate governance crisis but opens new uncertainties: the 71 mining license revocations Sonko ordered remain in legal limbo, with foreign companies holding those licenses unsure whether Faye will reverse, uphold, or renegotiate Sonko's decisions. The IMF debt restructuring question — which underpins Senegal's economic stability and its ability to attract investment in a nascent oil sector — will depend heavily on who Faye appoints as the new prime minister and what mandate that person receives. For Senegal's emerging offshore energy sector, which represents the country's primary path to middle-income status by 2030, investor confidence in regulatory stability is now the central question; Woodside Energy and other licence holders will be seeking direct assurances within days. The political split within Pastef — which functioned as a coherent reform movement throughout its years in opposition — creates a party fracture that could weaken Faye's electoral position ahead of local elections expected later in 2026. The broader West African pattern of president-PM conflicts (seen also in Burkina Faso, Niger, and Mali, though through more violent means) suggests that the diarchy model is inherently unstable when the PM commands a distinct political base, a lesson that has implications for how future coalition governments in the region structure executive authority.</p>
-    <p><a href="https://www.bbc.com/news/articles/c202jwpd24go">Read original →</a></p>
-  ]]></content>
-  <category term="global_politics"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:item:bc40eb5419ee52898d61dde8bc5832da41b1b06c</id>
-  <title>[global politics] France 2027: former PM Edouard Philippe leads centrist polls at 19.5%, positioned as primary establishment alternative to far-right Bardella</title>
-  <link href="https://www.bbc.com/news/articles/c4g0410gnv5o"/>
-  <updated>2026-05-22T23:07:00Z</updated>
-  <author><name>bbc.com</name></author>
-  <summary>Former French Prime Minister Edouard Philippe has formally entered the April 2027 presidential race and leads centrist first-round polls at approximately 19.5 percent, positioning himself as the primary establishment alternative to far-right National Rally candidate Jordan Bardella, who leads projections at roughly 24 percent in what would be the most consequential French election since 1968.</summary>
-  <content type="html"><![CDATA[
-    <p><a href="https://www.bbc.com/news/articles/c4g0410gnv5o"><strong>📰 Read full article →</strong></a></p>
-    <p><strong>Former French Prime Minister Edouard Philippe has formally entered the April 2027 presidential race and leads centrist first-round polls at approximately 19.5 percent, positioning himself as the primary establishment alternative to far-right National Rally candidate Jordan Bardella, who leads projections at roughly 24 percent in what would be the most consequential French election since 1968.</strong></p>
-    <p>France faces its April 2027 presidential election with a centrist bloc that has failed to consolidate behind a single candidate since Emmanuel Macron's constitutional disqualification by term limits. Philippe served as prime minister under Macron from 2017 to 2020 and has since been mayor of Le Havre, where he won reelection by a wide margin in 2026, establishing a track record of executive competence independent of the Macron brand. His formal campaign entry puts him at approximately 19.5 percent in first-round polling, making him the highest-polling centrist or center-right candidate. Jordan Bardella, the 29-year-old leader of Marine Le Pen's National Rally who increasingly defines the far-right movement, leads at approximately 24 percent. Jean-Luc Mélenchon's La France Insoumise polls at roughly 10.5 percent. Prediction markets currently price Bardella as the frontrunner, with Philippe as the second-most-likely winner at around 20 percent. The French two-round system means the decisive question is whether the center, center-left, and traditional Gaullists can consolidate to defeat Bardella in the likely runoff — and whether Macron's political machine will actively support Philippe or pursue a different candidate.</p>
-    <p><strong>Why it matters:</strong> A Bardella presidency would represent the first far-right French government since the Vichy regime, with direct implications for NATO's Article 5 commitments, EU governance and decision-making, French judicial independence, and France's permanent UN Security Council seat — making this the most watched European election of 2027 for both democratic institutions and transatlantic security. Philippe's polling position makes him the nominal establishment favorite, but the centrist bloc remains fragmented: multiple center and center-right figures are still in the race, and historical fragmentation in first rounds has consistently understated NR support by allowing the far-right to consolidate while center-left and center-right split their vote. For the EU institutional framework — which has already navigated Hungary's Viktor Orbán and Italy's Giorgia Meloni — a French RN presidency would represent a far larger structural shock given France's weight in qualified majority voting, its leadership in EU defense initiatives, and its role in Ukraine support. Watch for Macron to use his remaining 18 months to shape the political landscape in Philippe's favor — potentially through cabinet appointments or electoral-reform proposals — while the NR deploys its by now well-developed strategy of appearing governmentally competent to moderates while maintaining its core activist base through cultural-identity politics.</p>
-    <p><a href="https://www.bbc.com/news/articles/c4g0410gnv5o">Read original →</a></p>
-  ]]></content>
-  <category term="global_politics"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:item:5cc2fea946baeb22bb911b5fc05007f2daeb522f</id>
-  <title>[law] A history of Supreme Court leaks: from 1850s bond traders to the 2026 Clean Power Plan memo, a pattern no investigation has solved</title>
-  <link href="https://www.scotusblog.com/2026/05/a-history-of-supreme-court-leaks/"/>
-  <updated>2026-05-22T13:30:00Z</updated>
-  <author><name>scotusblog.com</name></author>
-  <summary>A SCOTUSblog historical survey by Amy Howe documents that the Supreme Court has suffered significant internal leaks approximately once per decade since the 1850s — from a 1920 law clerk indicted for tipping bond traders on the Southern Pacific Railroad decision, through the 1973 Roe v. Wade pre-announcement, to Politico's 2022 Dobbs draft and the New York Times' April 2026 Clean Power Plan internal memos — and that the Court's post-Dobbs investigation failed to identify any responsible party.</summary>
-  <content type="html"><![CDATA[
-    <p><a href="https://www.scotusblog.com/2026/05/a-history-of-supreme-court-leaks/"><strong>📰 Read full article →</strong></a></p>
-    <p><strong>A SCOTUSblog historical survey by Amy Howe documents that the Supreme Court has suffered significant internal leaks approximately once per decade since the 1850s — from a 1920 law clerk indicted for tipping bond traders on the Southern Pacific Railroad decision, through the 1973 Roe v. Wade pre-announcement, to Politico's 2022 Dobbs draft and the New York Times' April 2026 Clean Power Plan internal memos — and that the Court's post-Dobbs investigation failed to identify any responsible party.</strong></p>
-    <p>Howe's survey traces the practice of confidential Supreme Court information reaching external parties from the 1850s, when the New York Tribune reported outcomes in a Pennsylvania bridge company dispute, through a 1920 incident in which a law clerk was indicted for leaking Southern Pacific Railroad decision results to bond investors — an early example of information asymmetry being monetized. The 1972 Washington Post article disclosed internal vote tallies and Chief Justice Burger's efforts to delay Roe v. Wade deliberations; Time magazine published the Roe decision results in 1973 before the official announcement. In 2012, CBS News reported Chief Justice Roberts switched his position on the Affordable Care Act; in 2019, CNN reported he switched votes on the census citizenship question. The most consequential modern leak was Politico's May 2022 publication of Justice Samuel Alito's full draft majority opinion in Dobbs v. Jackson Women's Health — which ultimately overruled Roe — triggering protests and an assassination attempt against Justice Kavanaugh. The Court's marshal conducted what Howe describes as the most intensive investigation in the institution's history, yet to date has been "unable to identify a person responsible." The April 2026 New York Times publication of confidential internal memos regarding the Court's 2016 blocking of Obama's Clean Power Plan is the most recent episode — a decade-old case, yet someone retained access to and motivation to disclose its deliberative records.</p>
-    <p><strong>Why it matters:</strong> The survey is timely because it places the April 2026 Clean Power Plan disclosure in a documented pattern of institutional failure rather than as an isolated anomaly — and because the Court's post-Dobbs security reforms did not prevent another significant leak within four years. The inability to identify the Dobbs source after the most intensive investigation in the Court's history suggests either that the leak originated from sources the investigation was structurally unable to reach, or that the confidentiality culture within the institution has changed in ways that internal investigations cannot reverse. Justice Gorsuch's public statement that the Court needs "room for candid conversations" implicitly acknowledges that the Dobbs leak has already altered how justices communicate internally, with potential long-term effects on deliberation quality and the candor of chambers-to-chambers exchanges. For Rep. Raskin's shadow-docket transparency legislation — introduced just this week — the leak history is a double-edged argument: if the Court cannot control what leaves informally, mandating formal transparency might be the only reliable mechanism for accountability, but it also suggests the institution is far less monolithic than its public posture implies. The April 2026 Clean Power Plan memo disclosure is particularly significant because it involves decade-old deliberative records, raising unresolved questions about who retains access to historical case materials and why they would choose to disclose them in 2026.</p>
-    <p><a href="https://www.scotusblog.com/2026/05/a-history-of-supreme-court-leaks/">Read original →</a></p>
-  ]]></content>
-  <category term="law"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:item:65e84051c1f096f4f08e38e57b71032f4330aa5f</id>
-  <title>[law] Taiwan's Constitutional Court paralyzed for 18 months as opposition blocks all presidential nominees — a legislated deadlock with direct implications for democratic resilience</title>
-  <link href="https://verfassungsblog.de/a-perfect-constitutional-storm/"/>
-  <updated>2026-05-22T20:55:00Z</updated>
-  <author><name>verfassungsblog.de</name></author>
-  <summary>Taiwan's Constitutional Court has been effectively paralyzed since October 2024 because opposition parties controlling the legislature have rejected all of President Lai Ching-te's judicial nominees and legislated a 10-justice quorum threshold the eight seated justices cannot meet — a deliberate constitutional deadlock that eliminates judicial review of executive and legislative action at a moment of acute cross-strait security tension.</summary>
-  <content type="html"><![CDATA[
-    <p><a href="https://verfassungsblog.de/a-perfect-constitutional-storm/"><strong>📰 Read full article →</strong></a></p>
-    <p><strong>Taiwan's Constitutional Court has been effectively paralyzed since October 2024 because opposition parties controlling the legislature have rejected all of President Lai Ching-te's judicial nominees and legislated a 10-justice quorum threshold the eight seated justices cannot meet — a deliberate constitutional deadlock that eliminates judicial review of executive and legislative action at a moment of acute cross-strait security tension.</strong></p>
-    <p>Taiwan's Constitutional Court nominally has 15 grand justices with staggered eight-year terms; seven retired in October 2024, leaving eight seated. The opposition Kuomintang (KMT) and Taiwan People's Party (TPP), which together hold a legislative majority, exploited this vacancy by passing amendments to the Constitutional Court Procedure Act raising the minimum deliberation quorum from eight to ten justices and requiring nine votes to invalidate any law — thresholds the eight remaining justices cannot satisfy. President Lai Ching-te submitted a first list of seven nominees in December 2024; the legislature rejected all seven on December 24. He submitted a second list in July 2025; all were rejected again. The legislature simultaneously refused to review the central government's 2026 annual budget, forcing the executive to operate under prior-year appropriations — a fiscal deadlock compounding the judicial one. In May 2026, a KMT lawmaker and the Presidential Office Secretary-General publicly traded accusations over the impasse, with no constitutional mechanism available to break the cycle. Constitutional law scholar Ming-Sung Kuo at the University of Warwick describes the situation as a "constitutional grey hole": the mechanism designed to resolve constitutional disputes has itself been disabled through constitutionally permissible means.</p>
-    <p><strong>Why it matters:</strong> A constitutional court that cannot convene is not merely an institutional inconvenience — it is a structural vulnerability with direct implications for Taiwan's capacity to respond legally to emergency legislation, to adjudicate separation of powers disputes, and to constrain any government overreach during a crisis. Taiwan faces a security environment in which China regularly tests its response capacity; constitutional paralysis means any Taiwan government action during a cross-strait provocation — emergency security decrees, mobilization orders, emergency budgetary authority — cannot be challenged or constrained judicially, removing a key institutional check at the moment it is most needed. The opposition's tactic is internally consistent within democratic proceduralism — they used their legislative majority to change quorum rules, then refused nominees who would break the deadlock — which is precisely what makes it so effective as a democratic-backsliding technique: it produces the outcome of constitutional paralysis without the visibility of formally abolishing the court. This "grey hole" approach is increasingly observed globally, from Poland's Sejm to Hungary's Kúria, and Taiwan's version is notable because it is being deployed by opposition parties worried about executive overreach rather than by a ruling party consolidating power — yet the constitutional effect is identical. For US, Japanese, and EU partners who assess Taiwan's democratic resilience as a component of cross-strait deterrence credibility, the judicial deadlock is a deteriorating institutional indicator that adversaries can exploit rhetorically.</p>
-    <p><a href="https://verfassungsblog.de/a-perfect-constitutional-storm/">Read original →</a></p>
-  ]]></content>
-  <category term="law"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:item:cfc900a77a1e1cef250300760cb27a183c783810</id>
-  <title>[tech] SpaceX launches Starship V3 on inaugural test flight, achieves soft Indian Ocean landing despite multiple engine anomalies</title>
-  <link href="https://www.bbc.com/news/articles/c62d65y16nno"/>
-  <updated>2026-05-23T03:53:00Z</updated>
-  <author><name>bbc.com</name></author>
-  <summary>SpaceX successfully launched Starship Version 3 on its inaugural test flight on May 23, 2026 — the 12th overall Starship integrated flight test — achieving a soft Indian Ocean splashdown within the targeted zone despite one booster Raptor engine shutdown and multiple booster relighting failures, validating the completely redesigned next-generation architecture's basic flight viability.</summary>
-  <content type="html"><![CDATA[
-    <p><a href="https://www.bbc.com/news/articles/c62d65y16nno"><strong>📰 Read full article →</strong></a></p>
-    <p><strong>SpaceX successfully launched Starship Version 3 on its inaugural test flight on May 23, 2026 — the 12th overall Starship integrated flight test — achieving a soft Indian Ocean splashdown within the targeted zone despite one booster Raptor engine shutdown and multiple booster relighting failures, validating the completely redesigned next-generation architecture's basic flight viability.</strong></p>
-    <p>Starship V3 is SpaceX's complete redesign of the Super Heavy Booster and Ship combination, featuring new Raptor 3 engines, upgraded heat shield tiles, and structural changes designed to enable rapid turnaround times and full reusability with a target payload capacity of 100 metric tons to low Earth orbit. The mission, Integrated Flight Test-12, launched on schedule at 5:30 PM Central Time from Starbase, Texas after an earlier scrub on May 21. The Super Heavy booster's 33 Raptor engines ignited normally, but one engine shut down early during ascent; multiple booster engines required for the planned soft Gulf of Mexico splashdown failed to relight, resulting in a harder-than-designed booster water landing. The Ship stage's Raptor Vacuum engine shut down less than one minute after ignition. Despite these anomalies, SpaceX achieved its primary mission objective: Starship (Ship) completed its full trajectory and conducted a landing burn using its remaining operational engines, achieving a comparatively soft Indian Ocean splashdown within the targeted impact zone. SpaceX's concurrent IPO S-1 filing — valuing the company at over $180 billion — makes V3 technical and schedule performance directly material to investor assessments.</p>
-    <p><strong>Why it matters:</strong> Starship V3's first flight with partial success demonstrates that the fundamental new architecture is flight-viable even before engine reliability reaches design specification, following SpaceX's deliberate test-to-learn philosophy of accepting anomalies to gather flight data rapidly. NASA's Artemis program has contracted a Starship HLS (Human Landing System) variant for the crewed lunar surface mission; every V3 test directly affects the timeline for returning Americans to the Moon, with the 2028 crewed landing target already under schedule pressure. The 100-metric-ton fully reusable payload capacity, if achieved, would reduce cost-per-kilogram to orbit by a factor of 5-10 compared to Falcon Heavy — transforming the economics of large military satellite constellations, commercial space manufacturing, and deep-space mission architecture in ways that make current space defense planning assumptions obsolete. The simultaneous IPO process means SpaceX is now managing the tension between the iterative-test transparency that has driven its technical success and the investor-communications discipline that a public company requires — a tension that will define how the company reports future test anomalies. China's CNSA has accelerated its Long March 9 heavy-lift development program explicitly in response to Starship's demonstrated capabilities; each successful test compresses the timeline pressure on China's lunar ambitions and influences US and Chinese counterspace planning.</p>
-    <p><a href="https://www.bbc.com/news/articles/c62d65y16nno">Read original →</a></p>
-  ]]></content>
-  <category term="tech"/>
-</entry>
-<entry>
-  <id>tag:mhsezgin.github.io,2026:summary:2026-05-22-1900</id>
-  <title>[summary] 2026-05-22 19:00</title>
-  <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
-  <updated>2026-05-22T19:00:00Z</updated>
-  <author><name>news-feed-agent</name></author>
-  <summary>Digest for 2026-05-22 19:00 UTC: SCOTUS rules unanimously on ERISA pension withdrawal liability (M&amp;K Employee Solutions); Rep. Raskin introduces shadow-docket transparency bill as Justice Jackson warns of eroding legitimacy; CISA contractor Nightwing exposed agency AWS keys on GitHub for months, senators demand classified briefing; GitHub confirms 3,800 internal repos stolen via 18-minute Nx Console supply chain attack linked to TanStack and TeamPCP; EU AI Act Digital Omnibus pushes high-risk compliance deadline 16 months to December 2027 and adds NCII ban; SCOTUS Chatrie case could rewrite Fourth Amendment limits on geofence warrants affecting millions; Turkish court ousts CHP leader Özel, reinstalls Kılıçdaroğlu — Borsa Istanbul drops 6%; WHO raises Ebola risk in DR Congo to 'very high' with 177 suspected deaths and no approved vaccine for Bundibugyo strain.</summary>
-  <content type="html"><![CDATA[
-    <h2>law</h2>
-    <p>The Supreme Court ruled unanimously in M&amp;K Employee Solutions v. IAM National Pension Fund that ERISA actuaries may apply current interest-rate assumptions when calculating employer withdrawal liability — not rates locked to the prior year's measurement date. The decision, authored by Justice Ketanji Brown Jackson, resolved a circuit split with direct consequences for employers considering exit from underfunded multiemployer plans, where even a 1% interest-rate change can triple a withdrawal bill. Separately, Representative Jamie Raskin introduced legislation requiring the Court to publicly justify all shadow-docket emergency orders within seven days, as Justice Jackson warned that unexplained interventions are eroding public confidence — her criticism made more concrete by the Court's unusual acceleration of its Voting Rights Act ruling finalization this term.</p>
-
-    <h2>tech_law</h2>
-    <p>A government contractor called Nightwing disabled GitHub's built-in credential protections and published CISA AWS GovCloud keys, CI/CD tokens, and RSA private keys to a public repository that stayed live from November 2025 until mid-May 2026; AWS keys remained valid for two days after CISA was notified. Senators Maggie Hassan demanded a classified briefing by June 5. Separately, TeamPCP breached GitHub's internal codebase via a poisoned Nx Console VS Code extension that was live for just 18 minutes on May 18; approximately 3,800 internal repositories were exfiltrated in a cascading attack connected to the earlier TanStack npm compromise that also hit OpenAI, Mistral AI, and Grafana Labs. On the regulatory front, the EU's AI Act Digital Omnibus deal extends the main high-risk compliance deadline by 16 months to December 2027 while adding a new prohibition on AI-generated non-consensual intimate imagery effective December 2026, and concentrates enforcement of GPAI-integrated systems in the EU AI Office. The Supreme Court's pending Chatrie ruling — the first digital Fourth Amendment case since Carpenter 2018 — will determine whether geofence warrants compelling Google to expose location data for every person near a crime scene are constitutional; a ruling permitting them could also authorize reverse-keyword searches across cloud platforms.</p>
-
-    <h2>global_politics</h2>
-    <p>An Ankara court annulled the CHP's 2023 leadership congress, ousting opposition leader Özgür Özel and reinstating defeated former chair Kemal Kılıçdaroğlu in what the CHP called an "attempted coup"; Borsa Istanbul dropped 6% on the news. Turkey's main opposition party has already seen Istanbul Mayor İmamoğlu imprisoned for over a year. The WHO raised Ebola risk in DR Congo to "very high" nationally after the PHEIC declaration of May 17, with nearly 750 suspected cases and 177 suspected deaths against only 82 confirmed — a gap indicating the Bundibugyo-strain outbreak is far larger than detection is capturing. No licensed vaccine or treatment exists for Bundibugyo Ebola, unlike the Zaire strain that drove recent containable outbreaks.</p>
-  ]]></content>
-  <category term="summary"/>
 </entry>
 </feed>
