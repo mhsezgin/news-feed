@@ -2093,6 +2093,54 @@
       "url": "https://www.bbc.com/news/articles/cedpz9669deo",
       "title_hash": "f06846e8498229cc20fcac70e92b4b054715e8b9",
       "ts": "2026-05-23T18:43:26Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-24-1038",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "af6e1b9767f2f31fa16c232c550183e6288a6c99",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:10d491e134380975a1a4fd106656c2ef2fec6d55",
+      "url": "https://www.scotusblog.com/2026/05/court-rules-against-cruise-lines-in-cuban-confiscation-case/",
+      "title_hash": "1666aed82fc5f4a1c417b311045cc59bc6304cdd",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:8f91bd152141e1832c96a2540a99a0ba15f38da5",
+      "url": "https://www.cbsnews.com/news/supreme-court-major-cases-2026/",
+      "title_hash": "74a85df27d68bfc89ebf371f6c7f401e54245475",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e82a40e24874536007a4272e1c1dd643a5aebcfa",
+      "url": "https://therecord.media/canadian-man-arrested-charged-running-kimwolf-botnet",
+      "title_hash": "47d6ad357a21a390dc628c2c2c50cf4b0aad980d",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d6a5d4f63a420bd93987e33207ff492a9a2238cc",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "title_hash": "0ebb55c47df235118eee7cb0d6542a48e9ff78be",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:0a489d5b24fad40d7a60bd70262e9c347a9c6488",
+      "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear",
+      "title_hash": "6cfdcf2ca899cb15f9f737b8c91b2291c0e5ac98",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1186f3259c1d5bcf3e2e2fd498827bc8db8d1743",
+      "url": "https://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
+      "title_hash": "b29753a259bf713912007873ad83cff1cc7450d2",
+      "ts": "2026-05-24T10:38:08Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:801ce9cfa73f40d649a13b42755ffe4b1ef14f0a",
+      "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people",
+      "title_hash": "543b10ffb1d2392fe9d03a92d15243c4fa3e2686",
+      "ts": "2026-05-24T10:38:08Z"
     }
   ]
 }
