@@ -2225,6 +2225,48 @@
       "url": "https://verfassungsblog.de/more-than-a-trade-route-hormuz/",
       "title_hash": "f7e662059603505984bc72a6aaf76cc692873cb3",
       "ts": "2026-05-25T10:46:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-05-25-1800",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "12cbfcd650027d6c685217e2a7667068aeaf0209",
+      "ts": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "title_hash": "b79cd80331119889cafc006dcc6144d47946da0d",
+      "ts": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:adaae4564842960db6a9342f221b33ea6177aa7e",
+      "url": "https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm",
+      "title_hash": "1d7634c051da32d34427a2a9df6ea1f9d836720e",
+      "ts": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:0fd786ec42904b76f958464d54a4d3c4d46be0b3",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-deal-obstacles-remain/",
+      "title_hash": "a6a6f6c6b28fbc73461a4fd69076eb25d0e7ec32",
+      "ts": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a8723dfc7eb4c31563deef302b726a7335454e70",
+      "url": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes",
+      "title_hash": "de4676ad539f6bdf4f436672ee7dd4b238d6801b",
+      "ts": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:569a2f5976ec350d35d94edb04213b352cee558e",
+      "url": "https://verfassungsblog.de/unfreezing-eu-funds-without-melting-the-rule-of-law/",
+      "title_hash": "194ee1b7a2d85afbd368b072c1ebff5cb798492d",
+      "ts": "2026-05-25T18:00:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:5223d229f067d498ba7fd612be0ba40bfa0dbf02",
+      "url": "https://www.dfs.ny.gov/industry-guidance/industry-letters/20260521-heightened-cybersecurity-risks-assoc-with-frontier-ai-models",
+      "title_hash": "a7f6ff51c64ad342c942b1b4a77cc1775656620d",
+      "ts": "2026-05-25T18:00:00Z"
     }
   ]
 }

@@ -4,7 +4,133 @@
   <subtitle>Curated law, tech law, global politics, and tech news. Twice daily.</subtitle>
   <link rel="self" href="https://mhsezgin.github.io/news-feed/feed.xml" />
   <id>tag:mhsezgin.github.io,2026:news-feed</id>
-  <updated>2026-05-25T10:46:00Z</updated>
+  <updated>2026-05-25T18:00:00Z</updated>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:summary:2026-05-25-1800</id>
+  <title>[summary] 2026-05-25 18:00</title>
+  <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
+  <updated>2026-05-25T18:00:00Z</updated>
+  <author><name>news-feed-agent</name></author>
+  <summary>Digest for 2026-05-25 18:00 UTC: Netherlands seizes 804 servers tied to Russian hybrid-warfare hosting; Anthropic closing $30B round at $900B valuation to surpass OpenAI; Iran-US peace MoU near signing with Rubio hinting at announcement by Monday; Russia announces systematic Kyiv drone-industry strikes and tells foreigners to leave; Verfassungsblog warns EU funds release to Hungary risks court invalidation; NY DFS warns frontier AI is reshaping the cybersecurity threat landscape for 3,000+ regulated financial firms.</summary>
+  <content type="html"><![CDATA[
+    <h2>law</h2>
+<p>No new SCOTUS opinions today. The most consequential legal development is from Europe: a Verfassungsblog piece argues the European Commission risks having its decision to release frozen EU funds to post-Orbán Hungary invalidated by the Court of Justice of the EU, which is about to rule in Case C-225/24. The Advocate-General sided with Parliament in April 2026, finding that the Commission's discretion to unfreeze funds is more constrained than Brussels had claimed. Hungary faces an August 31 Recovery and Resilience Facility deadline, creating time pressure that may clash with judicial process and undermine the rule-of-law conditionality framework.</p>
+
+    <h2>tech_law / cybersecurity</h2>
+<p>Two notable developments. Dutch financial crime authorities (FIOD) arrested two men and seized 804 servers on May 18, dismantling the hosting infrastructure behind EU-sanctioned Stark Industries Solutions, which supplied staging infrastructure for pro-Russian DDoS attacks across Europe. Separately, New York DFS issued an industry letter on May 21 warning its 3,000+ regulated financial institutions that frontier AI models have materially compressed the time attackers need to discover and exploit unpatched vulnerabilities—implicitly raising the compliance baseline under New York's Part 500 cybersecurity regulation without creating new formal requirements.</p>
+
+    <h2>global_politics</h2>
+<p>The Iran-US peace deal appears closer than at any point since the war began: Secretary of State Rubio hinted at a signing "as soon as Monday," and negotiators are working from a 14-point memorandum of understanding that includes reopening the Strait of Hormuz within 30 days, disposing of Iran's highly enriched uranium stockpile through a mutually agreed mechanism, and a 60-day window for nuclear negotiations. Oil prices fell sharply on May 25 in anticipation. Qatar and Pakistan are mediating; Iranian officials simultaneously cautioned that "frequent changes in U.S. positions" complicate the timeline. In Ukraine, Russia's Foreign Ministry announced systematic strikes on Kyiv's drone design and manufacturing facilities and urged all foreign nationals—including diplomats—to evacuate the capital, following a Ukrainian drone strike on an occupied Starobilsk dormitory that killed 18 people. Russia deployed its nuclear-capable Oreshnik hypersonic missile against Kyiv for the third time in the conflict.</p>
+
+    <h2>tech / ai</h2>
+<p>Anthropic is closing a $30 billion funding round at a valuation exceeding $900 billion this week, vaulting past OpenAI's $852 billion mark to become the world's most valuable private AI company. The round is co-led by Sequoia Capital, Dragoneer, Altimeter, and Greenoaks Capital Partners. Anthropic's annualized revenue run rate is projected to surpass $50 billion by end of June 2026, driven primarily by Claude Code and enterprise adoption—over 1,000 businesses now spend more than $1 million annually on Anthropic's services. Both Anthropic and OpenAI are on parallel tracks toward public markets, targeting October and September 2026 IPOs respectively.</p>
+
+  ]]></content>
+  <category term="summary"/>
+</entry>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:item:9180696aa4788b0b2cc3ec55e64f2688433c1cd4</id>
+  <title>[cybersecurity] Netherlands seizes 800 servers, arrests two for aiding Russian cyberattacks</title>
+  <link href="https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"/>
+  <updated>2026-05-25T13:21:00Z</updated>
+  <author><name>krebsonsecurity.com</name></author>
+  <summary>Dutch authorities arrested two men and seized 804 servers on May 18, 2026, dismantling hosting infrastructure that provided network access to EU-sanctioned Stark Industries Solutions, a Russian intelligence-linked provider behind pro-Russian DDoS attacks on European targets including Danish government bodies during the 2025 municipal elections.</summary>
+  <content type="html"><![CDATA[
+    <p><a href="https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"><strong>📰 Read full article →</strong></a></p>
+    <p><strong>Dutch authorities arrested two men and seized 804 servers on May 18, 2026, dismantling hosting infrastructure that provided network access to EU-sanctioned Stark Industries Solutions, a Russian intelligence-linked provider behind pro-Russian DDoS attacks on European targets including Danish government bodies during the 2025 municipal elections.</strong></p>
+    <p>The Dutch Tax Intelligence and Investigation Service (FIOD) conducted the operation targeting Andrey Nesterenko, 39, a Russian national operating MIRhosting from the Netherlands, and Youssef Zinad, 57, from Amsterdam, whose company WorkTitans BV funneled internet connectivity to EU-sanctioned Stark Industries Solutions. Both men are charged with violating EU sanctions law by directly or indirectly making economic resources available to EU-sanctioned entities. The operation uncovered a deliberate layering structure: when PQHosting—run by the Neculiti brothers from Moldova—was sanctioned by the EU in May 2025, the network's assets migrated to a new entity called the[.]hosting under WorkTitans while maintaining connectivity exclusively through MIRhosting, effectively circumventing sanctions restrictions. Raids covered three business locations in Enschede and Almere, with 804 servers seized from data centers in Dronten and Schiphol-Rijk, along with laptops and mobile phones. Stark Industries Solutions has previously been described by security researchers as one of Europe's most prolific suppliers of DDoS-for-hire infrastructure to Russia-aligned threat actors.</p>
+    <p><strong>Why it matters:</strong> The case demonstrates that EU sanctions enforcement against Russian cyber-proxies has matured from asset freezes to active infrastructure seizures, raising the cost for shadow-hosting operations that support Moscow's intelligence agencies and influence operations. Dutch cybersecurity analysts determined that WorkTitans and MIRhosting networks were the most-used networks in pro-Russian attacks on Danish government bodies during Denmark's November 2025 municipal elections—illustrating how private hosting firms can become force multipliers for state-backed election interference. The operation also exposes a structural vulnerability in sanctions regimes: Russia's cyber-proxy ecosystem rapidly reconstitutes around new legal entities when original nodes are designated, requiring enforcement agencies to track beneficial ownership chains across multiple shell companies and jurisdictions. If convicted, both defendants face criminal penalties under EU sanctions enforcement frameworks; the case sets a precedent for treating hosting providers as active participants in sanctioned activity rather than passive infrastructure suppliers, which could deter future operators from accepting sanctioned clients.</p>
+    <p><a href="https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/">Read original →</a></p>
+  ]]></content>
+  <category term="tech_law"/>
+</entry>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:item:adaae4564842960db6a9342f221b33ea6177aa7e</id>
+  <title>[ai] Anthropic set to close $30B round at $900B valuation, surpassing OpenAI as world's most valuable AI startup</title>
+  <link href="https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm"/>
+  <updated>2026-05-23T20:00:00Z</updated>
+  <author><name>techtimes.com</name></author>
+  <summary>Anthropic is closing a $30 billion funding round at a valuation exceeding $900 billion this week, vaulting past OpenAI's $852 billion mark to become the world's most valuable private AI company, with annualized revenue projected to surpass $50 billion by end of June 2026.</summary>
+  <content type="html"><![CDATA[
+    <p><a href="https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm"><strong>📰 Read full article →</strong></a></p>
+    <p><strong>Anthropic is closing a $30 billion funding round at a valuation exceeding $900 billion this week, vaulting past OpenAI's $852 billion mark to become the world's most valuable private AI company, with annualized revenue projected to surpass $50 billion by end of June 2026.</strong></p>
+    <p>The round is co-led by Sequoia Capital, Dragoneer Investment Group, Altimeter Capital, and Greenoaks Capital Partners, with Peter Thiel's Founders Fund and General Catalyst among returning investors, according to Bloomberg reporting from May 22, 2026. The transaction came together in a matter of weeks, reflecting extraordinary investor demand. Anthropic's ascent has been remarkably compressed: the company reached a $380 billion post-money valuation in February 2026 after a previous $30 billion raise, and is now set to surpass $900 billion—approximately a 15-fold increase in valuation in 14 months. Driving this growth is explosive revenue: Anthropic projected $10.9 billion in Q2 2026 revenue alone, more than double its Q1 figure of $4.8 billion, with management indicating an annualized run rate will surpass $50 billion by end of June. Claude Code, Anthropic's agentic AI coding tool launched in May 2025, reached $2.5 billion in annualized revenue by February 2026. Over 1,000 businesses now spend more than $1 million annually on Anthropic's services, with enterprise customers representing approximately 80 percent of total revenue.</p>
+    <p><strong>Why it matters:</strong> The $900 billion valuation benchmark matters because it puts Anthropic ahead of OpenAI at a moment when both companies are racing toward public markets—OpenAI targeting September 2026 and Anthropic eyeing October—meaning higher private-market valuations now directly influence IPO pricing, employee compensation, and competitive recruitment. For enterprise customers, Anthropic's combination of Amazon's $30+ billion commitment and Google's $40 billion pledge alongside new Sequoia-led capital signals that the company will not be capital-constrained in the model training arms race. The round is expected to be Anthropic's final private raise before going public; its successful close at this scale confirms that even near-trillion-dollar AI valuations are no longer speculative but are grounded in compounding revenue from real enterprise adoption. For the broader AI industry, the simultaneous race to the public markets by OpenAI and Anthropic—both within months of each other—will subject AI investment theses to unprecedented public scrutiny for the first time since the current generative AI boom began in late 2022.</p>
+    <p><a href="https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm">Read original →</a></p>
+  ]]></content>
+  <category term="tech"/>
+</entry>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:item:0fd786ec42904b76f958464d54a4d3c4d46be0b3</id>
+  <title>[global politics] Iran-US peace deal: 14-point MoU takes shape as Rubio hints at signing by month's end</title>
+  <link href="https://www.cbsnews.com/live-updates/iran-us-war-trump-deal-obstacles-remain/"/>
+  <updated>2026-05-25T15:00:00Z</updated>
+  <author><name>cbsnews.com</name></author>
+  <summary>U.S. Secretary of State Marco Rubio signaled a formal Iran peace agreement could be announced as soon as Monday, as negotiators work toward a 14-point memorandum of understanding that would reopen the Strait of Hormuz, dispose of Iran's highly enriched uranium stockpile, and establish a 60-day window for nuclear negotiations.</summary>
+  <content type="html"><![CDATA[
+    <p><a href="https://www.cbsnews.com/live-updates/iran-us-war-trump-deal-obstacles-remain/"><strong>📰 Read full article →</strong></a></p>
+    <p><strong>U.S. Secretary of State Marco Rubio signaled a formal Iran peace agreement could be announced as soon as Monday, as negotiators work toward a 14-point memorandum of understanding that would reopen the Strait of Hormuz, dispose of Iran's highly enriched uranium stockpile, and establish a 60-day window for nuclear negotiations.</strong></p>
+    <p>The draft MoU as described by regional officials includes several major provisions: Iran would reopen the Strait of Hormuz and restore pre-war shipping conditions within 30 days; both sides would declare a permanent end to military operations on all fronts, including Lebanon; Iran would reaffirm it will never develop nuclear weapons and agree to dispose of its approximately 900-pound stockpile of highly enriched uranium through a mutually agreed mechanism; and a 60-day ceasefire extension would follow, during which nuclear issues, missile programs, and proxy-group activities would be negotiated in detail. Sanctions relief and the unfreezing of Iranian financial assets would be calibrated to compliance milestones. Iran's Foreign Minister Abbas Araghchi and parliament speaker Mohammed Qalibaf traveled to Doha on May 25 to discuss outstanding issues with Qatari mediators, while Pakistan's army chief Asim Munir has served as a critical intermediary with both sides. President Trump characterized negotiations as "proceeding nicely" and emphasized he would either sign a great and meaningful agreement or reach no deal at all. Iranian officials simultaneously tempered expectations, warning that frequent changes in U.S. positions and internal contradictions complicate the timeline.</p>
+    <p><strong>Why it matters:</strong> The Strait of Hormuz carries approximately 20 to 21 percent of global oil trade, and its closure since the war's outbreak has contributed to sustained energy price volatility across Europe and Asia; oil prices fell sharply on May 25 in anticipation of a deal, illustrating the immediate economic stakes. A signed MoU would not resolve the nuclear question—that remains for the 60-day negotiation window—but would immediately reduce the risk premium baked into energy markets and create breathing room for a more comprehensive settlement. From a legal standpoint, any MoU with the United States would likely require Congressional notification under War Powers Resolution frameworks, and critics on multiple sides are already framing the nuclear-disposal mechanism as either inadequate (from Israeli and Republican hawk perspectives) or too invasive (from Iranian hardliners), setting up a ratification gauntlet. The June 2026 World Cup, for which Iran wants visa guarantees for its national team, is adding an unusual time-pressure variable to the negotiations that underscores how political symbolism intersects with the diplomacy of war termination.</p>
+    <p><a href="https://www.cbsnews.com/live-updates/iran-us-war-trump-deal-obstacles-remain/">Read original →</a></p>
+  ]]></content>
+  <category term="global_politics"/>
+</entry>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:item:a8723dfc7eb4c31563deef302b726a7335454e70</id>
+  <title>[global politics] Russia warns foreigners to leave Kyiv, announces systematic drone-industry strikes after Starobilsk attack</title>
+  <link href="https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes"/>
+  <updated>2026-05-25T17:00:00Z</updated>
+  <author><name>aljazeera.com</name></author>
+  <summary>Russia's Foreign Ministry announced a campaign of systematic strikes against Kyiv's drone design and manufacturing facilities on May 25, ordering foreign diplomats and international organizations to evacuate the Ukrainian capital after a Ukrainian drone attack on occupied Starobilsk killed 18 people and provided Moscow's stated justification for escalation.</summary>
+  <content type="html"><![CDATA[
+    <p><a href="https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes"><strong>📰 Read full article →</strong></a></p>
+    <p><strong>Russia's Foreign Ministry announced a campaign of systematic strikes against Kyiv's drone design and manufacturing facilities on May 25, ordering foreign diplomats and international organizations to evacuate the Ukrainian capital after a Ukrainian drone attack on occupied Starobilsk killed 18 people and provided Moscow's stated justification for escalation.</strong></p>
+    <p>The Russian Foreign Ministry stated that the decision to target specific locations involved in the design, production, programming, and preparation for the use of Ukrainian UAVs—as well as decision-making centers and command posts—came after a Ukrainian strike on May 22-23 hit a student dormitory in Russian-occupied Starobilsk in the Luhansk region, killing at least 18 people and wounding 42. Ukraine's military denied targeting civilians, asserting it struck an elite drone command unit billeted at the facility. Moscow labeled the attack "the last straw," framing escalation as justified retaliation. The announcement follows Russia's third use of its nuclear-capable Oreshnik hypersonic intermediate-range ballistic missile against Kyiv, deployed on the night of May 23-24, which struck approximately 300 sites across Kyiv and injured 87 people. Russian attacks following the threat killed at least four people and injured over 60 across eastern regions. Ukrainian Foreign Minister Andrii Sybiha dismissed Russia's evacuation warning as Russian blackmail, while over 70 foreign diplomats toured damaged Kyiv neighborhoods in a show of solidarity with Ukraine.</p>
+    <p><strong>Why it matters:</strong> Russia's explicit public warning to foreign nationals—including diplomatic personnel—to leave Kyiv is an unusually direct escalation signal that raises legal and diplomatic stakes by placing a forewarning on record, which Moscow could use to claim future civilian casualties in Kyiv were the result of people who chose not to heed the warning. The deployment of the Oreshnik missile for the third time in the conflict marks a significant threshold: the weapon is designed to defeat existing missile defense systems, and its repeated use signals Moscow's willingness to demonstrate capabilities that NATO members' current air-defense arsenals cannot reliably intercept. For Western governments still providing air-defense systems to Ukraine, Russia's warning creates political pressure to respond with further commitments or face public accountability for civilian casualties. The strike on the Starobilsk dormitory also reflects a pattern of both sides targeting facilities with dual civilian-military status, raising unresolved questions of proportionality under international humanitarian law that neither side is willing to adjudicate.</p>
+    <p><a href="https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes">Read original →</a></p>
+  ]]></content>
+  <category term="global_politics"/>
+</entry>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:item:569a2f5976ec350d35d94edb04213b352cee558e</id>
+  <title>[law] EU funds after Orbán: releasing Hungary's frozen billions risks court invalidation as CJEU ruling looms</title>
+  <link href="https://verfassungsblog.de/unfreezing-eu-funds-without-melting-the-rule-of-law/"/>
+  <updated>2026-05-25T12:34:00Z</updated>
+  <author><name>verfassungsblog.de</name></author>
+  <summary>A Verfassungsblog analysis warns the European Commission faces a legal reckoning in releasing frozen EU funds to post-Orbán Hungary before the Court of Justice issues its ruling in Case C-225/24, in which the Advocate-General sided with Parliament in April 2026 in finding that the Commission's unfreezing discretion is far more constrained than Brussels had claimed.</summary>
+  <content type="html"><![CDATA[
+    <p><a href="https://verfassungsblog.de/unfreezing-eu-funds-without-melting-the-rule-of-law/"><strong>📰 Read full article →</strong></a></p>
+    <p><strong>A Verfassungsblog analysis warns the European Commission faces a legal reckoning in releasing frozen EU funds to post-Orbán Hungary before the Court of Justice issues its ruling in Case C-225/24, in which the Advocate-General sided with Parliament in April 2026 in finding that the Commission's unfreezing discretion is far more constrained than Brussels had claimed.</strong></p>
+    <p>Following Péter Magyar's Tisza party victory in Hungary's April 2026 elections, both Budapest and Brussels are eager to release billions in EU cohesion and recovery funds that had been withheld under the Rule of Law Conditionality Regulation due to judicial independence failures under Viktor Orbán. Hungary faces a hard 31 August 2026 deadline to comply with substantive requirements under the Recovery and Resilience Facility before losing access to pandemic-era grants permanently. However, Case C-225/24—brought by the European Parliament against the Commission for a prior partial unfreezing decision—is pending before the CJEU. The Advocate-General issued her Opinion in April 2026, siding substantially with Parliament's argument that the Commission's discretion in releasing funds is more constrained than the executive had claimed, and a judgment could arrive before the August deadline. The Verfassungsblog piece argues that accelerating fund release before judicial review concludes risks having the Commission's decision invalidated retroactively, leaving Hungary with disbursed funds and a legal cloud over their legitimacy while simultaneously weakening the conditionality framework for future cases.</p>
+    <p><strong>Why it matters:</strong> This case sits at the intersection of EU constitutional law, democratic backsliding doctrine, and fiscal politics in a way that will shape the long-term viability of the rule-of-law conditionality toolkit. If the Court of Justice sides with Parliament against the Commission, it would establish a precedent limiting executive discretion in the application of sanctions mechanisms—potentially strengthening Parliamentary oversight but also slowing the EU's ability to rapidly reward genuine democratic reforms. For Hungary, a judicial block could cause Magyar's new government to miss the August RRF deadline, triggering a domestic political crisis precisely when rule-of-law reforms are most fragile and politically contested. More broadly, the case tests whether the EU's institutional architecture can transition smoothly from punitive conditionality to recovery: if rule-of-law sanctions prove too rigid to reward genuine reform, they lose their deterrent and incentive function across the entire bloc, undermining a central pillar of European constitutional governance.</p>
+    <p><a href="https://verfassungsblog.de/unfreezing-eu-funds-without-melting-the-rule-of-law/">Read original →</a></p>
+  ]]></content>
+  <category term="law"/>
+</entry>
+
+<entry>
+  <id>tag:mhsezgin.github.io,2026:item:5223d229f067d498ba7fd612be0ba40bfa0dbf02</id>
+  <title>[tech law] New York DFS warns financial sector: frontier AI has fundamentally changed the cybersecurity threat landscape</title>
+  <link href="https://www.dfs.ny.gov/industry-guidance/industry-letters/20260521-heightened-cybersecurity-risks-assoc-with-frontier-ai-models"/>
+  <updated>2026-05-21T00:00:00Z</updated>
+  <author><name>dfs.ny.gov</name></author>
+  <summary>New York's Department of Financial Services issued an industry letter warning over 3,000 regulated financial entities that frontier AI models have amplified attackers' ability to discover and exploit vulnerabilities at unprecedented speed and scale, implicitly raising the compliance bar for institutions under New York's Part 500 cybersecurity regulation.</summary>
+  <content type="html"><![CDATA[
+    <p><a href="https://www.dfs.ny.gov/industry-guidance/industry-letters/20260521-heightened-cybersecurity-risks-assoc-with-frontier-ai-models"><strong>📰 Read full article →</strong></a></p>
+    <p><strong>New York's Department of Financial Services issued an industry letter warning over 3,000 regulated financial entities that frontier AI models have amplified attackers' ability to discover and exploit vulnerabilities at unprecedented speed and scale, implicitly raising the compliance bar for institutions under New York's Part 500 cybersecurity regulation.</strong></p>
+    <p>DFS Superintendent Adrienne Harris issued the May 21, 2026 guidance to all DFS-licensed and chartered institutions—encompassing banks, insurers, mortgage companies, and other financial licensees—citing concerns that frontier AI tools are narrowing the skill gap required to execute sophisticated cyberattacks. The letter identifies four specific risk categories: expedited vulnerability scanning using AI to identify unpatched firmware, hardware, and software flaws faster than defenders can remediate; AI-assisted code exploitation enabling attackers to analyze binaries and source code to identify security weaknesses in seconds rather than weeks; AI-amplified supply-chain poisoning generating malicious packages at scale; and AI-enabled spear phishing creating convincing, personalized social engineering at volume. The guidance recommends regulated entities reassess vulnerability management procedures to reflect compressed remediation timelines, develop dependency maps for third-party software, restrict and validate inputs before running AI-generated scripts, and reassess whether current logging and monitoring systems can detect AI-assisted intrusion campaigns. The DFS emphasized that these recommendations are consistent with—and not new additions to—existing Part 500 obligations, but the implicit message is that institutions maintaining pre-AI-era remediation windows may now be out of compliance.</p>
+    <p><strong>Why it matters:</strong> New York's Part 500 cybersecurity regulation is the most comprehensive state-level cybersecurity standard in the United States, meaning that DFS guidance effectively sets a de facto national baseline for large financial institutions regardless of federal action. By characterizing frontier AI as a force multiplier for attackers, the DFS implicitly raises the compliance floor: institutions that previously passed examinations with 30-90 day vulnerability remediation windows may now face regulatory scrutiny under an updated risk assessment that compresses those windows. The guidance comes days after the TanStack npm supply chain attack—in which AI-generated obfuscated payloads stole CI/CD secrets from developer environments—and amid ongoing Shai-Hulud worm campaigns, meaning DFS has identified as a threat exactly the attack vectors that have materialized in financial sector supply chains in recent weeks. For AI companies developing frontier models, the guidance signals that regulators are already conceptualizing their products as dual-use threat-amplification tools, a framing that may presage future liability frameworks for AI providers whose models are used to enable cyberattacks on critical infrastructure.</p>
+    <p><a href="https://www.dfs.ny.gov/industry-guidance/industry-letters/20260521-heightened-cybersecurity-risks-assoc-with-frontier-ai-models">Read original →</a></p>
+  ]]></content>
+  <category term="tech_law"/>
+</entry>
 
 <entry>
   <id>tag:mhsezgin.github.io,2026:summary:2026-05-25-1046</id>
@@ -147,7 +273,9 @@
         <p><a href="https://www.scotusblog.com/2026/05/more-opinions-on-the-way/">Read original &#x2192;</a></p>
       ]]></content>
   <category term="law"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:36e13622ee0a7b238c9667baba0e40adefa107e1</id>
   <title>[global politics] Russia fires Oreshnik hypersonic missile and 600 drones at Kyiv in largest overnight assault in over a year, killing at least four</title>
   <link href="https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv"/>
@@ -162,7 +290,9 @@
         <p><a href="https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv">Read original &#x2192;</a></p>
       ]]></content>
   <category term="global_politics"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:dfc57db9718a0ffdf763f76fab7b6c2ac457f4b1</id>
   <title>[global politics] Turkish riot police storm CHP opposition HQ with tear gas, evicting elected leader Ozel after court reinstated Erdogan&apos;s 2023 rival Kilicdaroglu as party chair</title>
   <link href="https://www.nbcnews.com/world/asia/turkish-police-storm-offices-main-opposition-chp-party-firing-tear-gas-rcna346689"/>
@@ -177,7 +307,9 @@
         <p><a href="https://www.nbcnews.com/world/asia/turkish-police-storm-offices-main-opposition-chp-party-firing-tear-gas-rcna346689">Read original &#x2192;</a></p>
       ]]></content>
   <category term="global_politics"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:4ab3961ebe44ed2c5884218d7c72f9dcc4d75344</id>
   <title>[global politics] Trump says Iran deal including Strait of Hormuz reopening is &apos;largely negotiated&apos;; Tehran&apos;s Fars agency disputes the characterization</title>
   <link href="https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated"/>
@@ -192,7 +324,9 @@
         <p><a href="https://www.pbs.org/newshour/world/trump-says-deal-with-iran-including-opening-strait-of-hormuz-is-largely-negotiated">Read original &#x2192;</a></p>
       ]]></content>
   <category term="global_politics"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:40aebbb062dddd486fb1950d3466a989f6f9d4fb</id>
   <title>[tech] Google bets $180 billion in annual capex on AI distribution scale over benchmark supremacy, launching Gemini 3.5 Flash and Gemini Spark at I/O 2026</title>
   <link href="https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war"/>
@@ -207,7 +341,9 @@
         <p><a href="https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war">Read original &#x2192;</a></p>
       ]]></content>
   <category term="tech"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:e3e3f11b5d8d7c1bfeea61a80374e20eae0e1b40</id>
   <title>[law] Empirical analysis of SCOTUS oral arguments finds contested decisions generate 28% more transcript pages and 50% more skeptical questioning than unanimous rulings</title>
   <link href="https://www.scotusblog.com/2026/05/what-oral-argument-behavior-reveals-about-supreme-court-unanimity-and-division/"/>
@@ -222,7 +358,9 @@
         <p><a href="https://www.scotusblog.com/2026/05/what-oral-argument-behavior-reveals-about-supreme-court-unanimity-and-division/">Read original &#x2192;</a></p>
       ]]></content>
   <category term="law"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:f4c96e57c96e34ba4e4ce47bde6c81b5c5f76a90</id>
   <title>[summary] 2026-05-24 10:38</title>
   <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
@@ -233,7 +371,9 @@
     <p>Morning digest for 2026-05-24 10:38 UTC.</p>
   ]]></content>
   <category term="summary"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:1b7f2d9c6e6a3e6c4f99f8f7d2e3b1c0a5d9e8f7</id>
   <title>[law] Supreme Court rules 8-1 in Havana Docks: cruise lines liable under Cuban Liberty Act for trafficking in Helms-Burton confiscated property</title>
   <link href="https://www.scotusblog.com/2026/05/court-rules-against-cruise-lines-in-cuban-confiscation-case/"/>
@@ -248,7 +388,9 @@
         <p><a href="https://www.scotusblog.com/2026/05/court-rules-against-cruise-lines-in-cuban-confiscation-case/">Read original &#x2192;</a></p>
       ]]></content>
   <category term="law"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:9c5e2f1d8b7a3c6e4f0d2b9a1c8e7f5d3b6a4c2</id>
   <title>[law] SCOTUS approaching end of term: birthright citizenship, Trump tariffs, and geofence warrants among remaining blockbusters</title>
   <link href="https://www.cbsnews.com/news/supreme-court-major-cases-2026/"/>
@@ -263,7 +405,9 @@
         <p><a href="https://www.cbsnews.com/news/supreme-court-major-cases-2026/">Read original &#x2192;</a></p>
       ]]></content>
   <category term="law"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:7b3a2c9d1e5f8a4b6c0d3e2f7a9b5c1d4e8f2a6</id>
   <title>[tech_law] Canadian operator of KimWolf DDoS-for-hire botnet arrested in joint US-Canada action, charged with operating infrastructure used in major 2026 attacks</title>
   <link href="https://therecord.media/canadian-man-arrested-charged-running-kimwolf-botnet"/>
@@ -278,7 +422,9 @@
         <p><a href="https://therecord.media/canadian-man-arrested-charged-running-kimwolf-botnet">Read original &#x2192;</a></p>
       ]]></content>
   <category term="tech_law"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:2f244068731d266de45c692c728414a9a572a13e</id>
   <title>[tech] Anthropic and KPMG sign global alliance bringing Claude to KPMG's 270,000-person workforce and enterprise client deployments</title>
   <link href="https://www.anthropic.com/news/anthropic-kpmg"/>
@@ -293,7 +439,9 @@
         <p><a href="https://www.anthropic.com/news/anthropic-kpmg">Read original &#x2192;</a></p>
       ]]></content>
   <category term="tech"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:c15c58e43f4a9b2d7e6f1a3b8c5d2e9f4a7b1c3</id>
   <title>[global politics] US and Iran close to signing 60-day Strait of Hormuz MOU as ceasefire framework takes shape with Pakistan, Saudi, and UAE as guarantors</title>
   <link href="https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear"/>
@@ -308,7 +456,9 @@
         <p><a href="https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear">Read original &#x2192;</a></p>
       ]]></content>
   <category term="global_politics"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:768d69b42286c86b19a817d953db8c2d2ac8a700</id>
   <title>[global politics] Russia fires Oreshnik ballistic missile and 600-drone swarm in second major attack on Kyiv as Iran ceasefire negotiations continue</title>
   <link href="https://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-ukraine"/>
@@ -323,7 +473,9 @@
         <p><a href="https://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-ukraine">Read original &#x2192;</a></p>
       ]]></content>
   <category term="global_politics"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0</id>
   <title>[global politics] BLA suicide bomber kills 24 at Quetta railway station in Pakistan's largest Balochistan attack in years</title>
   <link href="https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people"/>
@@ -338,7 +490,9 @@
         <p><a href="https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people">Read original &#x2192;</a></p>
       ]]></content>
   <category term="global_politics"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0</id>
   <title>[summary] 2026-05-23 18:43</title>
   <link href="https://mhsezgin.github.io/news-feed/feed.xml"/>
@@ -349,7 +503,9 @@
     <p>Evening digest for 2026-05-23 18:43 UTC.</p>
   ]]></content>
   <category term="summary"/>
-</entry><entry>
+</entry>
+
+<entry>
   <id>tag:mhsezgin.github.io,2026:item:5f2e1d3c4b5a6f7e8d9c0b1a2f3e4d5c6b7a8f9</id>
   <title>[law] Federal judge dismisses Abrego Garcia smuggling charges as vindictive prosecution, finding DOJ reopened investigation because courts ordered his return from El Salvador</title>
   <link href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia"/>
@@ -362,21 +518,6 @@
         <p>Abrego Garcia was deported to El Salvador in early 2025 despite a standing immigration court order prohibiting his removal there; the Supreme Court subsequently ordered the executive branch to facilitate his return to the US. When Garcia arrived back in the US, DOJ immediately charged him with two counts of transporting unlawful migrants stemming from a 2022 traffic stop — charges based on an investigation that had previously been closed without prosecution. The Tennessee federal judge found that Acting Attorney General Todd Blanche had himself stated publicly that the investigation was reopened because the judiciary had required Garcia's return, which the court held constituted direct evidence that the prosecution was commenced in retaliation for Garcia's exercise of his constitutional right to judicial review of his deportation. The judge wrote: "Blanche's words directly confirm that the Executive Branch reopened the criminal investigation because the Judicial Branch required the Executive Branch to facilitate Abrego's return from El Salvador." The court characterized the evidence as reflecting "an abuse of prosecuting power" and dismissed all charges. DOJ announced it would appeal the dismissal.</p>
         <p><strong>Why it matters:</strong> The vindictive prosecution doctrine is a narrow constitutional protection, but the judge's finding here is unusually stark: it rests on the Acting Attorney General's own public statements linking the prosecution decision to the judicial order requiring Garcia's return — removing any ambiguity about motive that typically makes vindictive prosecution claims difficult to prove. DOJ's stated intent to appeal means the case will test whether the Fourth Circuit and potentially the Supreme Court will affirm that the executive branch's own public explanations for prosecutorial decisions are admissible evidence of improper motive. More broadly, the case exemplifies the separation-of-powers tensions running through the entire Abrego Garcia saga: the executive deported him in violation of a court order, the judiciary ordered his return, and the executive responded by criminally prosecuting him, which the judiciary is now characterizing as retaliation. If the dismissal is affirmed on appeal, it will establish a clearer precedent that executive branch officials cannot create retroactive criminal liability for individuals who successfully vindicate their rights in court — a principle with implications beyond immigration enforcement to any context where DOJ action follows a judicial victory against the government.</p>
         <p><a href="https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia">Read original &#x2192;</a></p>
-      ]]></content>
-  <category term="law"/>
-</entry><entry>
-  <id>tag:mhsezgin.github.io,2026:item:e8f7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9</id>
-  <title>[law] SCOTUS conference: Daubert expert-testimony gatekeeping case and AEDPA habeas scope will be addressed in remaining term decisions</title>
-  <link href="https://www.scotusblog.com/2026/05/daubert-dust-up-and-aedpa-angst/"/>
-  <updated>2026-05-23T18:43:26Z</updated>
-  <author><name>scotusblog.com</name></author>
-  <summary>The Supreme Court is preparing to address two significant procedural issues in the final weeks of the October 2025 Term: the scope of Daubert expert-witness gatekeeping in federal courts and the reach of AEDPA's restrictions on successive habeas petitions in capital cases.</summary>
-  <content type="html"><![CDATA[
-        <p><a href="https://www.scotusblog.com/2026/05/daubert-dust-up-and-aedpa-angst/"><strong>&#x1F4F0; Read full article &#x2192;</strong></a></p>
-        <p><strong>The Supreme Court is preparing to address two significant procedural issues in the final weeks of the October 2025 Term: the scope of Daubert expert-witness gatekeeping in federal courts and the reach of AEDPA's restrictions on successive habeas petitions in capital cases.</strong></p>
-        <p>The Daubert case before the Court concerns whether district courts have discretion to exclude expert testimony that meets the basic reliability threshold of Daubert v. Merrell Dow Pharmaceuticals (1993) when the testimony would be confusing or misleading to jurors -- a question with significant implications for mass tort litigation where multiple experts offer conflicting methodologies. The AEDPA case concerns whether the Antiterrorism and Effective Death Penalty Act's gatekeeping provisions for successive habeas petitions apply when a petitioner presents newly discovered evidence of actual innocence that was unavailable at the time of the original petition. Both issues have generated circuit splits that have produced divergent outcomes in capital and mass tort cases across federal courts for years. The Court's resolution of these procedural questions will affect thousands of pending cases that depend on the Daubert exclusion standards and the habeas access gateway, and practitioners on both plaintiff and defense sides in major civil litigation have filed extensive amicus briefings. SCOTUSblog notes these cases have attracted less public attention than the constitutional blockbusters remaining on the docket but may have broader practical impact on day-to-day federal litigation.</p>
-        <p><strong>Why it matters:</strong> A ruling restricting Daubert discretion to exclude methodologically sound but potentially confusing expert testimony would significantly affect mass tort litigation -- particularly in cases like Roundup, opioids, and PFAS contamination -- where defense counsel routinely seek to exclude plaintiff experts on methodological grounds even when those experts meet the basic Daubert reliability threshold. For capital defendants, the AEDPA case may determine whether new exculpatory evidence discovered years after conviction can reach federal courts at all -- a question with immediate life-or-death stakes for death row prisoners whose original counsel failed to develop or present what is now credible innocence evidence. The combination of these two procedural cases illustrates how the Court's end-of-term decisions on procedural questions often have larger real-world impact than the headline constitutional cases: Daubert and AEDPA shape what courts can hear and what evidence can be presented in every federal courthouse in the country, regardless of the substantive law at issue.</p>
-        <p><a href="https://www.scotusblog.com/2026/05/daubert-dust-up-and-aedpa-angst/">Read original &#x2192;</a></p>
       ]]></content>
   <category term="law"/>
 </entry>
