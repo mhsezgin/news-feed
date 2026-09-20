@@ -2369,6 +2369,78 @@
       "url": "https://mhsezgin.github.io/news-feed/feed.xml",
       "title_hash": "e1859910e1eca493435968577b4dc0f28499422d",
       "ts": "2026-05-27T20:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-09-20-1030",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml",
+      "title_hash": "682374c2a15c40f802ce13cc98a284ec1485ab7e",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e38eb3ea696cf3f505e819802c513cc0025b4058",
+      "url": "https://www.scotusblog.com/2026/09/what-a-missing-citation-tells-us-about-the-supreme-courts-birthright-citizenship-decision/",
+      "title_hash": "8a490c6018e39e97bb4994e6d20a5a5d313c2823",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:36696f6a6ad7ab6a8ce96616b350020ed6620a7a",
+      "url": "https://www.scotusblog.com/2026/09/trump-blasts-supreme-court-on-social-media/",
+      "title_hash": "8d6698625d0b13a72e1db10dd07f2327817ec00e",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "title_hash": "f6d074e5202f0c6aa8f42416e37a09920259e2fd",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2de2edcf5a10c817567bad608400ebaa8f33803d",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "title_hash": "767c47cdc3f7efdf9272140cf03082ad5ba871b1",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:9595e8c47d81ad2be39fc93352424533c33eb858",
+      "url": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
+      "title_hash": "5f9c470a606a7749593f80e36f9cf30a908119c0",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "title_hash": "8b471c3ab8412e96fc1f63c9ca701c0ca3eeb49c",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3b9d75de16b2b26d335c7c0626c5971d1e0a686f",
+      "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains",
+      "title_hash": "789116bcc6d6e03fc62641e8eaaac628ec8cf64f",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:87a9eed9e3bf7fb6f85b580080da8fd7b0f58491",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
+      "title_hash": "2c5174527ccef4f3536ee57f0a583ccf45bbb222",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:6b844761c1220d264f713540e21cb2d329f2b7b1",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "title_hash": "b5a39bdfa2f4304e8feba43c5de44f7173d46b03",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:e4e796c6e8ad0d1dd73de1cc256f19882ef5ea0f",
+      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "title_hash": "96da7586660e984531ddeca5c3c537435a083c09",
+      "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:3eb6b7527a29e6679f050e76f4611a8d2ff92db6",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "title_hash": "e30632b4a92d4c789f119ae865de6bb04f095bd3",
+      "ts": "2026-09-20T10:30:00Z"
     }
   ]
 }
