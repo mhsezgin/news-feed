@@ -2441,6 +2441,84 @@
       "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
       "title_hash": "e30632b4a92d4c789f119ae865de6bb04f095bd3",
       "ts": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:summary:2026-09-21-1041",
+      "url": "https://mhsezgin.github.io/news-feed/feed.xml#2026-09-21-1041",
+      "title_hash": "e16a39c866ce33c83d8b808140973f015450fa4b",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2fab1312f6e2614f623449c5987a88a70a4028dd",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "title_hash": "202c64377ce619bd37254eaaf8234b4b5c79be87",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:b31d00793aba49c79bbcbf1e3b0501b6316474f0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precaution",
+      "title_hash": "2354b7add3cecdcb9228f85bef92d44fce347a77",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d038b146ea0d2807825f273d203e3f844af74e6f",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo",
+      "title_hash": "27558224fe0f1f2ec1ade58ecefd447df2277010",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:2b529715051032b5ea676a1ffbf5da6ace0509fc",
+      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "title_hash": "b7196b018ff6133191f48976a41b607107746d5c",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:1415ee0bedafd5689ad52bfee84404b323c88d25",
+      "url": "https://www.techdirt.com/2026/09/18/court-tells-imran-ahmed-his-first-amendment-claim-may-be-real-just-not-reviewable/",
+      "title_hash": "27cb1fe6953fbe58624aabb15667550848cbe754",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:935aaa17f41c57328aa6b7f1f5e9305b0d7b5032",
+      "url": "https://verfassungsblog.de/canada-eu-associate-member/",
+      "title_hash": "4150c08ba667bf3bd01ed5cb8b1a0ca85e05bced",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:fbef9683fbad608de6920388c10ccfeaa6dc97c1",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "title_hash": "86b5e9fea06ffe2f17b746f656a35fb425722f27",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:d11b689309b44173f38b4fba33e387ec64b8c8be",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "title_hash": "fb750fec2bca8018e9573170612b108881297e26",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:216df9425bbd3d24122d3fd0b2be2456a518970c",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "title_hash": "d966d1979e9f028a0cddea60dbd2d617fd9d6127",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:6cbadafd84901c4122b4e7abd030fd56f4147955",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o",
+      "title_hash": "5561066c8fb581e8b4e7563b25a2d73406df9138",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:497e3cd9a91c4b9e2a0c5c38f73b045c879813ba",
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o",
+      "title_hash": "e6ad56ffa65a8c6489fb46f549267b08c2e6bf28",
+      "ts": "2026-09-21T10:41:33Z"
+    },
+    {
+      "id": "tag:mhsezgin.github.io,2026:item:36f0770f71563f2cc575c87ff258f6512b423544",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "title_hash": "b15183d079b1f36276fe62d964a5ef7c44ebcaf7",
+      "ts": "2026-09-21T10:41:33Z"
     }
   ]
 }
